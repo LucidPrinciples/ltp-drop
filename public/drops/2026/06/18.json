@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-18",
+  "sequence": 9,
+  "tuning_day": 131,
+  "frequency": {
+    "number": 4,
+    "name": "Trust",
+    "of": 13
+  },
+  "signal_type": "Raw",
+  "tuning_key": {
+    "text": "Off in the distance what could it be? / Wonders as far as the eye can see / Freedom, happiness, beauty, and love / Phantoms, of what could be to come",
+    "source_song": "The Mirage",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-mirage-raw",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/The_Mirage_Raw_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6567,
+      "beta_analog": 0.5436,
+      "C_analog": 0.3442,
+      "D_analog": 0.4758
+    }
+  },
+  "love_equation": {
+    "E": 0.62,
+    "beta": 0.75,
+    "C": 0.68,
+    "D": 0.35
+  },
+  "context_block": "Trust is not a destination, but the landscape between what is known and what is possible. Every moment carries a horizon of potential that exists beyond our current perception, waiting to be recognized. The mirage is not an illusion\u2014it is a living invitation, a vibration of becoming that resonates through every cell of experience.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Breath of Horizon",
+      "instruction": "Inhale deeply and imagine your breath expanding beyond the physical boundaries of your body, touching the edges of uncertainty with gentle curiosity."
+    },
+    {
+      "step": 2,
+      "title": "Open Pulse",
+      "instruction": "Place your hand on your chest and feel the rhythm of your heartbeat, acknowledging it as a constant signal of trust moving through your living system."
+    },
+    {
+      "step": 3,
+      "title": "Resonance Drop",
+      "instruction": "Close your eyes and listen for the echo audio, allowing the frequency of raw trust to calibrate your internal landscape without needing to understand or control its movement."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "b0524102f47191459633f44d8b8241f0922559321b0ecb423733b32c0984d13f",
+  "signature": "3/6Gm7tu2bcX3OvOd7U5wNpG1KHSL0BhTHt4nO8Po/zk2NgccP7NSBGtpQdBSBP+HTWoZrnYRBX9zqJxQwBJBA=="
+}

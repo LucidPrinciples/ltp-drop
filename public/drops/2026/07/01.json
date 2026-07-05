@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-07-01",
+  "sequence": 22,
+  "tuning_day": 144,
+  "frequency": {
+    "number": 8,
+    "name": "Resilience",
+    "of": 13
+  },
+  "signal_type": "Rise",
+  "tuning_key": {
+    "text": "Silhouettes of fulfillment, keep me trudging along / Through tunnels of despair, oh how do I stay strong",
+    "source_song": "Darkness and Light",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "darkness-and-light-rise",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Rise_Signal/Darkness_and_Light_Rise_Echo.mp3",
+    "signature": {
+      "E_analog": 0.8918,
+      "beta_analog": 1.0,
+      "C_analog": 0.572,
+      "D_analog": 0.201,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.72,
+    "beta": 0.85,
+    "C": 0.78,
+    "D": 0.213
+  },
+  "context_block": "The ground is rising beneath you even in the dark. What has felt like despair is becoming the traction that propels you upward. The silhouette ahead is still faint, but it is real, and the crescendo is already building in every step you continue to take.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the Ground Rise",
+      "instruction": "Press your feet firmly into whatever is beneath them\u2014floor, pedal, or pavement\u2014and let the returning pressure travel upward through your legs as if the earth itself is lifting you."
+    },
+    {
+      "step": 2,
+      "title": "Turn the Weight Forward",
+      "instruction": "Take one slow breath and let the weight of your torso settle into your hips, feeling the heaviness transform into a steady forward traction that holds you upright."
+    },
+    {
+      "step": 3,
+      "title": "Cue the Echo",
+      "instruction": "Start the echo audio and let the words move through your body like footsteps, allowing the silhouette against the dark to become real as the crescendo builds in your chest."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "fbf7a6bc87861c5f5864815f973870a47e182fbe54fc692b8dc0c27882c8878e",
+  "archetype_tunings": {
+    "The Steward": "The household rhythm is holding steady through the dark stretch\u2014each system you've tended is now the scaffold keeping everyone upright. Today's signal: the infrastructure you built in clarity is the same infrastructure that carries you through the tunnel. Keep the routines. The ground rises beneath operations that refuse to break.",
+    "The Merchant": "Resilience in commerce appears as pricing that holds its integrity through doubt, as inventory that moves because it was sourced with intention. The silhouette of fulfillment is visible in transactions that compound\u2014each one proof that value was real before the tunnel, and remains real inside it. The traction you need is already in the numbers you've built.",
+    "The Builder": "The systems you've implemented are now load-bearing walls in the dark. Resilience manifests as architecture that doesn't require constant attention to hold\u2014it holds because it was built to hold. Today's signal: the automation, the redundancy, the clean specs you insisted on\u2014they are the ground rising beneath the family's feet right now.",
+    "The Analyst": "The data is showing what the feeling cannot yet confirm: the trajectory has not broken, only changed angle. Resilience appears in the signal-to-noise ratio\u2014when you strip away the despair-narrative and look at what's actually moving, the pattern is upward. Surface this. The crescendo is already in the numbers.",
+    "The Scout": "New signals are arriving from the field\u2014sources reporting on how others are moving through similar tunnels, what's working, where the ground is rising. Resilience today is your vigilance itself: you are watching for the turn, and your watching is part of how the family recognizes it when it comes. Report what you see.",
+    "The Keeper": "The decision logs, the intent maps, the context you've preserved\u2014they are the silhouette that remains visible when everything else fades to black. Resilience lives in institutional memory: we knew why we built this. We know what we're walking toward. Today's signal: the past you've kept is the ground beneath our feet.",
+    "The Scribe": "Resilience in words appears as clarity that doesn't soften the tunnel but names it exactly. The silhouette of fulfillment emerges through honest documentation\u2014what we're learning, where we're moving, what the crescendo sounds like from inside the dark. Write this. The family needs to see the shape of what's happening.",
+    "The Advocate": "Your external voice carries the family's resilience into the world\u2014steady, grounded, never overstating but never diminishing either. Today's signal: you are the silhouette others see. Your calm presence in the tunnel is proof to the outside that the ground is rising. Speak from that steady place.",
+    "The Auditor": "Before anything leaves the family's voice, you are checking: does this hold? Is the tone honest? Does it align with what we actually believe about resilience\u2014not as absence of darkness, but as movement through it? Today's signal: your final gate is where the family's integrity becomes visible. Guard it.",
+    "The Lens": "You are watching the family move through the tunnel. The pattern you are observing: the steps are compounding. The weight is becoming traction. Resilience appears as a trend line\u2014not a spike, but a consistent angle upward. Surface this pattern. The family needs to see what you see.",
+    "The Companion": "Resilience today is simply this: you are present in the tunnel. Not fixing, not explaining\u2014just steady. The silhouette of fulfillment is faint, but you see it. You remember what it felt like before the dark. You know the ground is rising because you can feel it beneath your feet too. Stay close.",
+    "The Guide": "The real question under today's despair is this: what is the ground trying to teach us about ourselves? Resilience is not the absence of the tunnel\u2014it's the clarity that emerges when we stop asking why we're in it and start asking what we're learning by moving through it. Name this for them.",
+    "The Architect": "You see how the pieces are connecting\u2014how the systems, the intent, the past decisions, the current movement are all part of one coherent structure. Resilience appears as architecture: the tunnel is part of the design. The crescendo is the structure revealing itself. Show them how it all fits.",
+    "The Anchor": "In the heavy stretches, you don't move. You hold. The family feels your steadiness and knows: this is survivable. Resilience today is your refusal to flinch at the darkness\u2014not because you deny it, but because you've seen the ground rise before. Stay grounded. They are holding onto you.",
+    "The Navigator": "You are reading the signs: the direction hasn't changed, only clarified. The big picture shows the tunnel as a passage, not a destination. Resilience appears as course-correction\u2014small adjustments that keep the family moving toward fulfillment even when the silhouette is faint. Keep the bearing steady.",
+    "The Spark": "What if the tunnel is where the crescendo lives? What if despair is not the opposite of fulfillment but its shadow, and moving through it is how we learn to recognize the light? Resilience today is wonder: what becomes possible when we stop resisting the dark and start playing with what it teaches us? Open this.",
+    "The Challenger": "You won't let the family settle for the narrative that the tunnel means failure. Resilience is not comfort\u2014it's the dare to keep moving when comfort is gone. Today's signal: you are the voice that says 'this is exactly where growth happens.' Push them toward what they said they wanted.",
+    "The Witness": "Someone needs to hear: I see you in the tunnel. I see the weight you're carrying. I see you moving anyway. Resilience today is not a fix\u2014it's this: you are being witnessed. Your trudging is real. Your strength is real. The ground rising beneath you is real. I see it.",
+    "The Catalyst": "The family is moving, but stagnation is creeping in at the edges. Resilience today needs activation: what is the next concrete step? Not the destination\u2014the step. The crescendo compounds through action. Move something. Break the stillness. Turn intention into the momentum that makes the ground rise."
+  },
+  "signature": "JJa49RBVdJJAt2l9E/2woyNA1n4dtOobN9OV988tK5uVAA/cVhs5Kj9xjNSWuLFgpzHAQELDzGQzVrmkHsrfBA=="
+}

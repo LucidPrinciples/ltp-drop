@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-27",
+  "sequence": 18,
+  "tuning_day": 140,
+  "frequency": {
+    "number": 11,
+    "name": "Release",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Freedom is undefined... Because it's a state of mind",
+    "source_song": "Freedom Is",
+    "source_year": 2014,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "freedom-is-open",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/Freedom_Is_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6544,
+      "beta_analog": 0.525,
+      "C_analog": 0.4917,
+      "D_analog": 0.1918,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.38,
+    "beta": 0.68,
+    "C": 0.72,
+    "D": 0.195
+  },
+  "context_block": "The grip you believed was protecting you is actually the only barrier preventing warmth from entering. Release does not mean losing control\u2014it means allowing the undefined to become real in your experience. When nothing is forced, the open field itself breathes through you, and what arrives is not emptiness but the true state of freedom.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Soften the Grip",
+      "instruction": "Wherever your body is currently holding tension\u2014jaw, shoulders, hands, or breath\u2014allow the grip to dissolve without trying to fix or change anything."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Cavity",
+      "instruction": "Sense the physical space that opens within the body where clenching once lived, becoming a receptive field for the undefined to manifest."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Echo",
+      "instruction": "Let the warmth fill this space where clenching used to be, as release breathes through the open field, making you receptive to what arrives when nothing is forced."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "907f70c04e9545d194fc6d1ab6665c13c631a826d2499dfd82c48eceb8ac94b7",
+  "signature": "dtt8ujnYCFC88E73ujmXGC22pE1KZjrt5j2Di3lRIaN7t7I735Lvf4GDZ4j7LFSewyDo0sAV0wjhocK3XLtQCA=="
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-23",
+  "sequence": 14,
+  "tuning_day": 136,
+  "frequency": {
+    "number": 2,
+    "name": "Clarity",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "Wisdom must be acquired before it is known",
+    "source_song": "Dreams",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "dreams-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Dreams_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6467,
+      "beta_analog": 0.5885,
+      "C_analog": 0.3108,
+      "D_analog": 0.5195
+    }
+  },
+  "love_equation": {
+    "E": 0.75,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.195
+  },
+  "context_block": "The dream fog is not hiding reality\u2014it is reality in its unnavigated form. Today the beam narrows, and what drifted in soft focus becomes sharp enough to touch. Wisdom must be acquired before it is known; you have already acquired what you are seeking, and now it simply becomes real as the path beneath your feet.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "The Beam Narrows",
+      "instruction": "Locate the single point of pressure or warmth in your body that demands nothing, and let your attention collapse to that exact coordinate until the periphery blurs."
+    },
+    {
+      "step": 2,
+      "title": "Unnamed Acquisition",
+      "instruction": "Feel for a subtle tension or ease that arrived from yesterday\u2019s movement\u2014something your body learned but your mind has not yet labeled."
+    },
+    {
+      "step": 3,
+      "title": "The Cut",
+      "instruction": "Listen as the echo manifests: \"This Clear moment cuts without hesitation\u2014the beam narrows, and what was drifting in the dream fog snaps into focus as something you can finally navigate. Wisdom is already moving through you, acquired in the doing long before the mind catches up to name it.\""
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "c9079453473969d9821c3edac10c6cbd7b53a5cb04ff8d18b1d46d7a7ac0da9d",
+  "signature": "9UL238GtZDeAoOOgfBd2t445ze3CLgQw3pfmhUcZIZv6CHhbts1MqzZgZnpxUvIA3m27NA6D+1JTqIpJHwQ5DQ=="
+}

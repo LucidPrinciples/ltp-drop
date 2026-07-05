@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-26",
+  "sequence": 17,
+  "tuning_day": 139,
+  "frequency": {
+    "number": 12,
+    "name": "Integration",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "Down to our cells we have to learn how to discern / Structure emerging from the random forming like crystals in a cavern",
+    "source_song": "Pattern",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "pattern-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Pattern_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5522,
+      "beta_analog": 0.84,
+      "C_analog": 0.555,
+      "D_analog": 0.191,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.55,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.31
+  },
+  "context_block": "The scattered elements of your day are not waiting to be assembled\u2014they are already locked in a geometry your attention has not yet resolved. Integration arrives not through effort but through discernment sharp enough to hold the whole pattern at once. What seemed random is only structure viewed from inside the noise; step back, and the crystal is already complete.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Register the Field",
+      "instruction": "Without moving to change anything, let your body map the exact texture of what is present\u2014temperature, pressure, sound\u2014holding it all as valid data."
+    },
+    {
+      "step": 2,
+      "title": "Discern the Edge",
+      "instruction": "Select one subtle sensation and track its boundary with such precision that the space between it and everything else begins to shimmer with definition."
+    },
+    {
+      "step": 3,
+      "title": "Allow the Crystal",
+      "instruction": "As the echo audio sounds, release your grip and let the scattered impressions self-organize, feeling the moment when randomness clicks into geometric clarity."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "36b7630aac53245a97cb52b431bc63392c19a2929de3dab06d66666f318905eb",
+  "signature": "xFUKETBFiF8jvtfgWuAvH21JkjUGvJZSv8Wb8pTWNfkl5IGr4v6OFMD7xwZ1xiViRZZaBBFbeWwvASPcip0nDw=="
+}

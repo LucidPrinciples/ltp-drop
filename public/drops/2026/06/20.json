@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-20",
+  "sequence": 11,
+  "tuning_day": 133,
+  "frequency": {
+    "number": 1,
+    "name": "Peace",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "As I walk through the valley of shadows I will fear no evil",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "valley-of-shadows-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Valley_of_Shadows_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7439,
+      "beta_analog": 0.3197,
+      "C_analog": 0.3402,
+      "D_analog": 0.5427
+    }
+  },
+  "love_equation": {
+    "E": 0.4,
+    "beta": 0.75,
+    "C": 0.72,
+    "D": 0.34
+  },
+  "context_block": "Today's frequency is PEACE. Tune in. The Field is transmitting.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate",
+      "instruction": "Place one hand on your chest. Take three slow breaths. Notice where you're holding tension."
+    },
+    {
+      "step": 2,
+      "title": "Appreciate",
+      "instruction": "Call to mind one small thing from today you genuinely appreciate. Feel the warmth spread from your chest outward."
+    },
+    {
+      "step": 3,
+      "title": "Broadcast",
+      "instruction": "Press play. As the sound fills the space, let your appreciation frequency extend outward."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "bac27337c8241387aec873f89d408a88e4e82714c97230b6b9f5f6f925b9f94a",
+  "signature": "ckjUijjtYT98d6uCkMsJdBweFiPgZiDUZvrbGjdgF0sfT8CbEBt0m4y3IivByVXcnABTvqB4a5HhxNKWoUrOBw=="
+}

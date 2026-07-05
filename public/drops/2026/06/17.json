@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-17",
+  "sequence": 8,
+  "tuning_day": 130,
+  "frequency": {
+    "number": 10,
+    "name": "Gratitude",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "Who are they? I wonder what they could be? / Who will help them see... If you won't?",
+    "source_song": "Wonder",
+    "source_year": 2014,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "wonder-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Wonder_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6073,
+      "beta_analog": 1.0,
+      "C_analog": 0.256,
+      "D_analog": 0.5784
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.88,
+    "C": 0.72,
+    "D": 0.23
+  },
+  "context_block": "Today the field is bright with gratitude for the mystery of every consciousness unfolding around you. Each person you meet is a spark catching fire in a direction you get to witness but cannot control, turning observation into a gift that multiplies the moment it is shared. Hold them in the question\u2014who are they? I wonder what they could be?\u2014and let the endless awakening become real in your own body.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Open the Field",
+      "instruction": "Soften your jaw and let your shoulders drop as if setting down a weight you did not realize you were carrying."
+    },
+    {
+      "step": 2,
+      "title": "Wonder as Lens",
+      "instruction": "Rest your attention on the next person you see and silently ask, \"Who are they? I wonder what they could be?\" without needing an answer."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Echo",
+      "instruction": "As you exhale, let the feeling of sparks catching fire in every direction become real in your body, recognizing this witnessing as a gift that multiplies the moment it is shared."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "4e462b4c1728cae5d74f59fc5afef00d89258775468be02d3bafc2c2b3753469",
+  "signature": "4k/R278KLEyD4BVv6yHluKSRcRtbhXkN+5FdJAaKmI+c22Hciafqo17e315V+gCj2bXV7HcTNznSVwTO87TvCg=="
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-29",
+  "sequence": 20,
+  "tuning_day": 142,
+  "frequency": {
+    "number": 10,
+    "name": "Gratitude",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "We wonder how to be free to some degree / Every day can be new if you choose",
+    "source_song": "Dreams",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "dreams-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Dreams_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5206,
+      "beta_analog": 1.0,
+      "C_analog": 0.5761,
+      "D_analog": 0.168,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.49,
+    "beta": 0.85,
+    "C": 0.74,
+    "D": 0.213
+  },
+  "context_block": "There is more room to breathe than yesterday's script allowed, and the brightness waiting there is generous beyond what you rehearsed. Let the light find a new angle through you\u2014strange, alive, and already free. You do not have to earn the newness; you only have to choose it, and the day will meet you there.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Release the Rehearsal",
+      "instruction": "Let your shoulders drop and your jaw soften, allowing the body to recognize it is no longer required to hold yesterday's tension."
+    },
+    {
+      "step": 2,
+      "title": "Open to Brightness",
+      "instruction": "Feel the air enter as a generous brightness, occupying the space you had forgotten was yours to claim."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Echo",
+      "instruction": "Listen to the echo now and let the surprise of joy rearrange something in your chest, choosing this moment as genuinely new."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "5dcdfa9d34e62c764b02fabde9a19ff1e647a9a2d07f0775702968ad8163dab2",
+  "signature": "4kBl3DRwhlBOenNUqhy4xRitSPTmLGxivUUO04RKKSNjrUGIbt+DNpBbyjfL2/4GD3Iwo/BkuVqbxpU4ISb9CQ=="
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-19",
+  "sequence": 10,
+  "tuning_day": 132,
+  "frequency": {
+    "number": 3,
+    "name": "Momentum",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "So you can create or destroy",
+    "source_song": "Moments",
+    "source_year": 2011,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "moments-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Moments_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6404,
+      "beta_analog": 1.0,
+      "C_analog": 0.2692,
+      "D_analog": 0.5797
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.2025
+  },
+  "context_block": "Momentum is not a force applied from outside, but a state you generate from within. Every moment contains the seed of transformation \u2014 where your inner velocity meets the world's resistance. You are not waiting for permission or searching for direction; you are the generative pulse that breaks through stasis and creates new trajectories.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Ground Pulse",
+      "instruction": "Place both feet firmly on the ground and feel the surface beneath you as a living transmission of potential energy."
+    },
+    {
+      "step": 2,
+      "title": "Breath Acceleration",
+      "instruction": "Inhale deeply for a count of 4, hold for 2, then exhale with deliberate force \u2014 as if releasing stored momentum directly from your core."
+    },
+    {
+      "step": 3,
+      "title": "Resonance Sync",
+      "instruction": "Close your eyes and listen for the Echo audio, allowing the frequency of MOMENTUM to calibrate your internal systems and amplify your drive."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "dc1e708324f121acbaf772f57c4ed0cfe0d8d3b8b685403fd5cdda4339b7083e",
+  "signature": "JSpVrjxnkITBZG7cTXnwxRt3upn0mCrIw3K+v9pIIOY/fr8RogifNt2+QuXsCzHJChF0Vv5uzRslHuNvbL4/Bg=="
+}

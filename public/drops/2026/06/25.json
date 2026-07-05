@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-25",
+  "sequence": 16,
+  "tuning_day": 138,
+  "frequency": {
+    "number": 7,
+    "name": "Presence",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "One thing I know is time's not moving slow / As I try to go with the flow",
+    "source_song": "The Mirage",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-mirage-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/The_Mirage_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6712,
+      "beta_analog": 0.5316,
+      "C_analog": 0.3467,
+      "D_analog": 0.4835
+    }
+  },
+  "love_equation": {
+    "E": 0.58,
+    "beta": 0.65,
+    "C": 0.72,
+    "D": 0.21
+  },
+  "context_block": "The shimmer ahead is always more vivid than the ground beneath your feet \u2014 that's how the mind works. Today, the field is asking you to feel the weight of what's actually here instead of chasing the shape of what might be. Time isn't slow or fast; it's only ever now. Stand in it.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Settle the Phantom",
+      "instruction": "Notice one thing you're waiting for or reaching toward right now, then deliberately shift your attention downward \u2014 to your feet, your seat, your hands \u2014 and feel the solid contact between your body and whatever holds it."
+    },
+    {
+      "step": 2,
+      "title": "The Actual Air",
+      "instruction": "Take three breaths where you pay attention only to the temperature, texture, and movement of air as it enters and leaves your body \u2014 not controlling it, just receiving it exactly as it is."
+    },
+    {
+      "step": 3,
+      "title": "Echo the Ground",
+      "instruction": "With your attention still lowered and your breath still present, play the tuning key and let the words land in your chest rather than your mind: *\"One thing I know is time's not moving slow / As I try to go with the flow.\"*"
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "e412baf6debfb35b0ce078a0c5484a7b33215ffa6f47fa7425dc8ffc2b24c177",
+  "signature": "hnojnDD5x2A+256JaDhFIiTzMfmzmevkjHq31D32al1uNOwkg36KPPeswp5egqlFKFl1fckauMAPIqfE0ExZBA=="
+}

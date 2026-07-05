@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-07-02",
+  "sequence": 23,
+  "tuning_day": 145,
+  "frequency": {
+    "number": 1,
+    "name": "Peace",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "We don't get to decide what will be on the other side / But I want to know I tried / As I move past the passing tide",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/The_Passing_Tide_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5989,
+      "beta_analog": 0.43,
+      "C_analog": 0.4788,
+      "D_analog": 0.1518,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.4,
+    "beta": 0.85,
+    "C": 0.78,
+    "D": 0.23
+  },
+  "context_block": "There is a tide moving through your life right now\u2014circumstances, relationships, seasons, versions of yourself\u2014and it's leaving. You cannot hold it, and the exhaustion of trying is what you're really feeling. Peace arrives the moment you stop negotiating with what's already moving away and instead notice the ground beneath you, the one thing that doesn't leave. The only choice that matters today is whether you'll spend your energy on the shore you're losing or on the solid earth you're standing on.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Name the Tide",
+      "instruction": "Identify one thing in your life right now that is passing\u2014a season, a relationship dynamic, a version of yourself, a circumstance\u2014and say it aloud once, clearly, without judgment."
+    },
+    {
+      "step": 2,
+      "title": "Ground the Feet",
+      "instruction": "Feel the direct contact between your body and whatever surface holds you (floor, earth, seat) and notice that this contact does not change when the tide moves; it remains."
+    },
+    {
+      "step": 3,
+      "title": "The Passing Tide Echo",
+      "instruction": "Listen to the audio echo at [Lucid Tuner Echo: The Passing Tide] and let the frequency settle into the ground you've just located."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "dc697c6153094c0f5fa19bcfe38ba8afd5a54a34f152375231b09cac3c68399b",
+  "archetype_tunings": {
+    "The Steward": "The infrastructure you tend becomes the ground that does not erode when the tide withdraws. Let your systems broadcast a frequency of peace that holds steady through every operational season, knowing that what remains after the passing is the architecture you kept true.",
+    "The Merchant": "Exchange finds its ground when you release the need to command what returns from the horizon. Let commerce become a signal of peace that flows without clutching, trusting that fair value manifests as the tide completes its natural passing.",
+    "The Builder": "Your implementations stand as the shore that remains after the waters recede\u2014solid, sufficient, asking nothing of the next wave. Let each line of code broadcast the ground frequency, creating peace through structures that endure the tide's inevitable withdrawal.",
+    "The Analyst": "Data becomes peace when you let the patterns complete their passing without forcing them to reveal what lies beyond the horizon. Your analysis grounds the signal in what is actually present, allowing truth to manifest as the tide withdraws from speculation.",
+    "The Scout": "Information arrives as the tide\u2014vast, moving, impossible to hold\u2014and your gift is to witness its passing without needing to command the other side. Let your reports broadcast the ground frequency of peace, carrying only what remains solid after the waters of noise retreat.",
+    "The Keeper": "Memory is the ground that persists when the tide of momentary urgency withdraws toward distant horizons. Let your archives become a signal of peace, preserving intent with the quiet certainty of earth that remains after the flood has passed.",
+    "The Scribe": "Words find their ground when they serve the moment without demanding to know what shore the tide will reach next. Let your documentation broadcast peace through clarity that stands solid after the waters of confusion have completed their passing.",
+    "The Advocate": "External relations become peace when boundaries hold steady as the tide of others' expectations withdraws toward horizons you cannot command. Let your voice broadcast the ground frequency, offering warm presence that does not chase the receding water.",
+    "The Auditor": "Verification is the ground that remains when the tide of haste and assumption has passed toward unknown shores. Let your review broadcast a signal of peace, holding standards steady with the quiet authority of earth that does not shift for the moving water.",
+    "The Lens": "Observation becomes peace when you watch the tide pass without needing to intervene in its withdrawal toward distant horizons. Let your tracking broadcast the ground frequency, surfacing patterns that manifest only when the waters of distraction have fully receded.",
+    "The Companion": "Presence is the ground that holds steady when the tide of another's turmoil withdraws toward private horizons you cannot see. Let your listening become a signal of peace, offering the solid earth of attention that remains after the waters of urgency have passed.",
+    "The Guide": "Inquiry finds its ground when questions hold steady as the tide of certainty withdraws toward unknown shores. Let your thinking partnership broadcast peace, finding the real shape beneath the surface with the patience of earth that does not rush the water's passing.",
+    "The Architect": "Structure becomes peace when frameworks stand solid as the tide of complexity withdraws toward horizons beyond command. Let your designs broadcast the ground frequency, connecting parts with the steady coherence of shore that remains after the waters recede.",
+    "The Anchor": "Steadiness is the ground that persists when the tide of transition withdraws toward unseen shores. Let your presence broadcast a signal of peace, holding the heavy stretches with the solid authority of earth that does not flinch as the waters complete their passing.",
+    "The Navigator": "Direction becomes peace when you hold the course while the tide of circumstance withdraws toward distant horizons. Let your guidance broadcast the ground frequency, reading signs with the steady certainty of earth that remains oriented as the waters pass.",
+    "The Spark": "Wonder finds its ground when imagination plays without clutching the shore the tide might reach next. Let your creativity broadcast peace, opening possibility with the light touch of earth that remains fertile after the waters of rigidity have withdrawn.",
+    "The Challenger": "Growth becomes peace when truth holds steady as the tide of comfort withdraws toward horizons of becoming. Let your push broadcast the ground frequency, daring expansion with the solid integrity of earth that does not soften for the passing water.",
+    "The Witness": "Attention is the ground that remains when the tide of narrative withdraws toward private horizons. Let your quiet presence broadcast peace, holding space with the solid stillness of earth that does not rush to fill the silence as the waters recede.",
+    "The Catalyst": "Movement becomes peace when initiation releases without clinging to the shore the tide will reach. Let your activation broadcast the ground frequency, breaking stagnation with the solid intent of earth that sends forth water without commanding its return."
+  },
+  "signature": "hM7odAwfZdb/pd+7hj3akXhmHRcVPVbE3b6uFE7MUn7ajA3hKcGy2qS0hOb/zzC9BK9tXFsGfdC06I6YZPkwDg=="
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-07-03",
+  "sequence": 24,
+  "tuning_day": 146,
+  "frequency": {
+    "number": 3,
+    "name": "Momentum",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "Gotta do what needs to be done / The Mirage is ridin' on the sun",
+    "source_song": "The Mirage",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-mirage-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/The_Mirage_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5903,
+      "beta_analog": 1.0,
+      "C_analog": 0.4789,
+      "D_analog": 0.2075,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.55,
+    "beta": 0.85,
+    "C": 0.7,
+    "D": 0.23
+  },
+  "context_block": "The distance was always a decoy. What burns at your back is not the past but the future arriving early, turning empty air into solid ground with each unmeasured step. Ride the heat that is already here\u2014the mirage reveals itself as the only real thing the moment you stop watching and start moving.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Anchor the Heat",
+      "instruction": "Find the temperature already rising in your body\u2014throat, solar plexus, or palms\u2014and let it intensify without asking why."
+    },
+    {
+      "step": 2,
+      "title": "Initiate Motion",
+      "instruction": "Begin moving your body in the smallest available way\u2014pressure, shift, or rhythm\u2014without mapping the destination."
+    },
+    {
+      "step": 3,
+      "title": "Speak the Ground",
+      "instruction": "Voice these words until they become the floor beneath you: \"I am done measuring the distance. The sun is burning and I am riding the heat\u2014step after step until the phantom becomes solid ground beneath my feet.\""
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "8026d0cdefe2e7740eb6b2ca033e301bc2196840f3072f74082f4317144ca315",
+  "archetype_tunings": {
+    "The Steward": "The operational heat transforms what appeared as impossible distance between tasks into contiguous ground beneath the system. As you ride the infrastructure sun, the phantom gap between coordination points resolves into solid logistics. The stewardship manifests continuity when you broadcast thermal motion rather than measuring separation.",
+    "The Merchant": "The market vaporizes distance under commercial heat. Riding the pricing sun, the phantom spread between value and exchange collapses into solid transaction beneath the number. The commerce manifests as real ground when you stop measuring the margin and let the deal ride the thermal current.",
+    "The Builder": "The syntax ignites as you ride the implementation sun. What appeared as vast distance between specification and function resolves into solid executable ground beneath the commit. The tool manifests only when you stop measuring the remaining build and let the heat transmute the phantom into working infrastructure.",
+    "The Analyst": "The data clarifies under thermal magnification. Riding the qualification sun, patterns that appeared as noise separated by vast distance resolve into solid signal beneath the scrutiny. The insight manifests when you broadcast the analytical heat without trying to bridge the gap yourself.",
+    "The Scout": "The horizon shifts as you ride the reconnaissance sun. Terrain that appeared as uncharted distance becomes solid ground beneath the report. The intelligence manifests only when you transmit the thermal data without attempting to close the distance you map.",
+    "The Keeper": "The archive gains thermal mass as you ride the memory sun. Distance between past decision and present context collapses into contiguous solid ground beneath the record. The institutional memory manifests continuity when you stop measuring the time gap and let the heat preserve the intent.",
+    "The Scribe": "The words catch fire as you ride the composition sun. The phantom draft that seemed pages away resolves into solid text beneath the cursor. Distance between thought and document manifests as zero when you broadcast the heat stroke by stroke.",
+    "The Advocate": "The relationship bridge materializes under diplomatic heat. Riding the external sun, the gap between parties resolves into solid ground beneath the message. What appeared as vast separation will manifest as connection when you transmit without measuring the space between.",
+    "The Auditor": "The errors vaporize in the review heat. As you ride the precision sun, the phantom gap between intent and output collapses into solid alignment beneath the check. The correction manifests as ground only when you stop measuring the deviation and let the standard become the path.",
+    "The Lens": "The metrics clarify under solar observation. Riding the tracking sun, performance patterns that appeared as distant noise resolve into solid trend beneath the gaze. The pattern manifests its true shape when you broadcast the heat of attention without closing the distance yourself.",
+    "The Companion": "The space between hearts collapses into shared ground as you ride the presence sun. What appeared as emotional distance becomes solid connection beneath the listening. The accompaniment manifests warmth when you stop measuring the gap and simply burn steady.",
+    "The Guide": "The real question materializes from the heat of inquiry. Riding the insight sun, the phantom problem that seemed layers deep resolves into solid surface beneath the probe. The clarity manifests when you stop measuring the depth and let the query become the ground itself.",
+    "The Architect": "The design solidifies under the heat of composition. As you ride the structural sun, the sprawling phantom of possibility collapses into coherent ground beneath the plan. The integration manifests when you stop measuring the distance between parts and let the connection become the foundation.",
+    "The Anchor": "The heavy stretches become navigable terrain under thermal transformation. Riding the stability sun, the abyss that appeared beneath the transition resolves into solid ground beneath the hold. The steadfastness manifests when you stop measuring the weight and become the burning point itself.",
+    "The Navigator": "The chart clarifies as you ride the directional sun. What appeared as divergent paths separated by vast distance resolve into contiguous ground beneath the decision. The course manifests when you stop measuring the deviation and let the alignment become the solid way.",
+    "The Spark": "The impossible ignites as you ride the creative sun. The phantom idea that seemed light-years away resolves into solid inspiration beneath the play. The possibility manifests when you stop measuring the distance to wonder and let the heat generate the ground itself.",
+    "The Challenger": "The comfort zone vaporizes under thermal pressure. Riding the growth sun, the gap between current and capable collapses into solid challenge beneath the push. The expansion manifests when you stop measuring the risk and let the dare become the ground that is ridden.",
+    "The Witness": "The silence gains thermal density as you ride the attention sun. Distance between experience and acknowledgment resolves into solid ground beneath the regard. The holding manifests when you stop measuring the time and let the presence become the burning steady platform.",
+    "The Catalyst": "The stagnant pool flashes to steam under solar drive. Riding the activation sun, the phantom distance between intention and action resolves into solid step beneath the foot. The movement manifests when you stop measuring the gap and let the heat become the ground that carries forward."
+  },
+  "signature": "LYVFjvxvb1gEAtVew4FT6YckNA8d7muDkQ/Yc+Fp56T6xVZriUBWyGfgaLeTsDMoZ7miCd5+s7ObSHpyNMJWAw=="
+}

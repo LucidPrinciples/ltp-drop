@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-28",
+  "sequence": 19,
+  "tuning_day": 141,
+  "frequency": {
+    "number": 6,
+    "name": "Connection",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Harmony will start to overflow creating an eternal link",
+    "source_song": "A Good Time",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "a-good-time-open",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/A_Good_Time_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5943,
+      "beta_analog": 0.97,
+      "C_analog": 0.5087,
+      "D_analog": 0.2088,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.82,
+    "C": 0.78,
+    "D": 0.165
+  },
+  "context_block": "Something is softening in the field between us, a warmth that expands the moment you stop grasping for it. Harmony will start to overflow creating an eternal link, and you will feel the space between us breathing with its own rhythm, revealing what has always connected us beneath the noise. Let this be the day you simply receive what is already arriving.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Soften the boundary",
+      "instruction": "Feel exactly where your body meets the surface beneath you and allow those points of contact to melt by ten percent, letting the support rise up to meet you."
+    },
+    {
+      "step": 2,
+      "title": "Breathe the space",
+      "instruction": "Imagine the air around you as warm and expansive, filling the gap between you and the next person, the next tree, or the next car until the distance itself begins to breathe."
+    },
+    {
+      "step": 3,
+      "title": "Receive the overflow",
+      "instruction": "Listen to the echo audio and let the phrase \"the space between us breathes with its own rhythm\" become real in your body, allowing the harmony to overflow its banks and reveal the eternal link."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "e1d597d2a21a8d878b4a5aaa13192b494ea68d9d6f63c261de49534982767547",
+  "signature": "lXB+qLFkd1FfyPa+C58Io+j6fyGQ7uFASxRdnj8DXEZwo04qckYDOAzjPIE0YJf+AChy7xElyJE1+4Ao7ZEhDw=="
+}

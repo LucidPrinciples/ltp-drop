@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-21",
+  "sequence": 12,
+  "tuning_day": 134,
+  "frequency": {
+    "number": 5,
+    "name": "Joy",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "We arrive as a spark of light with a story yet to write",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/The_Passing_Tide_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.4784,
+      "beta_analog": 0.969,
+      "C_analog": 0.2343,
+      "D_analog": 0.5103
+    }
+  },
+  "love_equation": {
+    "E": 0.65,
+    "beta": 0.9,
+    "C": 0.75,
+    "D": 0.215
+  },
+  "context_block": "The light you carry arrived before your story did \u2014 and that's not a problem to solve, it's the opening itself. Right now, in this exact not-knowing, you have permission to move without the weight of already-written endings, to let what wants to emerge do so without your approval first. Joy isn't waiting for you to get it right; it's already sparking in the blank pages, in the chambers of possibility that open the moment you stop insisting the story should already make sense.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Arrival Breath",
+      "instruction": "Inhale for four counts while noticing one thing around you that you haven't named yet \u2014 a texture, a light, a sound \u2014 and exhale while releasing any story about what it means."
+    },
+    {
+      "step": 2,
+      "title": "Blank Page Pause",
+      "instruction": "Stop moving for thirty seconds and place your hand on your chest; feel the aliveness there without asking it to become anything, without writing over it with purpose or plan."
+    },
+    {
+      "step": 3,
+      "title": "The Sparking Listen",
+      "instruction": "Return to your breath and play the echo audio at normal speed, letting the frequency move through you as permission rather than instruction \u2014 the light finds its own corners."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "97dd1c272030f498248a82ebe02850f6385be1eebbe8ae867e05e14beb2c3467",
+  "signature": "4n57jlmzbk50jxYxP14riaZM1qAf/QH4Yi0B7/sxNjEIhcr5AnX5ba+SjcNOMuz3YercMFbWp6cKSJJjfm+MBQ=="
+}

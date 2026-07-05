@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-24",
+  "sequence": 15,
+  "tuning_day": 137,
+  "frequency": {
+    "number": 9,
+    "name": "Courage",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "Peering into the divide, praying it will provide / Answers to assist us on this ride",
+    "source_song": "Dreams",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "dreams-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Dreams_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5575,
+      "beta_analog": 1.0,
+      "C_analog": 0.3234,
+      "D_analog": 0.4199
+    }
+  },
+  "love_equation": {
+    "E": 0.67,
+    "beta": 0.88,
+    "C": 0.74,
+    "D": 0.2475
+  },
+  "context_block": "The divide you're standing at isn't a problem to solve\u2014it's momentum asking you to move. Courage isn't the absence of uncertainty; it's the body's refusal to wait for permission from a mind that will never have all the answers. Today, the frequency is simple: the next step is already here. Take it.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Ground the Drive",
+      "instruction": "Feel your feet (or seat, or hands) make contact with what holds you, and notice the subtle pressure\u2014this is the earth already supporting the movement you're about to make."
+    },
+    {
+      "step": 2,
+      "title": "Name the Divide",
+      "instruction": "Speak aloud one thing you've been hesitating about, and as you speak it, let your breath continue steady and full\u2014the words move through you, not into a void."
+    },
+    {
+      "step": 3,
+      "title": "Step Into the Frequency",
+      "instruction": "Take three deliberate steps (or three full breaths if stationary), feeling the rhythm of your own momentum, and play the echo audio\u2014let the frequency anchor what your body already knows."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "490eab2bf45a2fa2185d0d3833b54a39f836faaba5271a34d15b785c211f86bf",
+  "signature": "3h7ioQRct5GbwKrpk/OWAJ29yqO0LRYOf6nInAn23ti3RazYhmIafzCz2nuaUhN3IgfLKKSlE/tPm5aINR/CCQ=="
+}

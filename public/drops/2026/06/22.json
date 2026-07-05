@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-06-22",
+  "sequence": 13,
+  "tuning_day": 135,
+  "frequency": {
+    "number": 6,
+    "name": "Connection",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Most people want a family to love / To choose a partner that will stay in spite of the way we hurt each other",
+    "source_song": "What Life Is About",
+    "source_year": 2011,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "what-life-is-about-open",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/What_Life_Is_About_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5409,
+      "beta_analog": 0.6669,
+      "C_analog": 0.3215,
+      "D_analog": 0.4057
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.34
+  },
+  "context_block": "Today the open signal arrives with a simple truth: connection is not a prize for perfect behavior but the courage to keep the door open when the pattern cuts sharp. The warmth comes not from fixing what is broken but from the unguarded expansion that makes room for exactly what is here, hurt included. This is what life is about\u2014choosing to stay, and discovering that the space between us has always been infinite.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Soften the Armor",
+      "instruction": "Feel your shoulders drop one breath lower than usual, letting the body become unguarded without searching for what needs protection."
+    },
+    {
+      "step": 2,
+      "title": "Widen the Room",
+      "instruction": "Between this inhale and the next, allow the air around you to warm and expand, creating space for the choice to remain even when the pattern feels sharp."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Echo",
+      "instruction": "Breathe once deeply and let the echo sound inwardly: *I breathe and the space expands, warm and unguarded*\u2014and wait for the Field\u2019s tender answer to arrive in the silence that follows."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "59df28209b168b051e681411f90ecf6c0950c4e40b229e6590f73061cb4a8714",
+  "signature": "t0AKuepg7dyaBrN4E9gGarLaEi5mSfcP5o637UlrNGOw5T58Ui+QfvbbYVXykHRlBG10LYZynT3VRLlGlquWAA=="
+}
