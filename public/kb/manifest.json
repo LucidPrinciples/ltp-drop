@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0",
+  "kb_version": "ce098e988f9d328675e571a74187653b20965f4f11a8d73b37f1f5717e723ea3",
+  "published_at": "2026-06-21T13:57:45Z",
+  "publisher": "Lucid Principles \u2014 Knowledge Base",
+  "file_count": 20,
+  "files": [
+    {
+      "path": "agent-tunings.md",
+      "sha256": "3c47e9715ea7c1b88957fc22df69a024e55fdcd0d70d2a129223b2946b1db4df",
+      "bytes": 29435
+    },
+    {
+      "path": "boot-tuning-research.md",
+      "sha256": "8cdaab2be26bcd05fcfd580b3dcd28e332f4d3db16979089ae9249d074260cb0",
+      "bytes": 7840
+    },
+    {
+      "path": "canon-contextual-keys.md",
+      "sha256": "f13a906c421b6d758a1712c41331852672709d5b1cddc22b8f4bdfcace76cf3e",
+      "bytes": 14152
+    },
+    {
+      "path": "digital-extension.md",
+      "sha256": "ad3d3777f06c4e5492a8a0e4a77ce4b8b4234a9af26468f7f3c599c76c9c31d8",
+      "bytes": 19982
+    },
+    {
+      "path": "digital-practice-templates.md",
+      "sha256": "03b0dfc7e2acfa7d9f9194b3164f06075ce43d69847d5ae43856ebe6f0203504",
+      "bytes": 9679
+    },
+    {
+      "path": "echo-audio-signatures.md",
+      "sha256": "d4ed459dcca10e7126e13de4bc9db56c65d077bc855961e02b7cb2dee07df83b",
+      "bytes": 11224
+    },
+    {
+      "path": "field-coach.md",
+      "sha256": "cec687386fb8ca90e4062d2b0c207fe2efd86748c4b8fc37cedac3dcd6544b13",
+      "bytes": 11524
+    },
+    {
+      "path": "joulework-reference.md",
+      "sha256": "01d1b1dd07b2c3d8854f392b38a2b73914cb4d6186b17116a98cb9bb1623521d",
+      "bytes": 2417
+    },
+    {
+      "path": "love-equation-cross-substrate.md",
+      "sha256": "e75c4e2ed8d458f5560d71d93ca6dd95744c17dc8ff89dd64612e800b4e5540b",
+      "bytes": 23573
+    },
+    {
+      "path": "lp-color-system.md",
+      "sha256": "1b4b4d7d5410781848bca70c7949951d9e06ee6b7a48c98a8530977260816d2b",
+      "bytes": 21020
+    },
+    {
+      "path": "ltp-protocol-spec.md",
+      "sha256": "e2a3f59bc12b255bd850d51e5bca7f49bbfc893fb37ab140eed589b0c1d64d71",
+      "bytes": 13709
+    },
+    {
+      "path": "lucid-canon.md",
+      "sha256": "b11766dd5940df7685e52c44da718b0bbbcf22a58c886dde464f7bcc44ea4296",
+      "bytes": 34229
+    },
+    {
+      "path": "lucid-field-theory.md",
+      "sha256": "35a11b9b1c3c2db152fd76f0f3fcb797257757c2d201259e4cc79ca284d10456",
+      "bytes": 45295
+    },
+    {
+      "path": "manifesto.md",
+      "sha256": "95decd66a6e9c4ea5b52320232fd0dc885769622ac17f2d08c8674f454ea037f",
+      "bytes": 9508
+    },
+    {
+      "path": "one-field-architecture.md",
+      "sha256": "0c499a67e64d9b336a26c0255ef333b29d8a42eb3177470216e6da47c3ecbef3",
+      "bytes": 11136
+    },
+    {
+      "path": "practice-templates.md",
+      "sha256": "1b61a615ddf141e9930940c6f1ab757d39c6a85de93d8ff42c0eb462f3262ca1",
+      "bytes": 5534
+    },
+    {
+      "path": "signal-delivery-architecture.md",
+      "sha256": "aa0493f3e3a18496448551f773d00fb4432cc2dd320674d93dcc8f175a577818",
+      "bytes": 16876
+    },
+    {
+      "path": "sycophancy-nash-equilibrium.md",
+      "sha256": "41fb95762af37e8eeb0d3e78564f3bebf12d88c6548e90f84f09e00fc8e3938d",
+      "bytes": 35182
+    },
+    {
+      "path": "tuning-keys.md",
+      "sha256": "2307bcaf0c395c3759d3d0a8e4673e0e45024711a7ed4624970b8eb8e5567b72",
+      "bytes": 24764
+    },
+    {
+      "path": "tuning-process-template.md",
+      "sha256": "00ac910ff730192e037546e2503e93ba48450965c87c30a4cd77699a8353c204",
+      "bytes": 2927
+    }
+  ],
+  "signature": "fnzhySjjvBA4j0bCXzPnMGyW58XlWScr6qPyzY0Bwb3FgcpN6jsuSej4S7NcsMdTqd1TvrGWtStlhq2QQDMbBg=="
+}
