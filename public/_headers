@@ -1,0 +1,12 @@
+# Cloudflare Pages cache rules.
+# latest.json changes every morning — never serve it stale.
+# Archive drops are immutable — cache forever (SPEC Section 3).
+
+/latest.json
+  Cache-Control: no-store
+
+/drops/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/keys/*
+  Cache-Control: public, max-age=86400

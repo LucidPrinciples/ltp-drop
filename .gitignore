@@ -1,0 +1,26 @@
+# Private signing key — lives on VPS only, never committed
+tools/ltp-publisher.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (if tooling uses it)
+node_modules/

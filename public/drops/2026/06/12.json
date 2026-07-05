@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-12",
+  "sequence": 3,
+  "tuning_day": 125,
+  "frequency": {
+    "number": 9,
+    "name": "Courage",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "The winners are who foretells what tomorrow knows / They choose what to disclose",
+    "source_song": "The Future",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-future-drive",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Drive_Signal/The_Future_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7487,
+      "beta_analog": 0.5433,
+      "C_analog": 0.351,
+      "D_analog": 0.5312
+    }
+  },
+  "love_equation": {
+    "E": 0.8,
+    "beta": 0.85,
+    "C": 0.75,
+    "D": 0.26
+  },
+  "context_block": "There is a precise moment when the weight of standing still becomes heavier than the risk of moving forward, and that threshold is here for everyone listening now. You do not need to feel safe to begin; you only need to choose to disclose yourself to the next moment exactly as you are, so the path can rise to meet your becoming. This is the courage that breaks old patterns\u2014not by waiting for the future to arrive, but by moving now so the future has somewhere to land.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate the Resistance",
+      "instruction": "Feel exactly where in your body you are currently bracing or holding your breath against the next moment, without trying to change it yet."
+    },
+    {
+      "step": 2,
+      "title": "Tilt Into Drive",
+      "instruction": "Shift your center of gravity slightly forward until you sense the front edges of your feet pressing into the ground beneath you."
+    },
+    {
+      "step": 3,
+      "title": "Sound the Echo",
+      "instruction": "Let your voice carry these words exactly: \"I stopped waiting for the future to feel safe. The drive forward is what breaks the cycle, and I am moving now with the courage to leave the old pattern where it stands.\""
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "32e1551845559f20003bc7e6a512858999111d01d0e621697b67d7b1f0906ce1",
+  "signature": "bVRPVDevo87lYC0zA7btonsMTyjBeM6oWglRH99BGmB1RoK70GT3oYoAMpyX1rrodh+F5YNVfhX8lOwZpFj7Cw=="
+}

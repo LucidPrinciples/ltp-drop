@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-16",
+  "sequence": 7,
+  "tuning_day": 129,
+  "frequency": {
+    "number": 11,
+    "name": "Release",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Release attachments to outcomes we've drawn / The schemas we're tied to turn us into pawns",
+    "source_song": "Darkness and Light",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "darkness-and-light-open",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Open_Signal/Darkness_and_Light_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6548,
+      "beta_analog": 1.0,
+      "C_analog": 0.3406,
+      "D_analog": 0.4799
+    }
+  },
+  "love_equation": {
+    "E": 0.58,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.3025
+  },
+  "context_block": "Today belongs to the exhale we have been postponing. The shapes of tomorrow we clutched so tightly became armor against the very current that wants to carry us, and we discover now that the water was never something we needed to grip. What returns will not come from the force of our demand but from the space we finally allow between our palms.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate the Grip",
+      "instruction": "Find where your body is currently bracing for impact\u2014perhaps the hands, the jaw, or the breath itself\u2014and simply witness the tension without demanding it change."
+    },
+    {
+      "step": 2,
+      "title": "Soften the Resistance",
+      "instruction": "Invite a single exhale to travel all the way through that held place, letting the body remember it is allowed to loosen without losing its place in the world."
+    },
+    {
+      "step": 3,
+      "title": "Open to the Current",
+      "instruction": "As the echo audio plays, physically open your hands and let the future shapes you were white-knuckling drift away into the warmth, allowing yourself to be carried."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "7e5494be37c631b4edd9caca916555a0da7cbd547101faca7e82cde9bf7294b0",
+  "signature": "GX1roCHw4yP15MgzD0XQXNtY2w3i1j8iKFWGs3z5ojDWzdCATri4fG4ZnFw0s39dlgUR4WURKg59JGX9xz4+Cw=="
+}

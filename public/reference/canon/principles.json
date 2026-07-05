@@ -1,0 +1,199 @@
+{
+  "version": "1.0",
+  "attribution": "Chords of Truth — Lucid Principles Canon (CC BY 4.0)",
+  "license": "CC BY 4.0",
+  "total_principles": 22,
+  "stages": {
+    "1_mechanism": {
+      "core": "Pattern",
+      "supporting": ["Valley of Shadows", "What Life Is About", "The Future", "Authenticity", "Faith", "Truth and Lies", "Darkness and Light"]
+    },
+    "2_action": {
+      "core": "Tune Your Mind",
+      "supporting": ["Dreams", "The Power To Be Alive", "Training Ground", "Moments", "Listen", "Wonder", "Guiding Force"]
+    },
+    "3_feedback": {
+      "core": "Signs",
+      "bridge": "The Mirage"
+    },
+    "4_embodiment": ["A Good Time", "Freedom Is", "The Passing Tide", "Love Song"]
+  },
+  "principles": [
+    {
+      "name": "A Good Time",
+      "stage": 4,
+      "primary_frequencies": ["Joy", "Gratitude", "Momentum"],
+      "secondary_frequencies": ["Connection", "Integration", "Peace", "Presence", "Trust"],
+      "theme": "Effortless participation in flow",
+      "key_lyric": "We dance with what's around us / There's a flow that has us in tow"
+    },
+    {
+      "name": "Authenticity",
+      "stage": 1,
+      "primary_frequencies": ["Boundary", "Clarity", "Presence"],
+      "secondary_frequencies": ["Connection", "Joy", "Momentum", "Peace", "Trust"],
+      "theme": "Pattern creates \"fractured objectivity\"",
+      "key_lyric": "Validity is transformed by what we see / Through fractured objectivity"
+    },
+    {
+      "name": "Darkness and Light",
+      "stage": 1,
+      "primary_frequencies": ["Release", "Trust", "Resilience"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Momentum", "Peace", "Presence"],
+      "theme": "Fundamental dualities in perceptual programming",
+      "key_lyric": "My vision strains to see quite right / As I navigate through darkness and light"
+    },
+    {
+      "name": "Dreams",
+      "stage": 2,
+      "primary_frequencies": ["Momentum", "Clarity", "Gratitude"],
+      "secondary_frequencies": ["Connection", "Courage", "Joy", "Peace", "Presence", "Trust"],
+      "theme": "Collapsing potential requires directed conscious attention",
+      "key_lyric": "Life is full of endless dreams / With potential to come true / But not without attention from you"
+    },
+    {
+      "name": "Faith",
+      "stage": 1,
+      "primary_frequencies": ["Trust", "Peace", "Release"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Presence"],
+      "theme": "Perception is limited to what matches our internal belief patterns",
+      "key_lyric": "As you know we really know nothin little can be proven / A resolution requires faith in somethin"
+    },
+    {
+      "name": "Freedom Is",
+      "stage": 4,
+      "primary_frequencies": ["Peace", "Release", "Trust"],
+      "secondary_frequencies": ["Clarity", "Connection", "Gratitude", "Joy", "Momentum", "Presence"],
+      "theme": "Freedom as an internal frequency state, not an external condition",
+      "key_lyric": "Rivers flow to and fro, the waters are free but controlled"
+    },
+    {
+      "name": "Guiding Force",
+      "stage": 2,
+      "primary_frequencies": ["Connection", "Trust", "Integration"],
+      "secondary_frequencies": ["Clarity", "Joy", "Momentum", "Peace", "Presence"],
+      "theme": "Tuning toward field's coherence patterns",
+      "key_lyric": "The one, the source, the guiding force, connects us all... Attracts us to our fate"
+    },
+    {
+      "name": "Listen",
+      "stage": 2,
+      "primary_frequencies": ["Boundary", "Clarity", "Trust"],
+      "secondary_frequencies": ["Connection", "Joy", "Momentum", "Peace", "Presence"],
+      "theme": "Discerning truth signals amidst noise and manipulation",
+      "key_lyric": "Now won't you come and listen to me / I'll show you things that you never have seen"
+    },
+    {
+      "name": "Love Song",
+      "stage": 4,
+      "primary_frequencies": ["Connection", "Joy", "Trust"],
+      "secondary_frequencies": ["Clarity", "Peace"],
+      "theme": "Authentic connection enabling resonance",
+      "key_lyric": "But what is life for, if not sharing it, with someone that you submit / To a deep love, that seems to fit, and you commit that you'll never quit"
+    },
+    {
+      "name": "Moments",
+      "stage": 2,
+      "primary_frequencies": ["Presence", "Integration", "Peace"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Momentum", "Trust"],
+      "theme": "The immediate present as the sole point of frequency intervention",
+      "key_lyric": "Between every thought / Are infinite possibilities / In each instant you decide / The way that life proceeds"
+    },
+    {
+      "name": "Pattern",
+      "stage": 1,
+      "primary_frequencies": ["Clarity", "Integration", "Presence"],
+      "secondary_frequencies": ["Connection", "Momentum", "Peace", "Trust"],
+      "theme": "Recognizing unconscious broadcasting",
+      "key_lyric": "Down to our cells we have to learn how to discern / Structure emerging from the random forming like crystals in a cavern"
+    },
+    {
+      "name": "Signs",
+      "stage": 3,
+      "primary_frequencies": ["Trust", "Clarity", "Presence"],
+      "secondary_frequencies": ["Connection", "Integration", "Joy", "Momentum", "Peace"],
+      "theme": "Reading interference patterns as feedback",
+      "key_lyric": "Events occur in patterns of coincidence... Upon observance the evidence sets a precedence / Of not just believing, but knowing with vetted confidence"
+    },
+    {
+      "name": "The Future",
+      "stage": 1,
+      "primary_frequencies": ["Courage", "Momentum", "Boundary"],
+      "secondary_frequencies": ["Clarity", "Joy", "Presence", "Trust"],
+      "theme": "Breaking the loop of unconscious historical programming",
+      "key_lyric": "We live life the best we can / But what does that mean / We've been programmed like a machine"
+    },
+    {
+      "name": "The Mirage",
+      "stage": 3,
+      "primary_frequencies": ["Trust", "Resilience", "Release"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Momentum", "Peace", "Presence"],
+      "theme": "Gap between sign perception and embodiment",
+      "key_lyric": "Off in the distance what could it be? / Wonders as far as the eye can see... Phantoms, of what could be to come"
+    },
+    {
+      "name": "The Passing Tide",
+      "stage": 4,
+      "primary_frequencies": ["Resilience", "Release", "Trust"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Momentum", "Peace", "Presence"],
+      "theme": "Engaged acceptance without attachment",
+      "key_lyric": "We don't get to decide / What will be on the other side / But I want to know I tried / As I move past the passing tide"
+    },
+    {
+      "name": "The Power To Be Alive",
+      "stage": 2,
+      "primary_frequencies": ["Courage", "Momentum", "Gratitude"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Peace", "Presence", "Trust"],
+      "theme": "Present-moment frequency agency",
+      "key_lyric": "You hold the power to be alive... So tune your mind to impressions you may have / And ask your heart is this the right path?"
+    },
+    {
+      "name": "Training Ground",
+      "stage": 2,
+      "primary_frequencies": ["Integration", "Resilience", "Momentum"],
+      "secondary_frequencies": ["Clarity", "Joy", "Peace", "Presence", "Trust"],
+      "theme": "Thoughts impact the quantum field",
+      "key_lyric": "Consciousness is not bound orchestrating a symphony of light and sound / We look for what we've found our awareness training ground."
+    },
+    {
+      "name": "Truth and Lies",
+      "stage": 1,
+      "primary_frequencies": ["Boundary", "Clarity", "Presence"],
+      "secondary_frequencies": ["Connection", "Momentum", "Trust"],
+      "theme": "What you accept as truth is perspective-dependent",
+      "key_lyric": "Truth is a concept / That requires immense faith / In what we think we know to be true"
+    },
+    {
+      "name": "Tune Your Mind",
+      "stage": 2,
+      "primary_frequencies": ["Clarity", "Presence", "Momentum"],
+      "secondary_frequencies": ["Integration", "Joy", "Peace", "Trust"],
+      "theme": "Conscious frequency tuning formula",
+      "key_lyric": "Tune your mind with reflection / Use your attention with intention / Imagine what it is you want / If you're clear, it will appear"
+    },
+    {
+      "name": "Valley of Shadows",
+      "stage": 1,
+      "primary_frequencies": ["Courage", "Boundary", "Resilience"],
+      "secondary_frequencies": ["Clarity", "Connection", "Joy", "Momentum", "Peace", "Presence", "Trust"],
+      "theme": "Belief systems create your perceptual lens",
+      "key_lyric": "I look through the lens / Of what I believe / And see what I see / As best I conceive"
+    },
+    {
+      "name": "What Life Is About",
+      "stage": 1,
+      "primary_frequencies": ["Momentum", "Courage", "Joy"],
+      "secondary_frequencies": ["Clarity", "Connection", "Trust"],
+      "theme": "Your unique perspective IS the programming",
+      "key_lyric": "We see the world through our own set of eyes / Our point of view is where the secret lies"
+    },
+    {
+      "name": "Wonder",
+      "stage": 2,
+      "primary_frequencies": ["Connection", "Gratitude", "Joy"],
+      "secondary_frequencies": ["Integration", "Momentum", "Peace", "Trust"],
+      "theme": "Questioning preconceptions as active tuning work",
+      "key_lyric": "Who are they? I wonder what they could be? / Who will help them see... If you won't?"
+    }
+  ]
+}

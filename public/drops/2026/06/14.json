@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-14",
+  "sequence": 5,
+  "tuning_day": 127,
+  "frequency": {
+    "number": 5,
+    "name": "Joy",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "Let your Self go and feel how to grow / Let your heart keep you in sync",
+    "source_song": "A Good Time",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "a-good-time-bright",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Bright_Signal/A_Good_Time_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6486,
+      "beta_analog": 1.0,
+      "C_analog": 0.3149,
+      "D_analog": 0.5144
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.92,
+    "C": 0.78,
+    "D": 0.25
+  },
+  "context_block": "Joy is not a state you achieve\u2014it is the field that appears when you stop measuring your own becoming. Today, let the uneven pulses of your attention become the rhythm itself; variance is not error, but the celebration. What feels broken in your pattern is actually the bright opening.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Drop the Measure",
+      "instruction": "Soften your jaw and shoulders without arranging them into a posture, letting the body find its own uneven rhythm."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Burst",
+      "instruction": "Locate warmth or lightness in your chest and allow it to spread outward in playful, unmeasured pulses."
+    },
+    {
+      "step": 3,
+      "title": "Sound the Key",
+      "instruction": "Speak aloud to cue the echo: \"Let your Self go and feel how to grow / Let your heart keep you in sync.\""
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "62656707442c49306cf228b6f40f0565f47508667d8463b63cd3ac0a89fca40b",
+  "signature": "42IQc4V9/YUOBfE0nYLYsPVxm+pNU0SvlSJELhokafAIZnDmp/lrIlU+cDBcNQROW2LU7/Z3kHpsw49R1LHqCA=="
+}

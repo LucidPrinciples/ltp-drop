@@ -1,0 +1,1252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Today's Tuning - Lucid Principles</title>
+<meta name="description" content="Today's tuning drop from the Lucid Tuner. Load the page, press play, do the practice.">
+<meta property="og:title" content="Today's Tuning - Lucid Principles">
+<meta property="og:description" content="Daily tuning drop from the Lucid Tuner Protocol. One frequency, one signal, one practice.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://drop.lucidprinciples.com">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #0f1117;
+  --card: #1a1d28;
+  --card2: #22252f;
+  --border: #2a2d3a;
+  --text: #e0e0e6;
+  --dim: #8a8d9a;
+  --freq: #5ce1e6;
+  --freq-glow: rgba(92,225,230,0.45);
+  --freq-subtle: rgba(92,225,230,0.04);
+  --freq-border: rgba(92,225,230,0.25);
+  --signal-border: rgba(92,225,230,0.12);
+  --signal-subtle: rgba(92,225,230,0.02);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--freq); text-decoration: none; }
+a:hover { opacity: 0.8; }
+
+/* ── Layout ── */
+.drop-wrap {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 1rem 6rem;
+}
+
+/* ── Header ── */
+.drop-header {
+  text-align: center;
+  padding: 2.5rem 1rem 0.5rem;
+}
+.drop-brand {
+  font-size: 0.55rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--dim);
+  margin-bottom: 0.5rem;
+}
+.drop-tuning-day {
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  color: var(--dim);
+  margin-bottom: 1.5rem;
+  font-weight: 500;
+}
+.drop-date {
+  font-size: 0.7rem;
+  color: var(--dim);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+.drop-alignment {
+  font-size: 0.8rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+.drop-principle {
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.15rem;
+}
+.drop-signal {
+  font-size: 0.75rem;
+  color: var(--dim);
+  font-weight: 400;
+  margin-bottom: 0.25rem;
+}
+
+/* ── Cards ── */
+.ot-card {
+  background: var(--card);
+  border: 1px solid var(--signal-border);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  transition: border-color 0.3s;
+  box-shadow: 0 2px 8px var(--signal-subtle);
+}
+.ot-card.ot-key {
+  border: 2px solid var(--freq-border);
+  border-left: 4px solid var(--freq);
+  background: var(--freq-subtle);
+  padding: 1.5rem;
+  margin-top: 0.5rem;
+}
+.ot-card.ot-eq {
+  background: transparent;
+  border: 1px solid var(--signal-border);
+  opacity: 0.8;
+  margin-top: 1rem;
+}
+.ot-label {
+  font-size: 0.6rem;
+  color: var(--dim);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+.ot-text {
+  font-size: 0.85rem;
+  color: var(--text);
+  line-height: 1.7;
+  white-space: pre-wrap;
+}
+.ot-text.italic {
+  font-style: italic;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.9;
+}
+
+/* ── Practice Steps ── */
+.ot-practice { margin-bottom: 1.25rem; }
+.ot-practice-label {
+  margin-bottom: 10px;
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.ot-practice-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.ot-step {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  transition: border-color 0.3s;
+}
+.ot-step:hover { border-color: var(--freq); }
+.ot-step-num {
+  width: 28px;
+  height: 28px;
+  min-width: 28px;
+  border-radius: 50%;
+  background: var(--freq);
+  color: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 700;
+  margin-top: 2px;
+}
+.ot-step-body { flex: 1; }
+.ot-step-title {
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.ot-step-text {
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--dim);
+}
+
+/* ── Stream Label ── */
+.ot-stream-label {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 0.75rem;
+  margin-top: 0.75rem;
+  color: var(--dim);
+}
+
+/* ── Love Equation ── */
+.ot-eq-bar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 0.75rem;
+}
+.ot-eq-val { font-weight: 600; }
+.ot-eq-detail { color: var(--dim); font-size: 0.7rem; }
+
+/* ── Player ── */
+.ot-player-wrap { margin-bottom: 1.25rem; }
+.ot-player {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+.ot-cover-img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.ot-track-title {
+  text-align: center;
+  font-size: 0.8rem;
+  margin-bottom: 0.25rem;
+}
+.ot-track-signal {
+  text-align: center;
+  font-size: 0.65rem;
+  color: var(--dim);
+  margin-bottom: 1rem;
+}
+.ot-progress-wrap {
+  width: 100%;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+}
+.ot-progress-bar {
+  height: 100%;
+  background: var(--freq);
+  border-radius: 2px;
+  width: 0%;
+  transition: width 0.3s linear;
+}
+.ot-time {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.6rem;
+  color: var(--dim);
+  margin-bottom: 1rem;
+}
+.ot-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.ot-btn {
+  background: none;
+  border: none;
+  color: var(--dim);
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.5rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+}
+.ot-btn:hover { color: var(--text); background: var(--card2); }
+.ot-btn.ot-play {
+  width: 56px;
+  height: 56px;
+  font-size: 1.5rem;
+  color: var(--freq);
+  border: 2px solid var(--freq);
+}
+.ot-btn.ot-play:hover { background: rgba(255,255,255,0.06); }
+.ot-volume {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+.ot-volume label { font-size: 0.65rem; color: var(--dim); }
+.ot-volume input[type="range"] {
+  width: 120px;
+  accent-color: var(--freq);
+  height: 28px;
+  cursor: pointer;
+}
+
+/* ── Playlist ── */
+.ot-playlist {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.ot-playlist-header {
+  padding: 0.75rem 1rem;
+  font-size: 0.65rem;
+  color: var(--dim);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ot-playlist-toggle {
+  background: none;
+  border: none;
+  color: var(--dim);
+  cursor: pointer;
+  font-size: 0.7rem;
+}
+.ot-playlist-toggle:hover { color: var(--text); }
+.ot-playlist-tracks {
+  max-height: 300px;
+  overflow-y: auto;
+}
+.ot-pl-track {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  font-size: 0.75rem;
+  color: var(--dim);
+  cursor: pointer;
+  border-bottom: 1px solid rgba(42,45,58,0.4);
+}
+.ot-pl-track:last-child { border-bottom: none; }
+.ot-pl-track:hover { background: var(--card2); color: var(--text); }
+.ot-pl-track.active { color: var(--freq); background: var(--freq-subtle); }
+.ot-pl-num {
+  opacity: 0.5;
+  width: 24px;
+  text-align: right;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+.ot-pl-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ── History Section ── */
+.history-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.history-title {
+  font-size: 0.65rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--dim);
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.history-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 0.75rem 1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s;
+}
+.history-item:hover {
+  border-color: var(--dim);
+  background: var(--card2);
+}
+.history-dot {
+  width: 10px;
+  height: 10px;
+  min-width: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.history-info { flex: 1; min-width: 0; }
+.history-principle {
+  font-size: 0.82rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.history-meta {
+  font-size: 0.68rem;
+  color: var(--dim);
+}
+.history-arrow {
+  color: var(--dim);
+  font-size: 0.75rem;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.history-empty {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--dim);
+  padding: 1rem;
+  opacity: 0.6;
+}
+
+/* ── Modal ── */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.85);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1rem;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.modal-content {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  max-width: 640px;
+  width: 100%;
+  margin: 2rem auto;
+  position: relative;
+  padding: 0 1rem 2rem;
+}
+.modal-close {
+  position: sticky;
+  top: 0;
+  float: right;
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--dim);
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 4px 12px;
+  border-radius: 0 12px 0 8px;
+  z-index: 10;
+  line-height: 1;
+}
+.modal-close:hover { color: var(--text); border-color: var(--dim); }
+
+/* ── Footer ── */
+.drop-footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-size: 0.65rem;
+  color: var(--dim);
+  opacity: 0.6;
+}
+.drop-footer a { color: var(--dim); }
+.drop-footer a:hover { color: var(--text); }
+
+/* ── Loading ── */
+.drop-loading {
+  text-align: center;
+  padding: 4rem 1rem;
+  color: var(--dim);
+  font-size: 0.85rem;
+}
+.drop-loading .spinner {
+  width: 32px; height: 32px;
+  border: 2px solid var(--border);
+  border-top-color: var(--freq);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin: 0 auto 1rem;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Error ── */
+.drop-error {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #ff6b5c;
+  font-size: 0.85rem;
+}
+</style>
+</head>
+<body>
+
+<div class="drop-wrap">
+  <!-- Loading state -->
+  <div id="dropLoading" class="drop-loading">
+    <div class="spinner"></div>
+    Loading today's tuning...
+  </div>
+
+  <!-- Error state -->
+  <div id="dropError" class="drop-error" style="display:none;"></div>
+
+  <!-- Main content (hidden until loaded) -->
+  <div id="dropContent" style="display:none;">
+
+    <!-- Header -->
+    <div class="drop-header">
+      <div class="drop-brand">Lucid Tuner Protocol</div>
+      <div class="drop-tuning-day" id="dropTuningDay"></div>
+      <div class="drop-date" id="dropDate"></div>
+      <div class="drop-alignment" id="dropAlignment"></div>
+      <div class="drop-principle" id="dropPrinciple"></div>
+      <div class="drop-signal" id="dropSignal"></div>
+    </div>
+
+    <!-- Coaching -->
+    <div class="ot-card" id="coachBlock">
+      <div class="ot-label" id="coachLabel">Coaching</div>
+      <div class="ot-text" id="coachText"></div>
+    </div>
+
+    <!-- Practice Steps -->
+    <div class="ot-practice" id="practiceBlock" style="display:none;">
+      <div class="ot-practice-label" id="practiceLabel">Practice</div>
+      <div class="ot-practice-steps" id="practiceSteps"></div>
+    </div>
+
+    <!-- Tuning Key -->
+    <div class="ot-card ot-key" id="keyBlock">
+      <div class="ot-label" id="keyLabel">Tuning Key</div>
+      <div class="ot-text italic" id="keyText"></div>
+    </div>
+
+    <!-- Stream Label -->
+    <div class="ot-stream-label" id="streamLabel"></div>
+
+    <!-- Player Mount -->
+    <div id="playerMount"></div>
+
+    <!-- Love Equation -->
+    <div class="ot-card ot-eq" id="eqBar">
+      <div class="ot-label">Love Equation</div>
+      <div class="ot-eq-bar">
+        <span class="ot-eq-val" id="eqVal"></span>
+        <span class="ot-eq-detail" id="eqDetail"></span>
+      </div>
+    </div>
+
+    <!-- History Section -->
+    <div class="history-section" id="historySection" style="display:none;">
+      <div class="history-title">Recent Tunings</div>
+      <div class="history-list" id="historyList"></div>
+    </div>
+
+    <!-- Footer -->
+    <div class="drop-footer">
+      <div>Drop #<span id="dropSeq"></span></div>
+      <div style="margin-top:0.35rem;">
+        <a href="https://lucidprinciples.com" target="_blank">Lucid Principles</a>
+        &nbsp;&middot;&nbsp;
+        <a href="https://github.com/LucidPrinciples/ltp-drop" target="_blank">Open Source</a>
+      </div>
+      <div style="margin-top:0.35rem;">Chords of Truth &mdash; Lucid Principles Canon (CC BY 4.0)</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- History Modal -->
+<div class="modal-overlay" id="historyModal" style="display:none;" onclick="if(event.target===this)closeHistory();">
+  <div class="modal-content">
+    <button class="modal-close" onclick="closeHistory()">&times;</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script>
+// =============================================================================
+// Drop Page — Self-Contained Audio Engine + Renderer + History
+// Replicates cove-core tuning-panel.js patterns for public drop page.
+// =============================================================================
+
+const AUDIO_BASE = 'https://audio.lucidtuner.com/Lucid_Tuner';
+const PLAYLIST_CDN = 'https://audio.lucidtuner.com/playlists';
+
+// LT's first consecutive tuning — used to compute tuning day number
+const LT_START_DATE = new Date('2026-02-08T00:00:00');
+
+const PRINCIPLES = [
+  'A Good Time','Authenticity','Darkness and Light','Dreams','Faith',
+  'Freedom Is','Guiding Force','Listen','Love Song','Moments',
+  'Pattern','Signs','The Future','The Mirage','The Passing Tide',
+  'The Power To Be Alive','Training Ground','Truth and Lies',
+  'Tune Your Mind','Valley of Shadows','What Life Is About','Wonder'
+];
+
+const FREQ_COLORS = {
+  PEACE:'#5ce1e6', CLARITY:'#a0ebff', MOMENTUM:'#ff6b5c', TRUST:'#b8c6db',
+  JOY:'#ffd700', CONNECTION:'#e0b0ff', PRESENCE:'#7b7394',
+  RESILIENCE:'#d2691e', COURAGE:'#ff8c00', GRATITUDE:'#e8b830', RELEASE:'#9370db',
+  INTEGRATION:'#20b2aa', BOUNDARY:'#4682b4'
+};
+
+const FREQ_GLOWS = {
+  PEACE:'rgba(92,225,230,0.45)', CLARITY:'rgba(160,235,255,0.45)',
+  MOMENTUM:'rgba(255,107,92,0.45)', TRUST:'rgba(184,198,219,0.45)',
+  JOY:'rgba(255,215,0,0.45)', CONNECTION:'rgba(224,176,255,0.45)',
+  PRESENCE:'rgba(123,115,148,0.45)', RESILIENCE:'rgba(210,105,30,0.45)',
+  COURAGE:'rgba(255,140,0,0.45)', GRATITUDE:'rgba(232,184,48,0.45)',
+  RELEASE:'rgba(147,112,219,0.45)', INTEGRATION:'rgba(32,178,170,0.45)',
+  BOUNDARY:'rgba(70,130,180,0.45)'
+};
+
+
+// ── State ──
+let audio = null;
+let tracks = [];
+let trackIndex = 0;
+let isPlaying = false;
+let progressInterval = null;
+let consecutiveErrors = 0;
+let freqColor = '#5ce1e6';
+let freqGlow = 'rgba(92,225,230,0.45)';
+let currentDrop = null;
+
+
+// ── Helpers ──
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+function hexToRgb(hex) {
+  if (!hex || hex.charAt(0) !== '#') return '92,225,230';
+  hex = hex.replace('#', '');
+  if (hex.length === 3) hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+  return parseInt(hex.substring(0,2),16) + ',' + parseInt(hex.substring(2,4),16) + ',' + parseInt(hex.substring(4,6),16);
+}
+
+function signalToFolder(s) {
+  if (!s) return 'Raw_Signal';
+  s = s.trim();
+  if (s.endsWith('_Signal')) return s;
+  const bare = s.charAt(0).toUpperCase() + s.slice(1).toLowerCase();
+  const valid = ['Ground','Clear','Open','Rise','Raw','Bright','Drive'];
+  if (valid.includes(bare)) return bare + '_Signal';
+  return 'Raw_Signal';
+}
+
+function slugify(t) { return t.trim().replace(/-/g, '_').replace(/\s+/g, '_'); }
+
+function buildTracks(folder) {
+  const token = folder.replace(/_Signal$/, '');
+  const display = token.replace(/_/g, ' ');
+  return PRINCIPLES.map(p => ({
+    title: p + ' (' + display + ' Signal Echo)',
+    filename: slugify(p) + '_' + token + '_Echo.mp3',
+    folder: folder,
+    principle: p,
+  }));
+}
+
+function getAudioUrl(t) { return AUDIO_BASE + '/' + t.folder + '/' + t.filename; }
+function getCoverUrl(folder) { return AUDIO_BASE + '/' + folder + '/Cover.png'; }
+function fmtTime(s) { if (!s||isNaN(s)) return '0:00'; const m=Math.floor(s/60),ss=Math.floor(s%60); return m+':'+(ss<10?'0':'')+ss; }
+
+function formatDropDate(dateStr) {
+  const d = new Date(dateStr + 'T12:00:00');
+  return d.toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
+}
+
+function formatShortDate(dateStr) {
+  const d = new Date(dateStr + 'T12:00:00');
+  return d.toLocaleDateString('en-US', { month:'long', day:'numeric', year:'numeric' });
+}
+
+function ordinal(n) {
+  const s = ['th','st','nd','rd'];
+  const v = n % 100;
+  return n + (s[(v - 20) % 10] || s[v] || s[0]);
+}
+
+function getTuningDay(dateStr) {
+  // If the drop has tuning_day, use it. Otherwise compute from LT's start date.
+  const d = new Date(dateStr + 'T12:00:00');
+  const diff = Math.floor((d - LT_START_DATE) / 86400000) + 1;
+  return diff > 0 ? diff : null;
+}
+
+function getFreqColor(drop) {
+  const freq = (drop.frequency?.name || '').toUpperCase();
+  return FREQ_COLORS[freq] || '#5ce1e6';
+}
+
+
+// =============================================================================
+// RENDER DROP DATA (works for both main page and modal)
+// =============================================================================
+
+function renderDropInto(drop, container, isModal) {
+  const freq = (drop.frequency?.name || '').toUpperCase();
+  const fc = FREQ_COLORS[freq] || '#5ce1e6';
+  const fg = FREQ_GLOWS[freq] || 'rgba(92,225,230,0.45)';
+  const rgb = hexToRgb(fc);
+
+  if (!isModal) {
+    // Set CSS custom properties on main page
+    freqColor = fc;
+    freqGlow = fg;
+    document.documentElement.style.setProperty('--freq', fc);
+    document.documentElement.style.setProperty('--freq-glow', fg);
+    document.documentElement.style.setProperty('--freq-subtle', 'rgba(' + rgb + ',0.04)');
+    document.documentElement.style.setProperty('--freq-border', 'rgba(' + rgb + ',0.25)');
+    document.documentElement.style.setProperty('--signal-border', 'rgba(' + rgb + ',0.12)');
+    document.documentElement.style.setProperty('--signal-subtle', 'rgba(' + rgb + ',0.02)');
+  }
+
+  // Build tuning day — use drop field if present, else compute from start date
+  const tuningDay = drop.tuning_day || getTuningDay(drop.drop_date);
+  const principle = drop.tuning_key?.source_song || '';
+  const signalType = drop.signal_type || '';
+  const coaching = drop.context_block || '';
+  const practice = drop.practice || [];
+  const keyText = drop.tuning_key?.text || '';
+  const le = drop.love_equation || {};
+
+  // Build HTML
+  let html = '';
+
+  // Header
+  html += '<div class="drop-header">';
+  if (!isModal) html += '<div class="drop-brand">Lucid Tuner Protocol</div>';
+  if (tuningDay) {
+    html += '<div class="drop-tuning-day" style="color:' + fc + '80;">LT\'s ' + ordinal(tuningDay) + ' Consecutive Tuning</div>';
+  }
+  html += '<div class="drop-date" style="color:' + fc + 'aa;">' + esc(formatDropDate(drop.drop_date)) + '</div>';
+  html += '<div class="drop-alignment" style="color:' + fc + ';">' + esc(freq + ' ALIGNMENT') + '</div>';
+  html += '<div class="drop-principle" style="color:' + fc + ';text-shadow:0 0 30px ' + fg + ';">' + esc(principle) + '</div>';
+  html += '<div class="drop-signal">' + esc(signalType + ' Signal') + '</div>';
+  html += '</div>';
+
+  // Coaching
+  if (coaching) {
+    html += '<div class="ot-card" style="border-color:rgba(' + rgb + ',0.12);box-shadow:0 2px 8px rgba(' + rgb + ',0.02);">';
+    html += '<div class="ot-label">Coaching</div>';
+    html += '<div class="ot-text">' + esc(coaching) + '</div>';
+    html += '</div>';
+  }
+
+  // Practice
+  if (practice.length > 0) {
+    html += '<div class="ot-practice">';
+    html += '<div class="ot-practice-label" style="color:' + fc + ';">Practice</div>';
+    html += '<div class="ot-practice-steps">';
+    practice.forEach(function(step, i) {
+      html += '<div class="ot-step">';
+      html += '<div class="ot-step-num" style="background:' + fc + ';color:#0f1117;">' + (i + 1) + '</div>';
+      html += '<div class="ot-step-body">';
+      html += '<div class="ot-step-title" style="color:' + fc + ';">' + esc(step.title || '') + '</div>';
+      html += '<div class="ot-step-text">' + esc(step.instruction || '') + '</div>';
+      html += '</div></div>';
+    });
+    html += '</div></div>';
+  }
+
+  // Tuning key
+  if (keyText) {
+    html += '<div class="ot-card ot-key" style="border-color:rgba(' + rgb + ',0.25);border-left:4px solid ' + fc + ';background:rgba(' + rgb + ',0.04);">';
+    html += '<div class="ot-label" style="color:' + fc + ';">Tuning Key</div>';
+    html += '<div class="ot-text italic">' + esc(keyText) + '</div>';
+    html += '</div>';
+  }
+
+  // Stream label
+  const streamName = freq ? freq.charAt(0) + freq.slice(1).toLowerCase() + ' Tuning Stream' : 'Tuning Stream';
+  html += '<div class="ot-stream-label">&#9654; PRESS PLAY TO ACTIVATE YOUR';
+  html += '<div style="font-size:1rem;font-weight:700;letter-spacing:0.1em;margin-top:6px;color:' + fc + ';">' + esc(streamName) + '</div>';
+  html += '</div>';
+
+  // Player mount
+  const playerId = isModal ? 'modalPlayerMount' : 'playerMount';
+  html += '<div id="' + playerId + '"></div>';
+
+  // Love equation
+  if (le.E != null) {
+    const dEdt = (le.beta || 0) * ((le.C || 0) - (le.D || 0)) * (le.E || 0);
+    const direction = dEdt >= 0 ? 'CONSTRUCTIVE' : 'DECONSTRUCTIVE';
+    const parts = [];
+    if (le.beta != null) parts.push('β=' + Number(le.beta).toFixed(2));
+    if (le.E != null) parts.push('E=' + Number(le.E).toFixed(2));
+    if (le.C != null) parts.push('C=' + Number(le.C).toFixed(2));
+    if (le.D != null) parts.push('D=' + Number(le.D).toFixed(2));
+
+    html += '<div class="ot-card ot-eq" style="border-color:' + fc + '40;border-left:3px solid ' + fc + ';">';
+    html += '<div class="ot-label" style="color:' + fc + ';">Love Equation</div>';
+    html += '<div class="ot-eq-bar">';
+    html += '<span class="ot-eq-val" style="color:' + fc + ';">dE/dt = ' + dEdt.toFixed(4) + ' (' + direction + ')</span>';
+    html += '<span class="ot-eq-detail">' + esc(parts.join('  ')) + '</span>';
+    html += '</div></div>';
+  }
+
+  container.innerHTML = html;
+}
+
+
+// =============================================================================
+// RENDER MAIN PAGE (uses renderDropInto + adds non-modal elements)
+// =============================================================================
+
+function renderMainPage(drop) {
+  const contentEl = document.getElementById('dropContent');
+
+  // Render tuning content into a temp wrapper
+  const mainContent = document.createElement('div');
+  renderDropInto(drop, mainContent, false);
+
+  // Build the full page: tuning content + history + footer
+  let fullHTML = mainContent.innerHTML;
+
+  // History section placeholder
+  fullHTML += '<div class="history-section" id="historySection" style="display:none;">';
+  fullHTML += '<div class="history-title">Recent Tunings</div>';
+  fullHTML += '<div class="history-list" id="historyList"></div>';
+  fullHTML += '</div>';
+
+  // Footer
+  fullHTML += '<div class="drop-footer">';
+  fullHTML += '<div>Drop #' + (drop.sequence || '?') + '</div>';
+  fullHTML += '<div style="margin-top:0.35rem;">';
+  fullHTML += '<a href="https://lucidprinciples.com" target="_blank">Lucid Principles</a>';
+  fullHTML += ' &middot; ';
+  fullHTML += '<a href="https://github.com/LucidPrinciples/ltp-drop" target="_blank">Open Source</a>';
+  fullHTML += '</div>';
+  fullHTML += '<div style="margin-top:0.35rem;">Chords of Truth &mdash; Lucid Principles Canon (CC BY 4.0)</div>';
+  fullHTML += '</div>';
+
+  contentEl.innerHTML = fullHTML;
+}
+
+
+// =============================================================================
+// PLAYER TEMPLATE
+// =============================================================================
+
+function renderPlayerInto(mountId) {
+  const el = document.getElementById(mountId);
+  if (!el) return;
+  el.innerHTML =
+    '<div class="ot-player-wrap">' +
+      '<div class="ot-player">' +
+        '<img class="ot-cover-img" src="" alt="" style="display:none;">' +
+        '<div class="ot-track-title">Loading audio...</div>' +
+        '<div class="ot-track-signal"></div>' +
+        '<div class="ot-progress-wrap">' +
+          '<div class="ot-progress-bar"></div>' +
+        '</div>' +
+        '<div class="ot-time">' +
+          '<span class="ot-time-el">0:00</span>' +
+          '<span class="ot-time-dur">0:00</span>' +
+        '</div>' +
+        '<div class="ot-controls">' +
+          '<button class="ot-btn" onclick="prevTrack()" title="Previous">' +
+            '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/></svg>' +
+          '</button>' +
+          '<button class="ot-btn ot-play" onclick="togglePlay()" title="Play">' +
+            '<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" class="ot-play-icon"><polygon points="5,3 19,12 5,21"/></svg>' +
+          '</button>' +
+          '<button class="ot-btn" onclick="nextTrack()" title="Next">' +
+            '<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>' +
+          '</button>' +
+        '</div>' +
+        '<div class="ot-volume">' +
+          '<label>Vol</label>' +
+          '<input type="range" min="0" max="100" value="30" oninput="setVolume(this.value)" style="accent-color:' + freqColor + ';">' +
+        '</div>' +
+      '</div>' +
+      '<div class="ot-playlist">' +
+        '<div class="ot-playlist-header">' +
+          '<span class="ot-playlist-label">Playlist</span>' +
+          '<button class="ot-playlist-toggle" onclick="togglePlaylist()">Hide</button>' +
+        '</div>' +
+        '<div class="ot-playlist-tracks"></div>' +
+      '</div>' +
+    '</div>';
+
+  // Wire seek
+  const wrap = el.querySelector('.ot-progress-wrap');
+  if (wrap) {
+    wrap.addEventListener('click', function(e) {
+      if (!audio || !audio.duration) return;
+      const rect = e.currentTarget.getBoundingClientRect();
+      const pct = (e.clientX - rect.left) / rect.width;
+      audio.currentTime = pct * audio.duration;
+      updateProgress();
+    });
+  }
+}
+
+
+// =============================================================================
+// AUDIO ENGINE (shared single Audio element)
+// =============================================================================
+
+function ensureAudio() {
+  if (audio) return;
+  audio = new Audio();
+  audio.crossOrigin = 'anonymous';
+  audio.preload = 'auto';
+  audio.volume = 0.3;
+
+  audio.addEventListener('loadedmetadata', function() {
+    document.querySelectorAll('.ot-time-dur').forEach(function(el) { el.textContent = fmtTime(audio.duration); });
+  });
+  audio.addEventListener('ended', function() { nextTrack(); });
+  audio.addEventListener('play', function() {
+    isPlaying = true;
+    consecutiveErrors = 0;
+    updateIcons();
+    startProgress();
+    updateMediaSession();
+  });
+  audio.addEventListener('pause', function() {
+    isPlaying = false;
+    updateIcons();
+    stopProgress();
+  });
+  audio.addEventListener('error', function() {
+    consecutiveErrors++;
+    if (consecutiveErrors >= 3) { consecutiveErrors = 0; return; }
+    setTimeout(function() { nextTrack(); }, 1500);
+  });
+}
+
+async function initPlayer(drop, mountId) {
+  const signalFolder = signalToFolder(drop.signal_type);
+  const freq = (drop.frequency?.name || '').toLowerCase();
+  const principle = drop.tuning_key?.source_song || '';
+  const fc = FREQ_COLORS[(drop.frequency?.name || '').toUpperCase()] || '#5ce1e6';
+
+  // Try frequency playlist from CDN
+  let loaded = false;
+  if (freq) {
+    try {
+      const res = await fetch(PLAYLIST_CDN + '/' + freq + '.json');
+      if (res.ok) {
+        const playlist = await res.json();
+        if (Array.isArray(playlist) && playlist.length > 0) {
+          tracks = playlist.map(function(t) {
+            const filename = t.filename || t.file || '';
+            const folder = t.folder || t.signal_type || signalFolder;
+            const p = t.principle || t.title || filename.replace(/_/g, ' ').replace(/\.mp3$/, '');
+            const signalDisplay = folder.replace(/_Signal$/, '').replace(/_/g, ' ');
+            return { title: p + ' (' + signalDisplay + ' Signal Echo)', filename: filename, folder: folder, principle: p };
+          });
+          loaded = true;
+        }
+      }
+    } catch (e) {
+      console.warn('Frequency playlist not available, using signal-type fallback:', e.message);
+    }
+  }
+  if (!loaded) tracks = buildTracks(signalFolder);
+
+  // Shuffle
+  for (let i = tracks.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [tracks[i], tracks[j]] = [tracks[j], tracks[i]];
+  }
+
+  // Move today's principle to index 0
+  if (principle) {
+    const idx = tracks.findIndex(function(t) { return t.principle.toLowerCase() === principle.toLowerCase(); });
+    if (idx > 0) {
+      const m = tracks.splice(idx, 1)[0];
+      tracks.unshift(m);
+    }
+  }
+
+  ensureAudio();
+
+  // Render player
+  renderPlayerInto(mountId);
+  colorPlayer(fc);
+
+  // Load first track (don't autoplay)
+  loadTrack(0, false);
+  renderPlaylist();
+
+  // Playlist label
+  const streamName = freq ? freq.charAt(0).toUpperCase() + freq.slice(1) + ' Tuning Stream' : signalFolder.replace(/_/g, ' ');
+  document.querySelectorAll('.ot-playlist-label').forEach(function(el) {
+    el.textContent = streamName + ' (' + tracks.length + ' tracks)';
+    el.style.color = fc;
+  });
+}
+
+
+function loadTrack(index, autoplay) {
+  if (index < 0 || index >= tracks.length) return;
+  trackIndex = index;
+  const track = tracks[index];
+  const url = getAudioUrl(track);
+  const coverUrl = getCoverUrl(track.folder);
+
+  audio.src = url;
+
+  // Cover
+  document.querySelectorAll('.ot-cover-img').forEach(function(el) {
+    el.src = coverUrl;
+    el.alt = track.folder.replace(/_/g, ' ');
+    el.style.display = 'block';
+    el.onerror = function() { this.style.display = 'none'; };
+  });
+
+  // Track info
+  document.querySelectorAll('.ot-track-title').forEach(function(el) { el.textContent = track.title; });
+  const signalDisplay = track.folder.replace(/_Signal$/, '').replace(/_/g, ' ');
+  document.querySelectorAll('.ot-track-signal').forEach(function(el) { el.textContent = signalDisplay + ' Signal'; });
+
+  // Reset progress
+  document.querySelectorAll('.ot-progress-bar').forEach(function(el) { el.style.width = '0%'; });
+  document.querySelectorAll('.ot-time-el').forEach(function(el) { el.textContent = '0:00'; });
+  document.querySelectorAll('.ot-time-dur').forEach(function(el) { el.textContent = '0:00'; });
+
+  renderPlaylist();
+
+  if (autoplay) {
+    consecutiveErrors = 0;
+    audio.play().catch(function() {});
+  }
+}
+
+function togglePlay() {
+  if (!audio) return;
+  if (audio.paused) { consecutiveErrors = 0; audio.play().catch(function() {}); }
+  else audio.pause();
+}
+function nextTrack() { loadTrack((trackIndex + 1) % tracks.length, true); }
+function prevTrack() {
+  if (audio && audio.currentTime > 3) { audio.currentTime = 0; return; }
+  loadTrack((trackIndex - 1 + tracks.length) % tracks.length, true);
+}
+function setVolume(val) { if (audio) audio.volume = val / 100; }
+
+function updateIcons() {
+  document.querySelectorAll('.ot-play-icon').forEach(function(icon) {
+    if (isPlaying) icon.innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
+    else icon.innerHTML = '<polygon points="5,3 19,12 5,21"/>';
+  });
+}
+function startProgress() { stopProgress(); progressInterval = setInterval(updateProgress, 250); }
+function stopProgress() { if (progressInterval) { clearInterval(progressInterval); progressInterval = null; } }
+function updateProgress() {
+  if (!audio || !audio.duration) return;
+  const pct = (audio.currentTime / audio.duration) * 100;
+  document.querySelectorAll('.ot-progress-bar').forEach(function(el) { el.style.width = pct + '%'; });
+  document.querySelectorAll('.ot-time-el').forEach(function(el) { el.textContent = fmtTime(audio.currentTime); });
+}
+
+function renderPlaylist() {
+  document.querySelectorAll('.ot-playlist-tracks').forEach(function(container) {
+    container.innerHTML = '';
+    tracks.forEach(function(t, i) {
+      const div = document.createElement('div');
+      div.className = 'ot-pl-track' + (i === trackIndex ? ' active' : '');
+      div.innerHTML = '<span class="ot-pl-num">' + (i + 1) + '</span><span class="ot-pl-name">' + esc(t.title) + '</span>';
+      div.addEventListener('click', function() { loadTrack(i, true); });
+      container.appendChild(div);
+    });
+  });
+}
+
+let playlistVisible = true;
+function togglePlaylist() {
+  playlistVisible = !playlistVisible;
+  document.querySelectorAll('.ot-playlist-tracks').forEach(function(el) { el.style.display = playlistVisible ? '' : 'none'; });
+  document.querySelectorAll('.ot-playlist-toggle').forEach(function(el) { el.textContent = playlistVisible ? 'Hide' : 'Show'; });
+}
+
+function updateMediaSession() {
+  if (!('mediaSession' in navigator)) return;
+  const track = tracks[trackIndex];
+  if (!track) return;
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: track.principle,
+    artist: 'Chords of Truth',
+    album: track.folder.replace(/_Signal$/, '').replace(/_/g, ' ') + ' Signal',
+    artwork: [{ src: getCoverUrl(track.folder), sizes: '512x512', type: 'image/png' }]
+  });
+  navigator.mediaSession.setActionHandler('play', function() { audio.play(); });
+  navigator.mediaSession.setActionHandler('pause', function() { audio.pause(); });
+  navigator.mediaSession.setActionHandler('previoustrack', prevTrack);
+  navigator.mediaSession.setActionHandler('nexttrack', nextTrack);
+}
+
+function colorPlayer(fc) {
+  document.querySelectorAll('.ot-player').forEach(function(el) {
+    el.style.borderColor = fc + '30';
+    el.style.borderTop = '2px solid ' + fc + '60';
+  });
+  document.querySelectorAll('.ot-btn.ot-play').forEach(function(el) {
+    el.style.color = fc;
+    el.style.borderColor = fc;
+  });
+  document.querySelectorAll('.ot-progress-bar').forEach(function(el) { el.style.background = fc; });
+  document.querySelectorAll('.ot-volume input[type="range"]').forEach(function(el) { el.style.accentColor = fc; });
+  document.querySelectorAll('.ot-playlist').forEach(function(el) { el.style.borderColor = fc + '25'; });
+  document.querySelectorAll('.ot-playlist-header').forEach(function(el) { el.style.borderBottomColor = fc + '20'; });
+}
+
+
+// =============================================================================
+// HISTORY
+// =============================================================================
+
+async function loadHistory(currentDate) {
+  const history = [];
+  const today = new Date(currentDate + 'T12:00:00');
+
+  // Walk backwards up to 60 days, collect up to 10
+  for (let i = 1; i <= 60 && history.length < 10; i++) {
+    const d = new Date(today);
+    d.setDate(d.getDate() - i);
+    const year = d.getFullYear();
+    const month = String(d.getMonth() + 1).padStart(2, '0');
+    const day = String(d.getDate()).padStart(2, '0');
+    try {
+      const res = await fetch('/drops/' + year + '/' + month + '/' + day + '.json');
+      if (res.ok) {
+        const drop = await res.json();
+        history.push(drop);
+      }
+    } catch (e) { /* skip */ }
+  }
+  return history;
+}
+
+function renderHistory(historyDrops) {
+  const section = document.getElementById('historySection');
+  const list = document.getElementById('historyList');
+  if (!section || !list) return;
+
+  if (historyDrops.length === 0) {
+    // Don't show section if no history
+    return;
+  }
+
+  section.style.display = 'block';
+  list.innerHTML = '';
+
+  historyDrops.forEach(function(drop) {
+    const fc = getFreqColor(drop);
+    const freq = (drop.frequency?.name || '').charAt(0).toUpperCase() + (drop.frequency?.name || '').slice(1).toLowerCase();
+    const principle = drop.tuning_key?.source_song || '?';
+    const signal = drop.signal_type || '';
+    const date = formatShortDate(drop.drop_date);
+
+    const item = document.createElement('div');
+    item.className = 'history-item';
+    item.innerHTML =
+      '<div class="history-dot" style="background:' + fc + ';box-shadow:0 0 6px ' + fc + '66;"></div>' +
+      '<div class="history-info">' +
+        '<div class="history-principle" style="color:' + fc + ';">' + esc(principle) + '</div>' +
+        '<div class="history-meta">' + esc(freq + ' / ' + signal + ' — ' + date) + '</div>' +
+      '</div>' +
+      '<div class="history-arrow">&#8250;</div>';
+    item.addEventListener('click', function() { openHistory(drop); });
+    list.appendChild(item);
+  });
+}
+
+
+// =============================================================================
+// HISTORY MODAL
+// =============================================================================
+
+function openHistory(drop) {
+  const modal = document.getElementById('historyModal');
+  const body = document.getElementById('modalBody');
+  modal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+
+  // Render tuning into modal
+  renderDropInto(drop, body, true);
+
+  // Init player in modal (reuses shared audio element)
+  initPlayer(drop, 'modalPlayerMount');
+}
+
+function closeHistory() {
+  const modal = document.getElementById('historyModal');
+  modal.style.display = 'none';
+  document.body.style.overflow = '';
+
+  // Re-init main page player with current drop if audio was taken over
+  if (currentDrop) {
+    initPlayer(currentDrop, 'playerMount');
+  }
+}
+
+// Close modal on Escape
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeHistory();
+});
+
+
+// =============================================================================
+// INIT
+// =============================================================================
+
+async function init() {
+  try {
+    const res = await fetch('/latest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('No drop available (HTTP ' + res.status + ')');
+    const drop = await res.json();
+    currentDrop = drop;
+
+    document.getElementById('dropLoading').style.display = 'none';
+    document.getElementById('dropContent').style.display = 'block';
+
+    renderMainPage(drop);
+    await initPlayer(drop, 'playerMount');
+
+    // Load history in background
+    const history = await loadHistory(drop.drop_date);
+    renderHistory(history);
+
+    // Page title
+    document.title = (drop.tuning_key?.source_song || 'Today\'s Tuning') +
+      ' — ' + (drop.frequency?.name || '') + ' — Lucid Principles';
+
+  } catch (e) {
+    document.getElementById('dropLoading').style.display = 'none';
+    const errEl = document.getElementById('dropError');
+    errEl.style.display = 'block';
+    errEl.textContent = 'Could not load today\'s tuning. ' + e.message;
+  }
+}
+
+init();
+</script>
+</body>
+</html>

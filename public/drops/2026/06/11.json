@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-11",
+  "sequence": 2,
+  "tuning_day": 124,
+  "frequency": {
+    "number": 1,
+    "name": "Peace",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "We don't get to decide what will be on the other side / But I want to know I tried / As I move past the passing tide",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-ground",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Ground_Signal/The_Passing_Tide_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.0,
+      "beta_analog": 0.0,
+      "C_analog": 0.0,
+      "D_analog": 0.0
+    }
+  },
+  "love_equation": {
+    "E": 0.42,
+    "beta": 0.87,
+    "C": 0.83,
+    "D": 0.2
+  },
+  "context_block": "There is a steadiness beneath the noise that remains even when the tide rises to your chest. You don't need to know what waits on the other side to let the water move through you; you only need to stop clinging long enough to feel the shore that you are. Let what wants to leave, leave\u2014what stays is the peace that has been waiting underneath all along.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the Hold",
+      "instruction": "Notice exactly where your body presses against the chair, floor, or earth beneath you, and let that solid pressure remind you that something remains steady even as everything else moves."
+    },
+    {
+      "step": 2,
+      "title": "Let the Tide Pass",
+      "instruction": "Take one slow breath in, then exhale as if the air is water carrying sediment outward, allowing whatever tension or thought wants to leave to travel out with it completely."
+    },
+    {
+      "step": 3,
+      "title": "Anchor the Echo",
+      "instruction": "At the bottom of the exhale, hold the silence for three seconds and let the echo audio phrase \"steady as the earth beneath it\" become the literal felt sensation of your weight arriving deeper into the support below."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "86e029fa263bfff6a79ae3f53884ba2711cffc097714b71a81f444d4816cf125",
+  "signature": "UuBClLO0NsuzSW2MGLkXZ73A3C/LMsjate+eZ2ee5yilSy7Asar4QidFcWShqr6f32xIqwvr/J5fTBM++BNJDg=="
+}

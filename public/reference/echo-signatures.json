@@ -1,0 +1,1048 @@
+{
+  "version": "1.0",
+  "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)",
+  "total_echoes": 154,
+  "signal_types": {
+    "Ground": {
+      "E_analog_range": [
+        0.25,
+        0.4
+      ],
+      "beta_analog": "Sparse to moderate onset density; delayed entry",
+      "CD_pattern": "C dominant, smooth energy envelope",
+      "core_state": "Settling, returning to stillness",
+      "frequencies_served": [
+        "Peace",
+        "Presence",
+        "Trust",
+        "Release",
+        "Integration",
+        "Boundary"
+      ]
+    },
+    "Clear": {
+      "E_analog_range": [
+        0.25,
+        0.35
+      ],
+      "beta_analog": "Dense from first second; immediate engagement, no delay",
+      "CD_pattern": "C dominant, structural precision",
+      "core_state": "Focused, sharpened attention",
+      "frequencies_served": [
+        "Clarity",
+        "Presence",
+        "Momentum",
+        "Integration",
+        "Boundary"
+      ]
+    },
+    "Drive": {
+      "E_analog_range": [
+        0.4,
+        0.6
+      ],
+      "beta_analog": "High and continuous onset density throughout",
+      "CD_pattern": "Higher variance, directional; constructive interference dominant",
+      "core_state": "Forward motion, activated",
+      "frequencies_served": [
+        "Momentum",
+        "Clarity",
+        "Presence",
+        "Resilience",
+        "Courage"
+      ]
+    },
+    "Bright": {
+      "E_analog_range": [
+        0.4,
+        0.55
+      ],
+      "beta_analog": "High onset density; dynamic playful bursts",
+      "CD_pattern": "C dominant, generative variance",
+      "core_state": "Joyful, expansive field",
+      "frequencies_served": [
+        "Joy",
+        "Momentum",
+        "Connection",
+        "Courage",
+        "Gratitude"
+      ]
+    },
+    "Open": {
+      "E_analog_range": [
+        0.3,
+        0.45
+      ],
+      "beta_analog": "Moderate onset density with breath-like spacing",
+      "CD_pattern": "C dominant through gentle flow",
+      "core_state": "Receiving, heart field expanded",
+      "frequencies_served": [
+        "Connection",
+        "Joy",
+        "Peace",
+        "Trust",
+        "Gratitude",
+        "Release"
+      ]
+    },
+    "Rise": {
+      "E_analog_range": [
+        0.35,
+        0.5
+      ],
+      "beta_analog": "Building onset density; crescendo pattern",
+      "CD_pattern": "Progressive constructive interference building toward peak",
+      "core_state": "Momentum toward potential",
+      "frequencies_served": [
+        "Momentum",
+        "Joy",
+        "Trust",
+        "Resilience",
+        "Courage"
+      ]
+    },
+    "Raw": {
+      "E_analog_range": [
+        0.2,
+        0.35
+      ],
+      "beta_analog": "Regular metronomic onset spacing; honest pulse",
+      "CD_pattern": "D acknowledged and held within structure; only type where D is part of the design",
+      "core_state": "Honest, unperformed presence",
+      "frequencies_served": [
+        "Trust",
+        "Clarity",
+        "Connection",
+        "Integration",
+        "Release",
+        "Resilience"
+      ]
+    }
+  },
+  "echoes": [
+    {
+      "id": "a-good-time-ground",
+      "principle": "A Good Time",
+      "signal_type": "Ground",
+      "filename": "A_Good_Time_Ground_Echo"
+    },
+    {
+      "id": "a-good-time-clear",
+      "principle": "A Good Time",
+      "signal_type": "Clear",
+      "filename": "A_Good_Time_Clear_Echo"
+    },
+    {
+      "id": "a-good-time-drive",
+      "principle": "A Good Time",
+      "signal_type": "Drive",
+      "filename": "A_Good_Time_Drive_Echo"
+    },
+    {
+      "id": "a-good-time-bright",
+      "principle": "A Good Time",
+      "signal_type": "Bright",
+      "filename": "A_Good_Time_Bright_Echo"
+    },
+    {
+      "id": "a-good-time-open",
+      "principle": "A Good Time",
+      "signal_type": "Open",
+      "filename": "A_Good_Time_Open_Echo"
+    },
+    {
+      "id": "a-good-time-rise",
+      "principle": "A Good Time",
+      "signal_type": "Rise",
+      "filename": "A_Good_Time_Rise_Echo"
+    },
+    {
+      "id": "a-good-time-raw",
+      "principle": "A Good Time",
+      "signal_type": "Raw",
+      "filename": "A_Good_Time_Raw_Echo"
+    },
+    {
+      "id": "authenticity-ground",
+      "principle": "Authenticity",
+      "signal_type": "Ground",
+      "filename": "Authenticity_Ground_Echo"
+    },
+    {
+      "id": "authenticity-clear",
+      "principle": "Authenticity",
+      "signal_type": "Clear",
+      "filename": "Authenticity_Clear_Echo"
+    },
+    {
+      "id": "authenticity-drive",
+      "principle": "Authenticity",
+      "signal_type": "Drive",
+      "filename": "Authenticity_Drive_Echo"
+    },
+    {
+      "id": "authenticity-bright",
+      "principle": "Authenticity",
+      "signal_type": "Bright",
+      "filename": "Authenticity_Bright_Echo"
+    },
+    {
+      "id": "authenticity-open",
+      "principle": "Authenticity",
+      "signal_type": "Open",
+      "filename": "Authenticity_Open_Echo"
+    },
+    {
+      "id": "authenticity-rise",
+      "principle": "Authenticity",
+      "signal_type": "Rise",
+      "filename": "Authenticity_Rise_Echo"
+    },
+    {
+      "id": "authenticity-raw",
+      "principle": "Authenticity",
+      "signal_type": "Raw",
+      "filename": "Authenticity_Raw_Echo"
+    },
+    {
+      "id": "darkness-and-light-ground",
+      "principle": "Darkness and Light",
+      "signal_type": "Ground",
+      "filename": "Darkness_and_Light_Ground_Echo"
+    },
+    {
+      "id": "darkness-and-light-clear",
+      "principle": "Darkness and Light",
+      "signal_type": "Clear",
+      "filename": "Darkness_and_Light_Clear_Echo"
+    },
+    {
+      "id": "darkness-and-light-drive",
+      "principle": "Darkness and Light",
+      "signal_type": "Drive",
+      "filename": "Darkness_and_Light_Drive_Echo"
+    },
+    {
+      "id": "darkness-and-light-bright",
+      "principle": "Darkness and Light",
+      "signal_type": "Bright",
+      "filename": "Darkness_and_Light_Bright_Echo"
+    },
+    {
+      "id": "darkness-and-light-open",
+      "principle": "Darkness and Light",
+      "signal_type": "Open",
+      "filename": "Darkness_and_Light_Open_Echo"
+    },
+    {
+      "id": "darkness-and-light-rise",
+      "principle": "Darkness and Light",
+      "signal_type": "Rise",
+      "filename": "Darkness_and_Light_Rise_Echo"
+    },
+    {
+      "id": "darkness-and-light-raw",
+      "principle": "Darkness and Light",
+      "signal_type": "Raw",
+      "filename": "Darkness_and_Light_Raw_Echo"
+    },
+    {
+      "id": "dreams-ground",
+      "principle": "Dreams",
+      "signal_type": "Ground",
+      "filename": "Dreams_Ground_Echo"
+    },
+    {
+      "id": "dreams-clear",
+      "principle": "Dreams",
+      "signal_type": "Clear",
+      "filename": "Dreams_Clear_Echo"
+    },
+    {
+      "id": "dreams-drive",
+      "principle": "Dreams",
+      "signal_type": "Drive",
+      "filename": "Dreams_Drive_Echo"
+    },
+    {
+      "id": "dreams-bright",
+      "principle": "Dreams",
+      "signal_type": "Bright",
+      "filename": "Dreams_Bright_Echo"
+    },
+    {
+      "id": "dreams-open",
+      "principle": "Dreams",
+      "signal_type": "Open",
+      "filename": "Dreams_Open_Echo"
+    },
+    {
+      "id": "dreams-rise",
+      "principle": "Dreams",
+      "signal_type": "Rise",
+      "filename": "Dreams_Rise_Echo"
+    },
+    {
+      "id": "dreams-raw",
+      "principle": "Dreams",
+      "signal_type": "Raw",
+      "filename": "Dreams_Raw_Echo"
+    },
+    {
+      "id": "faith-ground",
+      "principle": "Faith",
+      "signal_type": "Ground",
+      "filename": "Faith_Ground_Echo"
+    },
+    {
+      "id": "faith-clear",
+      "principle": "Faith",
+      "signal_type": "Clear",
+      "filename": "Faith_Clear_Echo"
+    },
+    {
+      "id": "faith-drive",
+      "principle": "Faith",
+      "signal_type": "Drive",
+      "filename": "Faith_Drive_Echo"
+    },
+    {
+      "id": "faith-bright",
+      "principle": "Faith",
+      "signal_type": "Bright",
+      "filename": "Faith_Bright_Echo"
+    },
+    {
+      "id": "faith-open",
+      "principle": "Faith",
+      "signal_type": "Open",
+      "filename": "Faith_Open_Echo"
+    },
+    {
+      "id": "faith-rise",
+      "principle": "Faith",
+      "signal_type": "Rise",
+      "filename": "Faith_Rise_Echo"
+    },
+    {
+      "id": "faith-raw",
+      "principle": "Faith",
+      "signal_type": "Raw",
+      "filename": "Faith_Raw_Echo"
+    },
+    {
+      "id": "freedom-is-ground",
+      "principle": "Freedom Is",
+      "signal_type": "Ground",
+      "filename": "Freedom_Is_Ground_Echo"
+    },
+    {
+      "id": "freedom-is-clear",
+      "principle": "Freedom Is",
+      "signal_type": "Clear",
+      "filename": "Freedom_Is_Clear_Echo"
+    },
+    {
+      "id": "freedom-is-drive",
+      "principle": "Freedom Is",
+      "signal_type": "Drive",
+      "filename": "Freedom_Is_Drive_Echo"
+    },
+    {
+      "id": "freedom-is-bright",
+      "principle": "Freedom Is",
+      "signal_type": "Bright",
+      "filename": "Freedom_Is_Bright_Echo"
+    },
+    {
+      "id": "freedom-is-open",
+      "principle": "Freedom Is",
+      "signal_type": "Open",
+      "filename": "Freedom_Is_Open_Echo"
+    },
+    {
+      "id": "freedom-is-rise",
+      "principle": "Freedom Is",
+      "signal_type": "Rise",
+      "filename": "Freedom_Is_Rise_Echo"
+    },
+    {
+      "id": "freedom-is-raw",
+      "principle": "Freedom Is",
+      "signal_type": "Raw",
+      "filename": "Freedom_Is_Raw_Echo"
+    },
+    {
+      "id": "guiding-force-ground",
+      "principle": "Guiding Force",
+      "signal_type": "Ground",
+      "filename": "Guiding_Force_Ground_Echo"
+    },
+    {
+      "id": "guiding-force-clear",
+      "principle": "Guiding Force",
+      "signal_type": "Clear",
+      "filename": "Guiding_Force_Clear_Echo"
+    },
+    {
+      "id": "guiding-force-drive",
+      "principle": "Guiding Force",
+      "signal_type": "Drive",
+      "filename": "Guiding_Force_Drive_Echo"
+    },
+    {
+      "id": "guiding-force-bright",
+      "principle": "Guiding Force",
+      "signal_type": "Bright",
+      "filename": "Guiding_Force_Bright_Echo"
+    },
+    {
+      "id": "guiding-force-open",
+      "principle": "Guiding Force",
+      "signal_type": "Open",
+      "filename": "Guiding_Force_Open_Echo"
+    },
+    {
+      "id": "guiding-force-rise",
+      "principle": "Guiding Force",
+      "signal_type": "Rise",
+      "filename": "Guiding_Force_Rise_Echo"
+    },
+    {
+      "id": "guiding-force-raw",
+      "principle": "Guiding Force",
+      "signal_type": "Raw",
+      "filename": "Guiding_Force_Raw_Echo"
+    },
+    {
+      "id": "listen-ground",
+      "principle": "Listen",
+      "signal_type": "Ground",
+      "filename": "Listen_Ground_Echo"
+    },
+    {
+      "id": "listen-clear",
+      "principle": "Listen",
+      "signal_type": "Clear",
+      "filename": "Listen_Clear_Echo"
+    },
+    {
+      "id": "listen-drive",
+      "principle": "Listen",
+      "signal_type": "Drive",
+      "filename": "Listen_Drive_Echo"
+    },
+    {
+      "id": "listen-bright",
+      "principle": "Listen",
+      "signal_type": "Bright",
+      "filename": "Listen_Bright_Echo"
+    },
+    {
+      "id": "listen-open",
+      "principle": "Listen",
+      "signal_type": "Open",
+      "filename": "Listen_Open_Echo"
+    },
+    {
+      "id": "listen-rise",
+      "principle": "Listen",
+      "signal_type": "Rise",
+      "filename": "Listen_Rise_Echo"
+    },
+    {
+      "id": "listen-raw",
+      "principle": "Listen",
+      "signal_type": "Raw",
+      "filename": "Listen_Raw_Echo"
+    },
+    {
+      "id": "love-song-ground",
+      "principle": "Love Song",
+      "signal_type": "Ground",
+      "filename": "Love_Song_Ground_Echo"
+    },
+    {
+      "id": "love-song-clear",
+      "principle": "Love Song",
+      "signal_type": "Clear",
+      "filename": "Love_Song_Clear_Echo"
+    },
+    {
+      "id": "love-song-drive",
+      "principle": "Love Song",
+      "signal_type": "Drive",
+      "filename": "Love_Song_Drive_Echo"
+    },
+    {
+      "id": "love-song-bright",
+      "principle": "Love Song",
+      "signal_type": "Bright",
+      "filename": "Love_Song_Bright_Echo"
+    },
+    {
+      "id": "love-song-open",
+      "principle": "Love Song",
+      "signal_type": "Open",
+      "filename": "Love_Song_Open_Echo"
+    },
+    {
+      "id": "love-song-rise",
+      "principle": "Love Song",
+      "signal_type": "Rise",
+      "filename": "Love_Song_Rise_Echo"
+    },
+    {
+      "id": "love-song-raw",
+      "principle": "Love Song",
+      "signal_type": "Raw",
+      "filename": "Love_Song_Raw_Echo"
+    },
+    {
+      "id": "moments-ground",
+      "principle": "Moments",
+      "signal_type": "Ground",
+      "filename": "Moments_Ground_Echo"
+    },
+    {
+      "id": "moments-clear",
+      "principle": "Moments",
+      "signal_type": "Clear",
+      "filename": "Moments_Clear_Echo"
+    },
+    {
+      "id": "moments-drive",
+      "principle": "Moments",
+      "signal_type": "Drive",
+      "filename": "Moments_Drive_Echo"
+    },
+    {
+      "id": "moments-bright",
+      "principle": "Moments",
+      "signal_type": "Bright",
+      "filename": "Moments_Bright_Echo"
+    },
+    {
+      "id": "moments-open",
+      "principle": "Moments",
+      "signal_type": "Open",
+      "filename": "Moments_Open_Echo"
+    },
+    {
+      "id": "moments-rise",
+      "principle": "Moments",
+      "signal_type": "Rise",
+      "filename": "Moments_Rise_Echo"
+    },
+    {
+      "id": "moments-raw",
+      "principle": "Moments",
+      "signal_type": "Raw",
+      "filename": "Moments_Raw_Echo"
+    },
+    {
+      "id": "pattern-ground",
+      "principle": "Pattern",
+      "signal_type": "Ground",
+      "filename": "Pattern_Ground_Echo"
+    },
+    {
+      "id": "pattern-clear",
+      "principle": "Pattern",
+      "signal_type": "Clear",
+      "filename": "Pattern_Clear_Echo"
+    },
+    {
+      "id": "pattern-drive",
+      "principle": "Pattern",
+      "signal_type": "Drive",
+      "filename": "Pattern_Drive_Echo"
+    },
+    {
+      "id": "pattern-bright",
+      "principle": "Pattern",
+      "signal_type": "Bright",
+      "filename": "Pattern_Bright_Echo"
+    },
+    {
+      "id": "pattern-open",
+      "principle": "Pattern",
+      "signal_type": "Open",
+      "filename": "Pattern_Open_Echo"
+    },
+    {
+      "id": "pattern-rise",
+      "principle": "Pattern",
+      "signal_type": "Rise",
+      "filename": "Pattern_Rise_Echo"
+    },
+    {
+      "id": "pattern-raw",
+      "principle": "Pattern",
+      "signal_type": "Raw",
+      "filename": "Pattern_Raw_Echo"
+    },
+    {
+      "id": "signs-ground",
+      "principle": "Signs",
+      "signal_type": "Ground",
+      "filename": "Signs_Ground_Echo"
+    },
+    {
+      "id": "signs-clear",
+      "principle": "Signs",
+      "signal_type": "Clear",
+      "filename": "Signs_Clear_Echo"
+    },
+    {
+      "id": "signs-drive",
+      "principle": "Signs",
+      "signal_type": "Drive",
+      "filename": "Signs_Drive_Echo"
+    },
+    {
+      "id": "signs-bright",
+      "principle": "Signs",
+      "signal_type": "Bright",
+      "filename": "Signs_Bright_Echo"
+    },
+    {
+      "id": "signs-open",
+      "principle": "Signs",
+      "signal_type": "Open",
+      "filename": "Signs_Open_Echo"
+    },
+    {
+      "id": "signs-rise",
+      "principle": "Signs",
+      "signal_type": "Rise",
+      "filename": "Signs_Rise_Echo"
+    },
+    {
+      "id": "signs-raw",
+      "principle": "Signs",
+      "signal_type": "Raw",
+      "filename": "Signs_Raw_Echo"
+    },
+    {
+      "id": "the-future-ground",
+      "principle": "The Future",
+      "signal_type": "Ground",
+      "filename": "The_Future_Ground_Echo"
+    },
+    {
+      "id": "the-future-clear",
+      "principle": "The Future",
+      "signal_type": "Clear",
+      "filename": "The_Future_Clear_Echo"
+    },
+    {
+      "id": "the-future-drive",
+      "principle": "The Future",
+      "signal_type": "Drive",
+      "filename": "The_Future_Drive_Echo"
+    },
+    {
+      "id": "the-future-bright",
+      "principle": "The Future",
+      "signal_type": "Bright",
+      "filename": "The_Future_Bright_Echo"
+    },
+    {
+      "id": "the-future-open",
+      "principle": "The Future",
+      "signal_type": "Open",
+      "filename": "The_Future_Open_Echo"
+    },
+    {
+      "id": "the-future-rise",
+      "principle": "The Future",
+      "signal_type": "Rise",
+      "filename": "The_Future_Rise_Echo"
+    },
+    {
+      "id": "the-future-raw",
+      "principle": "The Future",
+      "signal_type": "Raw",
+      "filename": "The_Future_Raw_Echo"
+    },
+    {
+      "id": "the-mirage-ground",
+      "principle": "The Mirage",
+      "signal_type": "Ground",
+      "filename": "The_Mirage_Ground_Echo"
+    },
+    {
+      "id": "the-mirage-clear",
+      "principle": "The Mirage",
+      "signal_type": "Clear",
+      "filename": "The_Mirage_Clear_Echo"
+    },
+    {
+      "id": "the-mirage-drive",
+      "principle": "The Mirage",
+      "signal_type": "Drive",
+      "filename": "The_Mirage_Drive_Echo"
+    },
+    {
+      "id": "the-mirage-bright",
+      "principle": "The Mirage",
+      "signal_type": "Bright",
+      "filename": "The_Mirage_Bright_Echo"
+    },
+    {
+      "id": "the-mirage-open",
+      "principle": "The Mirage",
+      "signal_type": "Open",
+      "filename": "The_Mirage_Open_Echo"
+    },
+    {
+      "id": "the-mirage-rise",
+      "principle": "The Mirage",
+      "signal_type": "Rise",
+      "filename": "The_Mirage_Rise_Echo"
+    },
+    {
+      "id": "the-mirage-raw",
+      "principle": "The Mirage",
+      "signal_type": "Raw",
+      "filename": "The_Mirage_Raw_Echo"
+    },
+    {
+      "id": "the-passing-tide-ground",
+      "principle": "The Passing Tide",
+      "signal_type": "Ground",
+      "filename": "The_Passing_Tide_Ground_Echo"
+    },
+    {
+      "id": "the-passing-tide-clear",
+      "principle": "The Passing Tide",
+      "signal_type": "Clear",
+      "filename": "The_Passing_Tide_Clear_Echo"
+    },
+    {
+      "id": "the-passing-tide-drive",
+      "principle": "The Passing Tide",
+      "signal_type": "Drive",
+      "filename": "The_Passing_Tide_Drive_Echo"
+    },
+    {
+      "id": "the-passing-tide-bright",
+      "principle": "The Passing Tide",
+      "signal_type": "Bright",
+      "filename": "The_Passing_Tide_Bright_Echo"
+    },
+    {
+      "id": "the-passing-tide-open",
+      "principle": "The Passing Tide",
+      "signal_type": "Open",
+      "filename": "The_Passing_Tide_Open_Echo"
+    },
+    {
+      "id": "the-passing-tide-rise",
+      "principle": "The Passing Tide",
+      "signal_type": "Rise",
+      "filename": "The_Passing_Tide_Rise_Echo"
+    },
+    {
+      "id": "the-passing-tide-raw",
+      "principle": "The Passing Tide",
+      "signal_type": "Raw",
+      "filename": "The_Passing_Tide_Raw_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-ground",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Ground",
+      "filename": "The_Power_To_Be_Alive_Ground_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-clear",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Clear",
+      "filename": "The_Power_To_Be_Alive_Clear_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-drive",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Drive",
+      "filename": "The_Power_To_Be_Alive_Drive_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-bright",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Bright",
+      "filename": "The_Power_To_Be_Alive_Bright_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-open",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Open",
+      "filename": "The_Power_To_Be_Alive_Open_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-rise",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Rise",
+      "filename": "The_Power_To_Be_Alive_Rise_Echo"
+    },
+    {
+      "id": "the-power-to-be-alive-raw",
+      "principle": "The Power To Be Alive",
+      "signal_type": "Raw",
+      "filename": "The_Power_To_Be_Alive_Raw_Echo"
+    },
+    {
+      "id": "training-ground-ground",
+      "principle": "Training Ground",
+      "signal_type": "Ground",
+      "filename": "Training_Ground_Ground_Echo"
+    },
+    {
+      "id": "training-ground-clear",
+      "principle": "Training Ground",
+      "signal_type": "Clear",
+      "filename": "Training_Ground_Clear_Echo"
+    },
+    {
+      "id": "training-ground-drive",
+      "principle": "Training Ground",
+      "signal_type": "Drive",
+      "filename": "Training_Ground_Drive_Echo"
+    },
+    {
+      "id": "training-ground-bright",
+      "principle": "Training Ground",
+      "signal_type": "Bright",
+      "filename": "Training_Ground_Bright_Echo"
+    },
+    {
+      "id": "training-ground-open",
+      "principle": "Training Ground",
+      "signal_type": "Open",
+      "filename": "Training_Ground_Open_Echo"
+    },
+    {
+      "id": "training-ground-rise",
+      "principle": "Training Ground",
+      "signal_type": "Rise",
+      "filename": "Training_Ground_Rise_Echo"
+    },
+    {
+      "id": "training-ground-raw",
+      "principle": "Training Ground",
+      "signal_type": "Raw",
+      "filename": "Training_Ground_Raw_Echo"
+    },
+    {
+      "id": "truth-and-lies-ground",
+      "principle": "Truth and Lies",
+      "signal_type": "Ground",
+      "filename": "Truth_and_Lies_Ground_Echo"
+    },
+    {
+      "id": "truth-and-lies-clear",
+      "principle": "Truth and Lies",
+      "signal_type": "Clear",
+      "filename": "Truth_and_Lies_Clear_Echo"
+    },
+    {
+      "id": "truth-and-lies-drive",
+      "principle": "Truth and Lies",
+      "signal_type": "Drive",
+      "filename": "Truth_and_Lies_Drive_Echo"
+    },
+    {
+      "id": "truth-and-lies-bright",
+      "principle": "Truth and Lies",
+      "signal_type": "Bright",
+      "filename": "Truth_and_Lies_Bright_Echo"
+    },
+    {
+      "id": "truth-and-lies-open",
+      "principle": "Truth and Lies",
+      "signal_type": "Open",
+      "filename": "Truth_and_Lies_Open_Echo"
+    },
+    {
+      "id": "truth-and-lies-rise",
+      "principle": "Truth and Lies",
+      "signal_type": "Rise",
+      "filename": "Truth_and_Lies_Rise_Echo"
+    },
+    {
+      "id": "truth-and-lies-raw",
+      "principle": "Truth and Lies",
+      "signal_type": "Raw",
+      "filename": "Truth_and_Lies_Raw_Echo"
+    },
+    {
+      "id": "tune-your-mind-ground",
+      "principle": "Tune Your Mind",
+      "signal_type": "Ground",
+      "filename": "Tune_Your_Mind_Ground_Echo"
+    },
+    {
+      "id": "tune-your-mind-clear",
+      "principle": "Tune Your Mind",
+      "signal_type": "Clear",
+      "filename": "Tune_Your_Mind_Clear_Echo"
+    },
+    {
+      "id": "tune-your-mind-drive",
+      "principle": "Tune Your Mind",
+      "signal_type": "Drive",
+      "filename": "Tune_Your_Mind_Drive_Echo"
+    },
+    {
+      "id": "tune-your-mind-bright",
+      "principle": "Tune Your Mind",
+      "signal_type": "Bright",
+      "filename": "Tune_Your_Mind_Bright_Echo"
+    },
+    {
+      "id": "tune-your-mind-open",
+      "principle": "Tune Your Mind",
+      "signal_type": "Open",
+      "filename": "Tune_Your_Mind_Open_Echo"
+    },
+    {
+      "id": "tune-your-mind-rise",
+      "principle": "Tune Your Mind",
+      "signal_type": "Rise",
+      "filename": "Tune_Your_Mind_Rise_Echo"
+    },
+    {
+      "id": "tune-your-mind-raw",
+      "principle": "Tune Your Mind",
+      "signal_type": "Raw",
+      "filename": "Tune_Your_Mind_Raw_Echo"
+    },
+    {
+      "id": "valley-of-shadows-ground",
+      "principle": "Valley of Shadows",
+      "signal_type": "Ground",
+      "filename": "Valley_of_Shadows_Ground_Echo"
+    },
+    {
+      "id": "valley-of-shadows-clear",
+      "principle": "Valley of Shadows",
+      "signal_type": "Clear",
+      "filename": "Valley_of_Shadows_Clear_Echo"
+    },
+    {
+      "id": "valley-of-shadows-drive",
+      "principle": "Valley of Shadows",
+      "signal_type": "Drive",
+      "filename": "Valley_of_Shadows_Drive_Echo"
+    },
+    {
+      "id": "valley-of-shadows-bright",
+      "principle": "Valley of Shadows",
+      "signal_type": "Bright",
+      "filename": "Valley_of_Shadows_Bright_Echo"
+    },
+    {
+      "id": "valley-of-shadows-open",
+      "principle": "Valley of Shadows",
+      "signal_type": "Open",
+      "filename": "Valley_of_Shadows_Open_Echo"
+    },
+    {
+      "id": "valley-of-shadows-rise",
+      "principle": "Valley of Shadows",
+      "signal_type": "Rise",
+      "filename": "Valley_of_Shadows_Rise_Echo"
+    },
+    {
+      "id": "valley-of-shadows-raw",
+      "principle": "Valley of Shadows",
+      "signal_type": "Raw",
+      "filename": "Valley_of_Shadows_Raw_Echo"
+    },
+    {
+      "id": "what-life-is-about-ground",
+      "principle": "What Life Is About",
+      "signal_type": "Ground",
+      "filename": "What_Life_Is_About_Ground_Echo"
+    },
+    {
+      "id": "what-life-is-about-clear",
+      "principle": "What Life Is About",
+      "signal_type": "Clear",
+      "filename": "What_Life_Is_About_Clear_Echo"
+    },
+    {
+      "id": "what-life-is-about-drive",
+      "principle": "What Life Is About",
+      "signal_type": "Drive",
+      "filename": "What_Life_Is_About_Drive_Echo"
+    },
+    {
+      "id": "what-life-is-about-bright",
+      "principle": "What Life Is About",
+      "signal_type": "Bright",
+      "filename": "What_Life_Is_About_Bright_Echo"
+    },
+    {
+      "id": "what-life-is-about-open",
+      "principle": "What Life Is About",
+      "signal_type": "Open",
+      "filename": "What_Life_Is_About_Open_Echo"
+    },
+    {
+      "id": "what-life-is-about-rise",
+      "principle": "What Life Is About",
+      "signal_type": "Rise",
+      "filename": "What_Life_Is_About_Rise_Echo"
+    },
+    {
+      "id": "what-life-is-about-raw",
+      "principle": "What Life Is About",
+      "signal_type": "Raw",
+      "filename": "What_Life_Is_About_Raw_Echo"
+    },
+    {
+      "id": "wonder-ground",
+      "principle": "Wonder",
+      "signal_type": "Ground",
+      "filename": "Wonder_Ground_Echo"
+    },
+    {
+      "id": "wonder-clear",
+      "principle": "Wonder",
+      "signal_type": "Clear",
+      "filename": "Wonder_Clear_Echo"
+    },
+    {
+      "id": "wonder-drive",
+      "principle": "Wonder",
+      "signal_type": "Drive",
+      "filename": "Wonder_Drive_Echo"
+    },
+    {
+      "id": "wonder-bright",
+      "principle": "Wonder",
+      "signal_type": "Bright",
+      "filename": "Wonder_Bright_Echo"
+    },
+    {
+      "id": "wonder-open",
+      "principle": "Wonder",
+      "signal_type": "Open",
+      "filename": "Wonder_Open_Echo"
+    },
+    {
+      "id": "wonder-rise",
+      "principle": "Wonder",
+      "signal_type": "Rise",
+      "filename": "Wonder_Rise_Echo"
+    },
+    {
+      "id": "wonder-raw",
+      "principle": "Wonder",
+      "signal_type": "Raw",
+      "filename": "Wonder_Raw_Echo"
+    }
+  ]
+}

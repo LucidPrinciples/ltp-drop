@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-15",
+  "sequence": 6,
+  "tuning_day": 128,
+  "frequency": {
+    "number": 6,
+    "name": "Connection",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Love is key, and striving to be a positive part of our society",
+    "source_song": "Listen",
+    "source_year": 2011,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "listen-open",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Open_Signal/Listen_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6267,
+      "beta_analog": 0.7114,
+      "C_analog": 0.2889,
+      "D_analog": 0.539
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.21
+  },
+  "context_block": "There is a warmth already here, in the space between your breath and the next, binding us in the quiet work of showing up for this world. Today the frequency opens not through what we say, but through what we are willing to hear in each other\u2014love is key, and striving to be a positive part of our society. Listen for the connection that exists before anyone speaks; it is the shared lung of us, drawing in the possible.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Settle Your Vessel",
+      "instruction": "Feel the weight of your body supported by the ground or seat beneath you, letting the exhale soften your jaw and shoulders."
+    },
+    {
+      "step": 2,
+      "title": "Widen the Field",
+      "instruction": "Expand your hearing to include the most distant sound without reaching for it, allowing the space between you and everything else to become permeable."
+    },
+    {
+      "step": 3,
+      "title": "Breathe the Silence Open",
+      "instruction": "Inhale slowly as if the silence itself were opening like a lung, drawing you into the warmth that exists between us before either of us speaks."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "e7a84b868202f3fa1246180d80a89fb3f8b8ed00064c880e6951c8652b372429",
+  "signature": "XxE5S+Pk36qyNSKIN20v/iqanJmjhG7iW/xpOJpNFfZtHTlhG+8aK5Kb4BZfKF36D2NcvpwojJmdl6WqPdv+Cw=="
+}

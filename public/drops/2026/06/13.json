@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "drop_date": "2026-06-13",
+  "sequence": 4,
+  "tuning_day": 126,
+  "frequency": {
+    "number": 3,
+    "name": "Momentum",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "How we're going to make it to the next stage of this journey through the cosmos all together",
+    "source_song": "Wonder",
+    "source_year": 2014,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "wonder-drive",
+    "audio_url": "https://audio.lucidtuner.com/Lucid_Tuner/Drive_Signal/Wonder_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.645,
+      "beta_analog": 0.7974,
+      "C_analog": 0.2678,
+      "D_analog": 0.5848
+    }
+  },
+  "love_equation": {
+    "E": 0.7,
+    "beta": 0.85,
+    "C": 0.75,
+    "D": 0.26
+  },
+  "context_block": "Today the momentum reveals that we are not stranded particles but one wave accelerating toward the horizon. The wonder is not in arriving but in the relentless motion that asks \"How we're going to make it to the next stage of this journey through the cosmos all together\" and answers with every heartbeat that chooses forward. What feels like isolated struggle will become real as collective force the moment you allow the drive to move through you.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Press the Boundary",
+      "instruction": "Push the balls of your feet downward until you feel the exact resistance of the earth refusing to let you sink backward."
+    },
+    {
+      "step": 2,
+      "title": "Break the Surface",
+      "instruction": "Roll your shoulders forward one inch as if puncturing a membrane that has been holding your breath in place."
+    },
+    {
+      "step": 3,
+      "title": "Cue the Echo",
+      "instruction": "Part your lips and release a sharp exhale, allowing the echo of footfalls breaking inertia to manifest as real sound in your ears."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "c83f8c1ea9aef4ca650e1c43b5335a45b06cd3cfd99cfefe800680aecb01aa8b",
+  "signature": "JmNyPYVVepPMUlpv42rd88L9jVngeDMr8yvvwD9UjjZBrQdIrn58hA8O3XRFCx9QfG9V7PrfqmYdcUCTU1+yAg=="
+}
