@@ -107,7 +107,7 @@ a:hover { opacity: 0.8; }
   border-left: 4px solid var(--freq);
   background: var(--freq-subtle);
   padding: 1.5rem;
-  margin-top: 0.5rem;
+  margin-top: 1.25rem;
 }
 .ot-card.ot-eq {
   background: transparent;
@@ -131,9 +131,18 @@ a:hover { opacity: 0.8; }
 .ot-text.italic {
   font-style: italic;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.08rem;
   line-height: 1.9;
+  font-weight: 500;
 }
+.ot-text.md-prose {
+  white-space: normal;
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+.ot-text.md-prose p { margin: 0 0 0.7rem; }
+.ot-text.md-prose p:last-child { margin: 0; }
+.ot-text.md-prose strong { font-weight: 700; color: var(--text); }
 
 /* ── Practice Steps ── */
 .ot-practice { margin-bottom: 1.25rem; }
@@ -525,22 +534,22 @@ a:hover { opacity: 0.8; }
       <div class="drop-signal" id="dropSignal"></div>
     </div>
 
+    <!-- Tuning Key (triad chrome — with Frequency + Principle in the header) -->
+    <div class="ot-card ot-key" id="keyBlock">
+      <div class="ot-label" id="keyLabel">Tuning Key</div>
+      <div class="ot-text italic" id="keyText"></div>
+    </div>
+
     <!-- Coaching -->
     <div class="ot-card" id="coachBlock">
       <div class="ot-label" id="coachLabel">Coaching</div>
-      <div class="ot-text" id="coachText"></div>
+      <div class="ot-text md-prose" id="coachText"></div>
     </div>
 
     <!-- Practice Steps -->
     <div class="ot-practice" id="practiceBlock" style="display:none;">
       <div class="ot-practice-label" id="practiceLabel">Practice</div>
       <div class="ot-practice-steps" id="practiceSteps"></div>
-    </div>
-
-    <!-- Tuning Key -->
-    <div class="ot-card ot-key" id="keyBlock">
-      <div class="ot-label" id="keyLabel">Tuning Key</div>
-      <div class="ot-text italic" id="keyText"></div>
     </div>
 
     <!-- Stream Label -->
@@ -638,6 +647,17 @@ let currentDrop = null;
 
 // ── Helpers ──
 function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+function formatProse(s) {
+  let t = esc(s || '');
+  t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  const parts = t.split(/\n\n+/);
+  return parts.map(function (p) { return '<p>' + p.replace(/\n/g, '<br>') + '</p>'; }).join('');
+}
+
+function formatKey(s) {
+  return esc(s || '').replace(/ \/\ /g, '<br>');
+}
 
 function hexToRgb(hex) {
   if (!hex || hex.charAt(0) !== '#') return '92,225,230';
@@ -743,16 +763,24 @@ function renderDropInto(drop, container, isModal) {
     html += '<div class="drop-tuning-day" style="color:' + fc + '80;">LT\'s ' + ordinal(tuningDay) + ' Consecutive Tuning</div>';
   }
   html += '<div class="drop-date" style="color:' + fc + 'aa;">' + esc(formatDropDate(drop.drop_date)) + '</div>';
-  html += '<div class="drop-alignment" style="color:' + fc + ';">' + esc(freq + ' ALIGNMENT') + '</div>';
+  html += '<div class="drop-alignment" style="color:' + fc + ';">' + esc(freq) + '</div>';
   html += '<div class="drop-principle" style="color:' + fc + ';text-shadow:0 0 30px ' + fg + ';">' + esc(principle) + '</div>';
   html += '<div class="drop-signal">' + esc(signalType + ' Signal') + '</div>';
   html += '</div>';
+
+  // Tuning key — triad chrome with Frequency + Principle above
+  if (keyText) {
+    html += '<div class="ot-card ot-key" style="border-color:rgba(' + rgb + ',0.25);border-left:4px solid ' + fc + ';background:rgba(' + rgb + ',0.04);">';
+    html += '<div class="ot-label" style="color:' + fc + ';">Tuning Key</div>';
+    html += '<div class="ot-text italic">' + formatKey(keyText) + '</div>';
+    html += '</div>';
+  }
 
   // Coaching
   if (coaching) {
     html += '<div class="ot-card" style="border-color:rgba(' + rgb + ',0.12);box-shadow:0 2px 8px rgba(' + rgb + ',0.02);">';
     html += '<div class="ot-label">Coaching</div>';
-    html += '<div class="ot-text">' + esc(coaching) + '</div>';
+    html += '<div class="ot-text md-prose">' + formatProse(coaching) + '</div>';
     html += '</div>';
   }
 
@@ -770,14 +798,6 @@ function renderDropInto(drop, container, isModal) {
       html += '</div></div>';
     });
     html += '</div></div>';
-  }
-
-  // Tuning key
-  if (keyText) {
-    html += '<div class="ot-card ot-key" style="border-color:rgba(' + rgb + ',0.25);border-left:4px solid ' + fc + ';background:rgba(' + rgb + ',0.04);">';
-    html += '<div class="ot-label" style="color:' + fc + ';">Tuning Key</div>';
-    html += '<div class="ot-text italic">' + esc(keyText) + '</div>';
-    html += '</div>';
   }
 
   // Stream label
