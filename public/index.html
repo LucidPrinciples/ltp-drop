@@ -954,9 +954,12 @@ function ensureAudio() {
     stopProgress();
   });
   audio.addEventListener('error', function() {
-    consecutiveErrors++;
-    if (consecutiveErrors >= 3) { consecutiveErrors = 0; return; }
-    setTimeout(function() { nextTrack(); }, 1500);
+    // Do not skip. Missing filenames + auto-advance hammered the CDN.
+    console.warn('[player] load error — not skipping');
+    try { audio.removeAttribute('src'); audio.load(); } catch (e) {}
+    isPlaying = false;
+    updateIcons();
+    stopProgress();
   });
 }
 
