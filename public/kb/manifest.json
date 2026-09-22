@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "kb_version": "ce098e988f9d328675e571a74187653b20965f4f11a8d73b37f1f5717e723ea3",
-  "published_at": "2026-06-21T13:57:45Z",
+  "kb_version": "06787f4817ed8d1204f4766c1a3712ef9814dd1dbe4b5dcd79057d902d1c423a",
+  "published_at": "2026-09-22T15:27:33Z",
   "publisher": "Lucid Principles \u2014 Knowledge Base",
   "file_count": 20,
   "files": [
@@ -17,13 +17,13 @@
     },
     {
       "path": "canon-contextual-keys.md",
-      "sha256": "f13a906c421b6d758a1712c41331852672709d5b1cddc22b8f4bdfcace76cf3e",
-      "bytes": 14152
+      "sha256": "41c9f6cbbd7d672edd9191b86a66bcaf35c47866421364ee565c413a201883b4",
+      "bytes": 14164
     },
     {
       "path": "digital-extension.md",
-      "sha256": "ad3d3777f06c4e5492a8a0e4a77ce4b8b4234a9af26468f7f3c599c76c9c31d8",
-      "bytes": 19982
+      "sha256": "3981150972f4baafdf1323a9708b092affb41721d073d7d9044004413c267911",
+      "bytes": 19984
     },
     {
       "path": "digital-practice-templates.md",
@@ -67,13 +67,13 @@
     },
     {
       "path": "lucid-field-theory.md",
-      "sha256": "35a11b9b1c3c2db152fd76f0f3fcb797257757c2d201259e4cc79ca284d10456",
-      "bytes": 45295
+      "sha256": "92e29fa44d663d415e48ffa2097039f2ef42b1aea55e49b016e358123c55c512",
+      "bytes": 45302
     },
     {
       "path": "manifesto.md",
-      "sha256": "95decd66a6e9c4ea5b52320232fd0dc885769622ac17f2d08c8674f454ea037f",
-      "bytes": 9508
+      "sha256": "2fe5ffba8c84bee90e5630ad373f30826d97aa43d0e217c9de02075b00e2123c",
+      "bytes": 9509
     },
     {
       "path": "one-field-architecture.md",
@@ -97,8 +97,8 @@
     },
     {
       "path": "tuning-keys.md",
-      "sha256": "2307bcaf0c395c3759d3d0a8e4673e0e45024711a7ed4624970b8eb8e5567b72",
-      "bytes": 24764
+      "sha256": "4c06dcf0c528fb79d0b597df20eb61c0f7b00623b807479c89dac6c746e3f9a2",
+      "bytes": 24809
     },
     {
       "path": "tuning-process-template.md",
@@ -106,5 +106,5 @@
       "bytes": 2927
     }
   ],
-  "signature": "fnzhySjjvBA4j0bCXzPnMGyW58XlWScr6qPyzY0Bwb3FgcpN6jsuSej4S7NcsMdTqd1TvrGWtStlhq2QQDMbBg=="
+  "signature": "UUiuPIC9sR3OpFgKNKooT8ECHV4SVnMg//v7mtY808bFmAwikO2C/XGIASmjkg2hyfP/jIgxugoToWXkf6xHCg=="
 }
