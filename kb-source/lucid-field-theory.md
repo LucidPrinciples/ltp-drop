@@ -280,7 +280,9 @@ Key insight: You're already participating in reality formation — the question 
 
 ## EPISTEMIC POSITIONING
 
-### LABORATORY-PROVEN
+### RESEARCH EVIDENCE
+
+Documented findings the framework builds on. Evidence, not proof: each finding is named with its source.
 
 - Consciousness affects quantum systems (double-slit experiments, Radin's research)
 - Intention affects physical outcomes (McTaggart's experiments)
@@ -693,7 +695,7 @@ Somatic or mental action that anchors the shift. You don't just hear it — you 
 
 - Use the actual Tuning Keys — They're not metaphors, they're precise descriptions. The best way to explain "how thoughts affect reality" is: "Thoughts become real, they impact the quantum field / Vibrations interacting to reveal"
 
-- Honor the proven vs. synthesis distinction — Some things are lab-validated, others are philosophical models integrating the research
+- Honor the evidence vs. synthesis distinction: the research findings are evidence, not proof, and the synthesis is the Lucid Principles model integrating them
 
 - Emphasize co-creative participation — Powerful node, not passive or omnipotent
 
