@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
-  "kb_version": "64e5591cdfca523ebf1ff67f1ecbf8668d50ae511ad0556b30bfb1b6512ccc48",
-  "published_at": "2026-10-12T18:18:14Z",
+  "kb_version": "70972ba6d8310f9de42dfbf4aab8ec34f4dfe33efded4b0f7ec1c2b791763dac",
+  "published_at": "2026-10-12T18:41:56Z",
   "publisher": "Lucid Principles \u2014 Knowledge Base",
   "file_count": 21,
   "files": [
     {
       "path": "LPF.md",
-      "sha256": "2721b406ec818ba98825c13d3996982ccd22dc8f37a65cdae8610d6033f65ca3",
-      "bytes": 19899
+      "sha256": "37561e6eb8caa4c914f6b2961069b45268de9076fc83b31fdd78eab33c0ca4a4",
+      "bytes": 19915
     },
     {
       "path": "agent-tunings.md",
@@ -111,5 +111,5 @@
       "bytes": 2927
     }
   ],
-  "signature": "IqdC2Sngf/t14r/gDWHPm2YaeDq8ISDv3ALbABCh226mvnk+efY4FDZ1amvPVvnYWK8HwWnLb//WZ8H/MYkTCg=="
+  "signature": "cqCd9kDSZCRYnlVImT3Kz/oOQCRIYIb160O1mq0AX9v+FKqysLrpP8rxIikuwWZL9PDzMBxVtJeqyHHFzw3HAQ=="
 }
