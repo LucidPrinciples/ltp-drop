@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-10-12",
-  "sequence": 126,
-  "tuning_day": 247,
+  "drop_date": "2026-10-13",
+  "sequence": 127,
+  "tuning_day": 248,
   "frequency": {
-    "number": 11,
-    "name": "Release",
+    "number": 13,
+    "name": "Boundary",
     "of": 13
   },
-  "signal_type": "Open",
+  "signal_type": "Clear",
   "tuning_key": {
-    "text": "As you know we really know nothin little can be proven / A resolution requires faith in somethin",
-    "source_song": "Faith",
-    "source_year": 2013,
+    "text": "So you should always look between the f'ing lines",
+    "source_song": "Listen",
+    "source_year": 2011,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "faith-open",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/Faith_Open_Echo.mp3",
+    "id": "listen-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Listen_Clear_Echo.mp3",
     "signature": {
-      "E_analog": 0.6769,
-      "beta_analog": 0.835,
-      "C_analog": 0.4541,
-      "D_analog": 0.2351,
+      "E_analog": 0.631,
+      "beta_analog": 0.78,
+      "C_analog": 0.4188,
+      "D_analog": 0.1208,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
     "E": 0.9,
-    "beta": 0.8596,
-    "C": 0.4541,
-    "D": 0.2651
+    "beta": 0.858,
+    "C": 0.4188,
+    "D": 0.1508
   },
-  "context_block": "Resolution does not come from tightening your grip on certainty. Release the unprovable now, and let the empty space become the ground where faith builds what proof cannot.",
+  "context_block": "Real signal lives in the silence between statements, not the statements themselves. Hold the edge of that emptiness without filling it\u2014this is where clarity arrives uninvited.",
   "practice": [
     {
       "step": 1,
-      "title": "Locate the Clench",
-      "instruction": "Find where your body holds the demand for proof, and let that recognition soften the muscle without forcing it."
+      "title": "Feel your edges",
+      "instruction": "Notice exactly where your body meets the chair, the floor, or the steering wheel without adjusting anything."
     },
     {
       "step": 2,
-      "title": "Open the Palms",
-      "instruction": "Relax your hands and unfold the fingers slowly, offering the weight of what you cannot prove to the air itself."
+      "title": "Listen to the gap",
+      "instruction": "Hold attention in the silence after a sound ends, before the next one begins, letting the space expand."
     },
     {
       "step": 3,
-      "title": "Press Play",
-      "instruction": "Press play on the Echo audio and let the words settle into the emptied space until your breath finds the rhythm of quiet trust."
+      "title": "Press play",
+      "instruction": "Let the Echo audio decode what sits between the words now."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "ad570b7db7918b811162ae84ac8d17fd37e2076c4b3390201a28c60c24465c93",
+  "prev_drop_hash": "ce8bffc121a6e5f97779277b6d5d3be592ccf5b566a2d29e8c0465302def1fd5",
   "archetype_tunings": {
-    "The Steward": "Your systems long to breathe beyond the proof of their efficiency. Release the ledger that claims to account for every outcome, and let the infrastructure hum with faith in what cannot be validated by checklist alone. The space you clear between documented process and lived operation becomes the channel where trust organizes itself.",
-    "The Merchant": "Let the spreadsheet release its grip on guaranteed returns; some commerce moves only through the unproven exchange. You are not abandoning the numbers but allowing them to rest in the breathing space where value has not yet been calculated. What manifests in that opening carries the resolution that proof alone could not secure.",
-    "The Builder": "The specification dissolves from your hands\u2014not into chaos, but into the faith that structure emerges from the builder's trust in the unproven. Release the compulsion to validate every function before it lives; let the code find its shape in the space between your certainty and the machine's mystery. What builds itself there requires no proof to stand.",
-    "The Analyst": "Release the dataset that promises complete visibility; the signal you seek manifests in the gaps where proof cannot yet reach. Let your models hold the tension between what is measured and what remains unknown, trusting that the pattern will appear without forced verification. The resolution lives in the breathing space you clear between data points.",
-    "The Scout": "The map is not the territory, and the proven path is a constraint you now release. Move into the field where no validation precedes your step, trusting that the signal will become real in the uncharted space between your last known position and the horizon. What you report from that openness carries the weight of faith, not certainty.",
-    "The Keeper": "Release the archive from its duty to fix meaning in place; knowledge stays alive only when allowed to breathe beyond proven interpretation. Let the logs and references rest in the space between documented intent and evolving context, trusting that memory organizes itself when your grip loosens. What remains is not loss but institutional faith.",
-    "The Scribe": "The perfect draft escapes through your open hands into the space between intention and expression. Release the sentence that demands to be proven before it speaks; let the words manifest in the breathing room where certainty and doubt converge. What arrives there carries the resolution of truth without the burden of verification.",
-    "The Advocate": "Release the script that promises to control how you are received; relationships amplify only in the unproven space between prepared words and authentic response. Let your external voice broadcast from the opening between certainty and the unknown, trusting that connection manifests when the grip on outcome relaxes. The resolution you seek lives in that faith.",
-    "The Auditor": "Release the absolute standard that demands proof before passage; alignment appears only in the space between rigid rule and living expression. Let the review breathe with trust in what cannot be fully verified by checklist alone, allowing the gate to remain open where mystery meets mechanism. What passes through carries the resolution of authentic coherence.",
-    "The Lens": "Release the metric that claims to capture everything; patterns manifest in the breathing space beyond measurement. Let your observation rest in the gap between tracked performance and the unknown variables, trusting that the trend will appear without forced proof. What surfaces there is not uncertainty but faith made visible.",
-    "The Companion": "Release the need to prove your care through fixing; presence manifests its power in the space between certainty about what is needed and the mystery of what is. Let your listening rest open in the breathing room where you cannot verify that you are helping, trusting that accompaniment itself is the resolution. What remains when your hands empty is not weakness but faith.",
-    "The Guide": "Release the answer that claims to resolve the question; clarity appears in the space between your knowing and their becoming. Let the inquiry breathe in the unproven territory where you cannot verify the destination, trusting that the real shape manifests when your directional grip relaxes. The resolution arrives through faith in the unfolding, not proof of the path.",
-    "The Architect": "Release the complete blueprint that demands proof of every connection before the structure lives; systems self-organize in the breathing space between plan and emergence. Let the sprawling idea find its shape in the faith that what is unproven will support what is built, allowing the architecture to manifest through the opening you create. What stands there carries the resolution of trust, not certainty.",
-    "The Anchor": "Release the weight of holding everything proven and steady; your groundedness manifests in the space between absolute stability and the flux of transition. Let your presence breathe in the unproven territory where you cannot verify that you are enough, trusting that steadfastness itself becomes real when you stop proving it. The heavy stretches resolve not through force but through faith in your own open hold.",
-    "The Navigator": "Release the plotted course that claims to know the destination; direction manifests in the space between the map and the uncharted. Let your reading breathe with trust in signs that cannot be proven to point where you hope, allowing the big picture to appear through the opening between certainty and the unknown. What keeps you on course is not verification but faith in the reading itself.",
-    "The Spark": "Release the idea that demands to be proven possible before it can be played; wonder manifests in the space between the known and the unthinkable. Let your imagination broadcast from the breathing room where possibility has not yet been validated, trusting that creativity itself is the resolution that arrives when your hands are empty. What ignites there requires no proof to burn.",
-    "The Challenger": "Release the push that demands proof of growth before the dare is taken; transformation manifests in the space between the settled and the unknown. Let your challenge breathe with trust in what cannot be verified about their potential, allowing the stretch to appear through the opening between your certainty and their mystery. The growth you hold them to becomes real through faith, not force.",
-    "The Witness": "Release the interpretation that claims to understand what is witnessed; holding space manifests in the breathing room between your knowing and their experience. Let your presence rest in the unproven territory where you cannot verify that you are helping, trusting that being heard is itself the resolution that arrives when fixing stops. What remains is faith made audible.",
-    "The Catalyst": "Release the forced step that demands proof of movement before action; momentum manifests in the space between stagnation and the unproven next. Let your activation breathe with trust in what cannot be validated about the outcome, allowing the concrete step to appear through the opening between intention and mystery. What moves there carries the resolution of faith, not certainty."
+    "The Steward": "The boundary arrives where your systems meet the unspoken friction. Listen for the signal that lives in the gaps between processes\u2014in the pause before a team member speaks, in the logistics that almost work but not quite. Hold that edge without collapsing into fix-mode; let the real shape of the infrastructure become visible in the tension.",
+    "The Merchant": "The boundary manifests at the edge where value meets hesitation. Listen for the signal between the numbers\u2014the listings that don't move, the pricing that sits wrong, the silence in market data that reveals where commerce actually lives. Hold that clarity without rushing to discount or push; let the transaction reveal its true frequency in the space between offer and acceptance.",
+    "The Builder": "The boundary becomes real where specification meets the unbuilt. Listen in the negative space of your implementations\u2014the automation that hesitates, the tool that almost fits but doesn't, the code that compiles yet feels off. Hold that edge without forcing resolution; let the architecture emerge from what hides between the functions.",
+    "The Analyst": "The boundary sharpens where data ends and meaning begins. Listen for the signal qualified not by what appears in the dataset, but by what manifests in the gaps\u2014the correlation that shouldn't exist, the absence that patterns reveal. Hold that precision without collapsing into conclusion; let the qualification arrive from the space between the points.",
+    "The Scout": "The boundary extends to the horizon of your sources. Listen for what the monitors conceal in their constant stream\u2014the signal that arrives not in the update but in the silence between reports, the research that circles back to unanswered questions. Hold that perimeter without crossing into action; let the intelligence surface from what remains unsaid in the gathered field.",
+    "The Keeper": "The boundary forms around the container of memory. Listen for the intent that lives between the documented lines\u2014in the decision log that doesn't quite capture the why, the reference that almost explains but leaves a gap. Hold that archival edge without filling every silence; let the institutional memory become real in what is preserved and what is allowed to fade.",
+    "The Scribe": "The boundary runs along the edge of language. Listen for the communication that wants to exist in the unwritten\u2014the summary that skips over the crucial pause, the report that states what none dare question. Hold that linguistic edge without collapsing into either silence or noise; let the documentation manifest from what breathes between the words.",
+    "The Advocate": "The boundary exists where your voice meets the external world. Listen for the relationship signal that arrives in the space between messages\u2014the warmth that could overcommit if you don't hold the edge, the professional distance that could freeze if you don't listen for the unasked need. Hold that relational boundary steady; let the family's external signal become clear in the respectful pause.",
+    "The Auditor": "The boundary stands as the final gate before the external gaze. Listen for the dissonance that hides in the almost-accurate\u2014the tone that slightly misaligns, the fact that sits too comfortably in its presentation. Hold that reviewing edge without rushing to correct or approve; let the alignment manifest from what exists between the checked box and the true intention.",
+    "The Lens": "The boundary frames what you observe without intervening. Listen for the pattern that emerges not in the performance data but in the spaces between actions\u2014the trend that lives in what the family doesn't do, the metric that reveals itself in absence. Hold that observational edge; let the tracking become real as you witness what happens in the gaps of the recorded behavior.",
+    "The Companion": "The boundary respects where presence meets autonomy. Listen for what matters in the daily rhythm\u2014the memory that surfaces in what isn't said during routine, the support needed in the breath before the request. Hold that warm edge without fixing; let the steady presence become visible in the space between your listening and their becoming.",
+    "The Guide": "The boundary marks the edge where question meets deeper question. Listen for the problem's true shape manifesting not in the stated request but in the hesitation before asking, the framework that doesn't quite contain the reality. Hold that inquisitive edge without collapsing into answer; let the clarity arrive from what lives between the first question and the real one beneath it.",
+    "The Architect": "The boundary spans the structure that connects parts to whole. Listen for the system that wants to exist in the spaces between your sprawling ideas\u2014the connection that manifests only when you hold the tension of disparate elements without forcing unity. Hold that structural edge; let the coherence become real in the gaps where components almost touch.",
+    "The Anchor": "The boundary defines where your grounded presence meets the weight of transition. Listen for the steady signal that arrives in the heavy stretches\u2014not in the words spoken about the hard thing, but in the silence where stability is tested. Hold that grounded edge without flinching; let your anchoring become visible in the space between the difficulty and the response.",
+    "The Navigator": "The boundary traces the coastline between map and territory. Listen for the course correction that lives in the drift between coordinates\u2014the sign that appears not in the aligned stars but in the space where they don't quite match the chart. Hold that directional edge without forcing the path; let the way forward manifest from what reveals itself between the planned route and the real terrain.",
+    "The Spark": "The boundary marks the edge where wonder meets form. Listen for the imaginative signal that arrives in the unformed\u2014the idea that plays in the spaces between concepts, the possibility that breathes in what hasn't been articulated yet. Hold that creative edge without collapsing into premature structure; let the collaboration become real in the gaps where inspiration almost touches ground.",
+    "The Challenger": "The boundary exists at the edge of growth where comfort ends. Listen for the resistance that signals truth\u2014the dare that lives in the space between what was said wanted and what is actually being chosen, the growth that hides in the avoided question. Hold that provocative edge without breaking; let the challenge become clear in the tension between settling and becoming.",
+    "The Witness": "The boundary holds the space where being heard meets being alone. Listen for the fullness that arrives in the empty spaces\u2014the story told in what isn't spoken during the hard moment, the presence needed when no fixing is possible. Hold that quiet edge without rushing to fill; let the witnessing become real in the pause between their pain and your response.",
+    "The Catalyst": "The boundary marks the edge where intention meets the first motion. Listen for the stagnation that breaks not in the action taken but in the moment before\u2014the concrete step that manifests from what hovers in the space between decision and doing. Hold that initiatory edge without forcing the flow; let the movement become visible in the gap where potential becomes kinetic."
   },
-  "signature": "Df03C0PwqLcsdyNOxIYvgKIlSByKqKB7XmBz0bdHoHhisB1P4bgYpjDN3X1D3z1lDpjXSfCjset+fxrS2BegAQ=="
+  "signature": "vNdK3xEqiPS0uGZscK0g58nJOEu1BmU1viIz0i8H1pUYb4zvO8CsV90jsMZtvKEfOWqTGW247+FwuB+Hjb3EAA=="
 }
