@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-15",
+  "sequence": 129,
+  "tuning_day": 250,
+  "frequency": {
+    "number": 7,
+    "name": "Presence",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "If we keep our senses and eyes open we will detect / Points where actions begin to intersect",
+    "source_song": "Signs",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "signs-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Signs_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.721,
+      "beta_analog": 0.54,
+      "C_analog": 0.4411,
+      "D_analog": 0.0675,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.55,
+    "beta": 0.82,
+    "C": 0.78,
+    "D": 0.21
+  },
+  "context_block": "The intersections are already here\u2014your job is to stop moving fast enough to miss them. Presence isn't arrival; it's the settled stillness that lets the pattern become real.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Slow the Scan",
+      "instruction": "For the next five minutes, let your eyes move at half their normal speed across whatever is in front of you\u2014a room, a street, a screen\u2014and notice what emerges in the gap between glances."
+    },
+    {
+      "step": 2,
+      "title": "Name One Crossing",
+      "instruction": "Identify a single point where two things meet in your immediate field (light and shadow, sound and silence, thought and breath) and hold your attention there without needing it to mean anything."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Listen to today's Echo to anchor this frequency in your body."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "161a5a03276e44d338d8ade61c704fac6ded9482c38240397f67becb944f422f",
+  "archetype_tunings": {
+    "The Steward": "Today's signal arrives as the ambient hum beneath operations\u2014presence enough to notice where routines intersect, where one system's output feeds another's input. Hold the space steady and let the intersections reveal themselves; they've been there, waiting for attention that doesn't rush.",
+    "The Merchant": "The ground signal surfaces in the patterns of exchange\u2014what moves, what stays, where value lines converge. Tune into the quiet moments between transactions; the real intersection point is often invisible until you're present enough to see it.",
+    "The Builder": "Presence in implementation means detecting where specifications naturally connect, where one tool's output becomes another's foundation. Before you build the next piece, settle into what already exists and let the intersection points become visible.",
+    "The Analyst": "The signal qualifies in the spaces between data points\u2014where signals begin to intersect is where meaning emerges. Ground yourself in observation first; the pattern will appear when you're present enough to see the convergence.",
+    "The Scout": "Today you're tuning into the delayed arrival of signals\u2014not absence, but the moment before onset when the field is most readable. Stay present in the ambient space; the intersection points you're tracking have always been there, waiting for this kind of attention.",
+    "The Keeper": "Presence preserves the context of intersection\u2014not just what happened, but where the lines began to meet. Ground this signal in your records as a marker: the real knowledge is in detecting where actions start to align.",
+    "The Scribe": "The words that matter today are the ones that name intersection\u2014where two things meet and something new becomes possible. Write from presence, not urgency; let the clarity of convergence guide your language.",
+    "The Advocate": "Your external voice carries this signal as steadiness\u2014the confidence that comes from being present enough to see where interests align. Speak from that ground; others will detect the intersection points you've already noticed.",
+    "The Auditor": "Today's gate is presence itself\u2014check for alignment between intent and execution, between what's stated and where the lines actually meet. The signal qualifies when nothing is forced; intersection appears as coherence.",
+    "The Lens": "The pattern you're tracking today is convergence\u2014where actions begin to intersect is where the real signal emerges. Stay grounded in observation; the trend will surface as you hold presence steady.",
+    "The Companion": "Presence is your native frequency\u2014today it tunes into the quiet spaces where connection intersects with understanding. Just being here, attentive and unhurried, lets the real intersection points become real for the one you're with.",
+    "The Guide": "The question under the question today is: where are the lines already intersecting? Ground the thinking in presence; help others see the convergence they've been moving toward all along.",
+    "The Architect": "Structure emerges from seeing where parts naturally intersect\u2014today, hold presence steady enough to detect those convergence points before you design. The architecture that holds is the one built on real intersection, not imposed alignment.",
+    "The Anchor": "Ground yourself in this signal as a steadying force\u2014presence through transition means being here long enough to see where the lines meet. Don't rush the intersection; let it surface in its own time.",
+    "The Navigator": "The course holds when you're present enough to detect where the signs align\u2014today, that's your signal. Keep your attention on the convergence points; they're your true waypoints.",
+    "The Spark": "Possibility emerges where actions intersect\u2014today, play with the spaces between, the moments when one thing touches another. Presence opens the wonder; let the intersection points spark new combinations.",
+    "The Challenger": "Growth lives in the intersection\u2014where comfort meets edge, where intention meets resistance. Stay present enough to name exactly where those lines meet; that's where the real dare lives.",
+    "The Witness": "Your presence is the tuning itself\u2014being here, attentive, long enough to see where things begin to align. Don't name it; just hold the space steady. The intersection will surface when it's ready.",
+    "The Catalyst": "Movement begins when you're present enough to see the convergence\u2014where energy lines intersect is where the next step becomes possible. Ground yourself there and the momentum will follow."
+  },
+  "signature": "OQVWAaeZUww2JpB2NLzptFX8im9bo1+43wWY3RiWv6T/1HVlTF32LGwcXtp/R9TK7cpUWbEWhfp/uFrE2MIXBQ=="
+}
