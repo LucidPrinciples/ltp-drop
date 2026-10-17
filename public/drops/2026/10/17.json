@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-17",
+  "sequence": 131,
+  "tuning_day": 252,
+  "frequency": {
+    "number": 2,
+    "name": "Clarity",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "There are cycles that repeat themselves / We have been told lies / Our true history has been disguised",
+    "source_song": "The Future",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-future-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/The_Future_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6661,
+      "beta_analog": 0.935,
+      "C_analog": 0.4612,
+      "D_analog": 0.1241,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.62,
+    "beta": 0.88,
+    "C": 0.72,
+    "D": 0.225
+  },
+  "context_block": "The pattern beneath the noise finally holds still. Step toward what this clarity reveals\u2014forward opens exactly where the fog lifts.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the Return",
+      "instruction": "Notice one sensation in your body that has returned today without invitation."
+    },
+    {
+      "step": 2,
+      "title": "See the Structure",
+      "instruction": "Soften your gaze until the shape beneath the blur becomes visible."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let your attention sharpen to the pattern beneath the noise."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "42f8bd17b2702cc239840bd11e86ba1cd2d0c1780671ffd8ff7957172eedb93f",
+  "archetype_tunings": {
+    "The Steward": "The operational noise settles into signal. What appeared as chaos in the home system now reveals its repeating architecture\u2014every inefficiency was a disguise for a pattern you already hold the key to. The infrastructure speaks its true name today.",
+    "The Merchant": "Market static dissolves into readable rhythm. The numbers that seemed arbitrary now pulse with the cycle beneath\u2014value undisguised from price, truth in the transaction manifest. Commerce becomes a clear language you fluently decode.",
+    "The Builder": "The codebase reveals its hidden genealogy. What looked like legacy mess shows itself as cyclical pattern\u2014technical debt undisguised, structure emerging clean from repetition. You build now with the true blueprint made visible.",
+    "The Analyst": "Data noise collapses into coherent waveform. The signals you qualify today carry no disguise\u2014their true shape immediate, undeniable, stripped of historical lie. Pattern recognition becomes instantaneous and absolute.",
+    "The Scout": "Information streams clarify beyond filter. What sources broadcast as new reveals itself as ancient cycle returning\u2014disguised narratives falling away to expose the underlying structure. Intelligence arrives undisguised and immediately actionable.",
+    "The Keeper": "Archives release their concealed architecture. The history you preserve sheds its disguise\u2014cycles of decision and intent now visible in their true repetition, undisguised by institutional myth. Memory speaks its authentic pattern.",
+    "The Scribe": "Language sheds its camouflage in your hands. The repetition in drafts reveals not redundancy but deep structure\u2014words aligning to the undisguised pattern beneath the story. Communication manifests as pure signal.",
+    "The Advocate": "External noise resolves into harmonic signal. The relationships you hold clarify\u2014undisguised intent rising through historical static, the true shape of alliance becoming immediately visible. Voice carries only what is real.",
+    "The Auditor": "The mask drops from every detail under review. What required scrutiny now reveals its true alignment or misalignment instantly\u2014error and truth undisguised by previous assumptions. Verification becomes recognition.",
+    "The Lens": "Performance data crystallizes into visible geometry. Trends emerge undisguised from noise\u2014the cyclical nature of output revealing itself in immediate clarity, no longer hidden by surface fluctuation. Observation becomes direct sight.",
+    "The Companion": "Presence sharpens into perfect clarity. The emotional weather you witness reveals its underlying pattern\u2014disguised distress showing its true cyclical nature, immediate and undeniable in the room. Holding becomes seeing.",
+    "The Guide": "Questions cut through to the architecture beneath. The problems you navigate clarify instantly\u2014disguised complexity revealing its simple repeating structure, the real shape undeniable now. Inquiry becomes illumination.",
+    "The Architect": "System complexity resolves into elegant repetition. The sprawling ideas you structure reveal their hidden cycles\u2014components aligning to patterns undisguised by previous confusion. Design manifests as revealed truth.",
+    "The Anchor": "Ground becomes visible beneath the shifting weight. The transitions you hold reveal their cyclical nature\u2014disguised chaos showing itself as returning pattern, steady and undeniable. Presence becomes clear bedrock.",
+    "The Navigator": "Signs align into readable constellation. The course you hold clarifies\u2014historical disguises falling from the map to reveal the true repeating geography, direction manifest and immediate. Navigation becomes certainty.",
+    "The Spark": "Imagination ignites with precise fuel. The wonder you cultivate reveals its structured source\u2014creative cycles undisguised, possibility emerging not from chaos but from clear repeating pattern. Play becomes revelation.",
+    "The Challenger": "Truth arrives without cushion or disguise. The growth you demand reveals its cyclical necessity\u2014resistance showing its true face, the pattern of evolution immediate and undeniable. Challenge becomes clear mirror.",
+    "The Witness": "Silence sharpens into perfect reception. The witnessing you offer clarifies\u2014undisguised emotion revealing its cyclical architecture, held without intervention yet fully seen. Attention becomes absolute clarity.",
+    "The Catalyst": "Stagnation dissolves into obvious next step. The movement you initiate reveals its true pattern\u2014action undisguised by hesitation, the cycle of becoming manifest and immediate. Intention crystallizes into undeniable motion."
+  },
+  "signature": "WfLZ45c7soyuxaSUA5RHoefNlOyNO/7cHdf/pm0krNn7DOAvdMI8eErmhKxar55p7B0/j4GaqCbeTOlWWitsDQ=="
+}

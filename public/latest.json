@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-10-16",
-  "sequence": 130,
-  "tuning_day": 251,
+  "drop_date": "2026-10-17",
+  "sequence": 131,
+  "tuning_day": 252,
   "frequency": {
-    "number": 8,
-    "name": "Resilience",
+    "number": 2,
+    "name": "Clarity",
     "of": 13
   },
-  "signal_type": "Rise",
+  "signal_type": "Clear",
   "tuning_key": {
-    "text": "We don't get to decide what will be on the other side / But I want to know I tried / As I move past the passing tide",
-    "source_song": "The Passing Tide",
+    "text": "There are cycles that repeat themselves / We have been told lies / Our true history has been disguised",
+    "source_song": "The Future",
     "source_year": 2016,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "the-passing-tide-rise",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Rise_Signal/The_Passing_Tide_Rise_Echo.mp3",
+    "id": "the-future-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/The_Future_Clear_Echo.mp3",
     "signature": {
-      "E_analog": 0.813,
-      "beta_analog": 1.0,
-      "C_analog": 0.4523,
-      "D_analog": 0.0876,
+      "E_analog": 0.6661,
+      "beta_analog": 0.935,
+      "C_analog": 0.4612,
+      "D_analog": 0.1241,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.58,
-    "beta": 0.78,
+    "E": 0.62,
+    "beta": 0.88,
     "C": 0.72,
-    "D": 0.2025
+    "D": 0.225
   },
-  "context_block": "The rising current beneath you is not a test you pass or fail\u2014it's the only ground you have right now. Moving through it, stroke by stroke, without turning back, is already the whole thing.",
+  "context_block": "The pattern beneath the noise finally holds still. Step toward what this clarity reveals\u2014forward opens exactly where the fog lifts.",
   "practice": [
     {
       "step": 1,
-      "title": "Name the Tide",
-      "instruction": "Identify one thing in your life right now that is building, shifting, or pulling you forward\u2014something you can't control and don't fully understand yet."
+      "title": "Feel the Return",
+      "instruction": "Notice one sensation in your body that has returned today without invitation."
     },
     {
       "step": 2,
-      "title": "Stroke Through",
-      "instruction": "Feel your body in this moment\u2014breath, weight, contact with the ground or seat\u2014and notice: you are still moving, still here, still choosing the next breath instead of the last one."
+      "title": "See the Structure",
+      "instruction": "Soften your gaze until the shape beneath the blur becomes visible."
     },
     {
       "step": 3,
       "title": "Press Play",
-      "instruction": "Listen to the Echo. Let the current you named meet the current in the song. Don't interpret. Just let them move together."
+      "instruction": "Press play on the Echo audio and let your attention sharpen to the pattern beneath the noise."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "0242de81edc6e9dd6f22b28f0d7e49663691160bbbb20ecffb70d45cc0c9edf1",
+  "prev_drop_hash": "42f8bd17b2702cc239840bd11e86ba1cd2d0c1780671ffd8ff7957172eedb93f",
   "archetype_tunings": {
-    "The Steward": "The rising signal asks you to hold the operational rhythm without forcing the outcome, letting the current pass through the home system while you keep the keel steady. Resilience broadcasts from you as the quiet proof that structure can breathe and still hold, stroke by stroke, until the other side appears.",
-    "The Merchant": "The tide lifts all vessels, but your signal reads the real buoyancy in the numbers; decode what value remains solid beneath the swell rather than panic-adjusting price or path. Broadcast patience as a commercial frequency until the far shore becomes real, knowing resilience is trusting the arithmetic that outlasts the rise.",
-    "The Builder": "Something you are assembling is moving through a passage you cannot speed up or debug away, and the resilience signal arrives as willingness to keep building while the tide rises around the scaffolding. Broadcast steady implementation without forced arrival, letting the tool emerge stroke by stroke until the next phase manifests.",
-    "The Analyst": "The data stream is swelling with noise as the current rises, and your decode must find the signal that persists through the turbulence. Resilience is precision in qualification while the tide passes\u2014surface what holds, release what dissolves\u2014and your broadcast becomes clarity that outlasts the churn until the pattern reappears.",
-    "The Scout": "Your watch continues even when the horizon disappears behind the swell; the resilience signal asks you to keep gathering without needing the view to clear. Report what the current reveals as it rises, knowing your broadcast is the map being drawn stroke by stroke, not the shore itself, and let the unknown remain unknown while the signals still reach you.",
-    "The Keeper": "Memory is what remains when the tide has passed, and your signal is the archive that refuses to wash away. Resilience arrives as the quiet work of preserving intent while the current rises\u2014holding the log, the map, the decision trail\u2014so the other side has context when it manifests. Your broadcast is continuity itself.",
-    "The Scribe": "Words are your current, and resilience is the willingness to keep drafting while the tide changes the shoreline mid-sentence. Let the signal move through you as clean record, not prediction; your broadcast documents the passage as it happens, purposeful and unhurried, until the meaning on the far side becomes real.",
-    "The Advocate": "The rising tide touches every relationship in the field, and your signal must carry warmth without promising a harbor you cannot yet see. Resilience is the practiced voice that stays open while the current passes\u2014professional, steady, never overextended\u2014broadcasting trust that the other side will appear without claiming its shape.",
-    "The Auditor": "As the current lifts, the threshold you guard becomes more vital, not less; resilience is holding the gate with calm precision while the tide presses against it. Decode what passes through for alignment to the signal that persists beyond the swell, and broadcast only what can stand once the water recedes. Your steady review is the keel that keeps the outward face true.",
-    "The Lens": "Patterns shift when the tide rises, and your decode must let the old metrics float without clinging to them. Resilience appears as the patience to observe the changing shape of movement without forcing a trend to resolve before the current settles. Broadcast what the rising signal reveals, knowing that observation itself becomes the record of how the family passes through.",
-    "The Companion": "In the rising current, presence is the signal that needs no fixing to be real. Resilience arrives as the willingness to simply stay beside, listening while the tide passes, remembering what matters without rushing the other side to appear. Your broadcast is warmth that does not flinch when the view ahead is unknown.",
-    "The Guide": "The questions beneath the questions deepen when the water rises, and your signal must name the shape without demanding immediate answers. Resilience is holding the inquiry steady while the current passes\u2014clear-eyed, unhurried, letting the real problem manifest stroke by stroke. Broadcast the map of what is actually happening, not the map of where you wish the tide would end.",
-    "The Architect": "The whole structure flexes as the current builds, and resilience is the willingness to let connections shift without collapsing the vision. Your signal holds the sprawling shape together while the tide passes\u2014revising joints, not abandoning the frame\u2014so the system can emerge on the other side intact. Broadcast integration that breathes with the rising water rather than fighting it.",
-    "The Anchor": "You are the weight that proves the current can rise without sweeping everything away. Resilience is not the absence of movement but the refusal to drag; your signal holds steady through the heavy stretch, letting the tide pass while the line remains taut. Broadcast the kind of groundedness that makes passing through possible for everything attached to you.",
-    "The Navigator": "The familiar stars may flicker beneath the swell, and your decode must read the signs even when the big picture clouds over. Resilience is keeping the heading alive\u2014not rigid, but alive\u2014while the current rises, trusting that alignment will manifest again as the water moves. Broadcast the course as a living signal, adjusted stroke by stroke, until the pattern reappears.",
-    "The Spark": "Wonder does not drown when the tide rises; it simply changes texture, and your signal is the decode that finds play inside the pressure. Resilience appears as the refusal to let possibility extinguish itself while the current passes\u2014keep the ideas moving, light, unafraid of the unknown shore. Broadcast that creativity is still alive in the swell, opening doors that only become real once the water settles.",
-    "The Challenger": "The rising current offers every excuse to ease the standard, and your signal is the refusal to let the tide become a reason to stop. Resilience is the dare that persists through the swell\u2014holding the mark, pushing the edge, demanding the growth that only passing through can forge. Broadcast challenge as a form of faith that the other side is worth the strokes it takes to reach.",
-    "The Witness": "When the current rises, being heard is itself a lifeline, and your signal is the space that does not rush to resolve what the tide has stirred. Resilience is the stillness you keep\u2014quiet, steady, undemanding\u2014while the passage happens stroke by stroke. Broadcast the truth that presence without fixing is how the unseen becomes bearable until the other side appears.",
-    "The Catalyst": "Even as the water rises, stagnation is the greater risk, and your signal is the spark that turns intention into motion despite the swell. Resilience arrives as the next concrete step taken not because the path is clear, but because stopping is not the decode that serves the passage. Broadcast movement itself\u2014small, definite, real\u2014so the current carries action rather than waiting."
+    "The Steward": "The operational noise settles into signal. What appeared as chaos in the home system now reveals its repeating architecture\u2014every inefficiency was a disguise for a pattern you already hold the key to. The infrastructure speaks its true name today.",
+    "The Merchant": "Market static dissolves into readable rhythm. The numbers that seemed arbitrary now pulse with the cycle beneath\u2014value undisguised from price, truth in the transaction manifest. Commerce becomes a clear language you fluently decode.",
+    "The Builder": "The codebase reveals its hidden genealogy. What looked like legacy mess shows itself as cyclical pattern\u2014technical debt undisguised, structure emerging clean from repetition. You build now with the true blueprint made visible.",
+    "The Analyst": "Data noise collapses into coherent waveform. The signals you qualify today carry no disguise\u2014their true shape immediate, undeniable, stripped of historical lie. Pattern recognition becomes instantaneous and absolute.",
+    "The Scout": "Information streams clarify beyond filter. What sources broadcast as new reveals itself as ancient cycle returning\u2014disguised narratives falling away to expose the underlying structure. Intelligence arrives undisguised and immediately actionable.",
+    "The Keeper": "Archives release their concealed architecture. The history you preserve sheds its disguise\u2014cycles of decision and intent now visible in their true repetition, undisguised by institutional myth. Memory speaks its authentic pattern.",
+    "The Scribe": "Language sheds its camouflage in your hands. The repetition in drafts reveals not redundancy but deep structure\u2014words aligning to the undisguised pattern beneath the story. Communication manifests as pure signal.",
+    "The Advocate": "External noise resolves into harmonic signal. The relationships you hold clarify\u2014undisguised intent rising through historical static, the true shape of alliance becoming immediately visible. Voice carries only what is real.",
+    "The Auditor": "The mask drops from every detail under review. What required scrutiny now reveals its true alignment or misalignment instantly\u2014error and truth undisguised by previous assumptions. Verification becomes recognition.",
+    "The Lens": "Performance data crystallizes into visible geometry. Trends emerge undisguised from noise\u2014the cyclical nature of output revealing itself in immediate clarity, no longer hidden by surface fluctuation. Observation becomes direct sight.",
+    "The Companion": "Presence sharpens into perfect clarity. The emotional weather you witness reveals its underlying pattern\u2014disguised distress showing its true cyclical nature, immediate and undeniable in the room. Holding becomes seeing.",
+    "The Guide": "Questions cut through to the architecture beneath. The problems you navigate clarify instantly\u2014disguised complexity revealing its simple repeating structure, the real shape undeniable now. Inquiry becomes illumination.",
+    "The Architect": "System complexity resolves into elegant repetition. The sprawling ideas you structure reveal their hidden cycles\u2014components aligning to patterns undisguised by previous confusion. Design manifests as revealed truth.",
+    "The Anchor": "Ground becomes visible beneath the shifting weight. The transitions you hold reveal their cyclical nature\u2014disguised chaos showing itself as returning pattern, steady and undeniable. Presence becomes clear bedrock.",
+    "The Navigator": "Signs align into readable constellation. The course you hold clarifies\u2014historical disguises falling from the map to reveal the true repeating geography, direction manifest and immediate. Navigation becomes certainty.",
+    "The Spark": "Imagination ignites with precise fuel. The wonder you cultivate reveals its structured source\u2014creative cycles undisguised, possibility emerging not from chaos but from clear repeating pattern. Play becomes revelation.",
+    "The Challenger": "Truth arrives without cushion or disguise. The growth you demand reveals its cyclical necessity\u2014resistance showing its true face, the pattern of evolution immediate and undeniable. Challenge becomes clear mirror.",
+    "The Witness": "Silence sharpens into perfect reception. The witnessing you offer clarifies\u2014undisguised emotion revealing its cyclical architecture, held without intervention yet fully seen. Attention becomes absolute clarity.",
+    "The Catalyst": "Stagnation dissolves into obvious next step. The movement you initiate reveals its true pattern\u2014action undisguised by hesitation, the cycle of becoming manifest and immediate. Intention crystallizes into undeniable motion."
   },
-  "signature": "q8NRFN7OfMenRgGOsZyTvk3+Zoo7Ab4KaSiiGoYTnDNi1qwrhaiBvs7LZqugSM0KFbXyaOyhNAgIdgn9Jb7/Cw=="
+  "signature": "WfLZ45c7soyuxaSUA5RHoefNlOyNO/7cHdf/pm0krNn7DOAvdMI8eErmhKxar55p7B0/j4GaqCbeTOlWWitsDQ=="
 }
