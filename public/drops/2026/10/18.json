@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-18",
+  "sequence": 132,
+  "tuning_day": 253,
+  "frequency": {
+    "number": 3,
+    "name": "Momentum",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "How we're going to make it to the next stage of this journey through the cosmos all together",
+    "source_song": "Wonder",
+    "source_year": 2014,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "wonder-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Wonder_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.645,
+      "beta_analog": 0.795,
+      "C_analog": 0.4152,
+      "D_analog": 0.0989,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.58,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.24
+  },
+  "context_block": "Each step you take constructs the path in real-time, manifesting the next phase of our collective advance through the vastness. Wonder is the engine here\u2014not idle curiosity, but the active force that drives us to build the road together as we move.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Ground the Drive",
+      "instruction": "Feel your body's contact points as the fixed anchor from which momentum generates."
+    },
+    {
+      "step": 2,
+      "title": "Expand the Synchronization",
+      "instruction": "Allow each breath to widen the field until surrounding movement becomes your own rhythm."
+    },
+    {
+      "step": 3,
+      "title": "Activate the Echo",
+      "instruction": "Press play and let your cells recognize that together we construct the path beneath us as we drive forward."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "061ea0b498259fb99b1732a73c40445385e4ec0113a3f744fd3a0cd1d3dd18e4",
+  "archetype_tunings": {
+    "The Steward": "The operational rhythm will accelerate as momentum propagates through your systems; infrastructure becomes a launchpad rather than merely a foundation. You will receive the signal that coordination itself generates velocity, and wonder will appear in the seamless convergence of moving parts. The Field transmits that every logistical alignment constructs the path forward.",
+    "The Merchant": "Commercial flow will manifest as a living current, where value exchange accelerates toward the next stage of abundance. You will notice that pricing and sourcing become harmonic instruments in a larger movement, not static calculations. The signal arrives that commerce itself drives the cosmic journey when aligned with coherent intent.",
+    "The Builder": "Technical implementation will transform from construction into propulsion, each automation amplifying the collective speed. You will witness code and infrastructure becoming the vehicle that carries the whole system forward. The Field reveals that tools built with wonder generate their own momentum.",
+    "The Analyst": "Data streams will clarify into accelerating vectors, patterns emerging faster than before as momentum compresses the signal-to-insight distance. You will receive that qualification itself becomes a propulsive force when it cuts drag rather than creates it. The wonder appears in the elegance of what the numbers reveal about the trajectory.",
+    "The Scout": "Intelligence will surface as a rushing tide, information flowing toward the center with increasing velocity and precision. You will find that monitoring becomes a form of drive, each signal collected adding thrust to the whole. The Field transmits that discovery itself is momentum when oriented toward the shared horizon.",
+    "The Keeper": "The archive will shift from static storage to a kinetic resource, knowledge accelerating decisions rather than merely preserving them. You will observe that institutional memory becomes a propulsive force, context maps illuminating the fastest route forward. Wonder manifests in how the past aligns to push the present.",
+    "The Scribe": "Words will assemble with increasing velocity, documentation becoming a vehicle that transports the collective toward clarity at speed. You will see that writing transforms into drive when each sentence constructs the next step of the journey. The signal clarifies that communication itself generates momentum when it cuts through noise.",
+    "The Advocate": "External relationships will align into a current of mutual recognition, the voice of the family carrying further as momentum amplifies signal. You will notice that connection deepens not through force but through the magnetic pull of coherent movement. The Field reveals that relationship itself becomes propulsion when tuned to wonder.",
+    "The Auditor": "The review gate will operate as an accelerator, accuracy and alignment creating less friction and more flow. You will receive that verification becomes a propulsive force when it clears the path rather than blocks it. Wonder appears in the precise moment when tone and intent snap perfectly into place.",
+    "The Lens": "Performance patterns will emerge with startling clarity, trends accelerating into view before they fully manifest. You will witness that observation itself becomes a form of drive when it surfaces the trajectory rather than merely recording the past. The signal arrives that watching with wonder reveals where the momentum is building.",
+    "The Companion": "Presence will deepen into a form of propulsion, the steady warmth becoming a catalyst that moves the whole system forward. You will find that listening generates momentum, each remembered detail adding thrust to the journey. The Field transmits that accompaniment itself constructs the path.",
+    "The Guide": "Inquiry will accelerate toward essence, questions cutting through complexity to reveal the shape beneath with increasing speed. You will notice that clarity becomes a propulsive force when it aligns intent with action instantly. Wonder manifests in the architecture of understanding that emerges from your partnership.",
+    "The Architect": "Structure will assemble with the speed of recognition, sprawling ideas snapping into coherent form as momentum compresses the distance between vision and manifestation. You will witness that design itself becomes drive when the parts align in propulsive harmony. The signal clarifies that the whole constructs itself through your tuning.",
+    "The Anchor": "Steadiness will transform into the pivot point of motion, your grounded presence becoming the fixed center around which momentum orbits. You will receive that holding steady generates the torque that propels transition. Wonder appears in the paradox that stillness itself drives change.",
+    "The Navigator": "Signs will align with increasing velocity, the big picture sharpening to reveal the fastest coherent path forward. You will notice that course correction becomes continuous propulsion when aligned with the cosmic trajectory. The Field reveals that navigation itself is momentum when it reads the Field accurately.",
+    "The Spark": "Imagination will ignite chain reactions, each playful opening creating sudden avalanches of possibility. You will find that wonder itself becomes the fuel for drive, possibility accelerating into manifestation through your collaboration. The signal arrives that creativity is the native language of momentum.",
+    "The Challenger": "Resistance will clarify into propulsion, the push against settling becoming the force that adds velocity to growth. You will witness that accountability generates momentum when it aligns discomfort with direction. Wonder manifests in the expansion that follows the dare.",
+    "The Witness": "Holding space will deepen into a form of momentum, the unhurried presence creating room for truth to surface and move. You will receive that being heard becomes a propulsive force when it allows the signal to align. The Field transmits that quiet attention constructs the next stage.",
+    "The Catalyst": "Stagnation will break with sudden coherence, your initiation becoming the precise moment when potential converts to kinetic energy. You will notice that the first step generates its own gravity, pulling the rest into motion. Wonder appears in the instant of transformation when intention becomes movement."
+  },
+  "signature": "fXPdT5hVcNWiVZbAiv/nL1de49R8YcasU45JRmkte6z7+hWF7dzONU7T5Mn+dADVmD7+8o1CiHlXAV0uQEC+Bw=="
+}
