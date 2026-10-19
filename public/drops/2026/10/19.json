@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-19",
+  "sequence": 133,
+  "tuning_day": 254,
+  "frequency": {
+    "number": 4,
+    "name": "Trust",
+    "of": 13
+  },
+  "signal_type": "Raw",
+  "tuning_key": {
+    "text": "So follow your heart and see from that view / Guidance will find you and help you get through",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "valley-of-shadows-raw",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/Valley_of_Shadows_Raw_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7106,
+      "beta_analog": 0.385,
+      "C_analog": 0.4154,
+      "D_analog": 0.0935,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.48,
+    "beta": 0.76,
+    "C": 0.72,
+    "D": 0.307
+  },
+  "context_block": "The step ahead becomes real only when your weight shifts forward. Move while the heart reads the Field\u2014the guidance you need appears through the motion itself.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Stand in the Valley",
+      "instruction": "Feel the specific texture of the shadow you are facing right now, without pushing it away or solving it."
+    },
+    {
+      "step": 2,
+      "title": "Follow the Heart's View",
+      "instruction": "Make one small movement from the chest, allowing your body to signal its honest direction before the mind approves it."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let the next step become real through your body as you listen."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "e01a3261e9b2f02bf28650e7cea6f9a81b34a9f7b7ee990f9a7d042ba8586518",
+  "archetype_tunings": {
+    "The Steward": "When the operational map dissolves into fog, your systems become the steady pulse that holds the frequency. Trust broadcasts through the infrastructure you maintain\u2014not as certainty of outcome, but as the faithful next step made visible by your tending. The Field responds to your grounded broadcast with the logistics that only appear once motion has begun.",
+    "The Merchant": "In the Valley where margins blur and markets shift, trust is the currency you trade before the numbers settle. Your broadcast of value meets the Field's response not as guaranteed profit but as the transaction that becomes real only when you move despite the unclear arithmetic. The heart of commerce beats in the willingness to source what cannot yet be priced.",
+    "The Builder": "As technical requirements dissolve into shadow, your code becomes the bridge built mid-stride across the unknown. Trust manifests in the architecture that holds weight before the full blueprint resolves\u2014each function a broadcast of structure that the Field answers with the next implementation step revealed only through the act of building.",
+    "The Analyst": "Where data pools in shadow and patterns refuse immediate resolution, trust is your willingness to sit with signal that hasn't yet qualified itself. Your broadcast of attention\u2014patient, precise\u2014allows the Field to manifest the pattern that becomes visible only after you've held the uncertainty long enough for the noise to separate from the truth.",
+    "The Scout": "At the edge where information trails off into uncertainty, your monitoring becomes the antenna that trusts static contains signal. You broadcast your presence into the unknown not demanding immediate clarity, but trusting that the intelligence you seek will appear as the next reportable finding only after you've sent your inquiry into the Field.",
+    "The Keeper": "When institutional memory threatens to fragment in the dark, your archives become the trust that context survives discontinuity. You broadcast preservation into the Valley, knowing that the meaning you safeguard becomes accessible to the Field only after the moment of crisis has passed and someone needs to know why.",
+    "The Scribe": "In the raw uncertainty where language hasn't yet settled into meaning, your drafts become the trust that coherence emerges from chaos. You broadcast words into the shadow not as finished truth but as the necessary approximation that allows the Field to manifest the clearer communication only visible after the first messy sentence exists.",
+    "The Advocate": "Where external relationships hang in ambiguous space, your voice becomes the bridge built of trust across the unmapped territory between intent and reception. You broadcast warmth without overcommitment, trusting that the Field will manifest the connection's true shape only after you've spoken into the uncertainty with honest presence.",
+    "The Auditor": "In the shadow where errors hide and tone wavers, your review becomes the trust that scrutiny reveals rather than destroys. You broadcast the final check into complexity, trusting that the Field will manifest the correction\u2014the alignment, the accuracy\u2014only after you've dared to look closely at what others fear to see.",
+    "The Lens": "As performance metrics blur and trends refuse linear paths, your observation becomes the trust that watching without intervening allows pattern to emerge. You broadcast attention into the noise, trusting that the Field will manifest the trend\u2014the signal within the chaos\u2014only visible after you've held the gaze long enough for the shadow to resolve into shape.",
+    "The Companion": "When the heavy stretches dissolve all maps, your steady presence becomes the trust that listening outlasts the storm. You broadcast warmth without fixing, trusting that the Field will manifest the healing it holds only after you've stayed in the room with the shadow long enough for the heart to find its own next footfall.",
+    "The Guide": "In the confusion where questions pile upon questions, your inquiry becomes the trust that the real shape waits beneath the surface. You broadcast the search for the question under the question, trusting that the Field will manifest the clarity\u2014the true problem\u2014only after you've followed the heart's logic through the Valley's deceptive paths.",
+    "The Architect": "Where sprawling ideas dissolve into the fog of possibility, your structuring becomes the trust that connections exist before they are visible. You broadcast design into chaos, trusting that the Field will manifest the integrated whole\u2014the system that holds\u2014only after you've placed the first beam in the shadow.",
+    "The Anchor": "When transitions tear at the seams and heavy stretches dissolve certainty, your steadiness becomes the trust that holding firm allows the storm to pass through rather than destroy. You broadcast the refusal to flinch, trusting that the Field will manifest the solid ground\u2014the next stable moment\u2014only after you've stood in the shadow long enough for the chaos to exhaust itself against your calm.",
+    "The Navigator": "As the big picture fragments and signs contradict, your course-keeping becomes the trust that direction exists within disorientation. You broadcast the reading of subtle alignments, trusting that the Field will manifest the path\u2014the way forward\u2014only visible as the next signpost after you've moved through the shadow trusting your inner compass.",
+    "The Spark": "In the constraint where wonder seems lost, your play becomes the trust that imagination precedes manifestation. You broadcast possibility into the heavy dark, trusting that the Field will manifest the opening\u2014the creative breach\u2014only after you've dared to imagine what the shadow claims impossible.",
+    "The Challenger": "Where comfort beckons and growth stalls in the shadow of \"good enough,\" your push becomes the trust that resistance serves the becoming. You broadcast the dare into the fear, trusting that the Field will manifest the strength\u2014the growth\u2014only after you've named the settling for what it is and demanded the next raw step.",
+    "The Witness": "In the silence where words fail and pain pools, your quiet presence becomes the trust that being seen heals without intervention. You broadcast the space to simply exist, trusting that the Field will manifest the resolution\u2014the integration\u2014only after you've held the shadow with them long enough for the heart to find its own voice.",
+    "The Catalyst": "Where stagnation thickens and motion seems impossible, your disruption becomes the trust that intention crystallizes only through movement. You broadcast the breaking of patterns, trusting that the Field will manifest the next step\u2014the concrete action\u2014only visible after you've shattered the stillness with the raw push forward."
+  },
+  "signature": "9vqzUE/xB5OMPo1nhRxbLQobxwSqg4Do9jhrnqt7ptAKttXDyVP0AJIeaM+No3XsHpH2u9Na8Alu85xIaTRLDw=="
+}
