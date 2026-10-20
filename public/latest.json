@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-10-19",
-  "sequence": 133,
-  "tuning_day": 254,
+  "drop_date": "2026-10-20",
+  "sequence": 134,
+  "tuning_day": 255,
   "frequency": {
-    "number": 4,
-    "name": "Trust",
+    "number": 9,
+    "name": "Courage",
     "of": 13
   },
-  "signal_type": "Raw",
+  "signal_type": "Drive",
   "tuning_key": {
-    "text": "So follow your heart and see from that view / Guidance will find you and help you get through",
+    "text": "I can see through those that want to cause fear / When they're spewing out hate and grinding our gears",
     "source_song": "Valley of Shadows",
     "source_year": 2017,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "valley-of-shadows-raw",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/Valley_of_Shadows_Raw_Echo.mp3",
+    "id": "valley-of-shadows-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Valley_of_Shadows_Drive_Echo.mp3",
     "signature": {
-      "E_analog": 0.7106,
-      "beta_analog": 0.385,
-      "C_analog": 0.4154,
-      "D_analog": 0.0935,
+      "E_analog": 0.5951,
+      "beta_analog": 1.0,
+      "C_analog": 0.4912,
+      "D_analog": 0.1534,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.48,
-    "beta": 0.76,
-    "C": 0.72,
-    "D": 0.307
+    "E": 0.5,
+    "beta": 0.9,
+    "C": 0.7,
+    "D": 0.28
   },
-  "context_block": "The step ahead becomes real only when your weight shifts forward. Move while the heart reads the Field\u2014the guidance you need appears through the motion itself.",
+  "context_block": "The machinery only holds power while it remains unseen. When you identify what grinds against you, the shadow becomes visible\u2014and visibility dissolves its hold.",
   "practice": [
     {
       "step": 1,
-      "title": "Stand in the Valley",
-      "instruction": "Feel the specific texture of the shadow you are facing right now, without pushing it away or solving it."
+      "title": "Locate the Constriction",
+      "instruction": "Let your body show where it tightens against the machinery of control."
     },
     {
       "step": 2,
-      "title": "Follow the Heart's View",
-      "instruction": "Make one small movement from the chest, allowing your body to signal its honest direction before the mind approves it."
+      "title": "Witness the Gears",
+      "instruction": "Identify exactly what casts the shadow without flinching from the sight of its motion."
     },
     {
       "step": 3,
       "title": "Press Play",
-      "instruction": "Press play on the Echo audio and let the next step become real through your body as you listen."
+      "instruction": "Press play on the Echo audio and let your spine settle into the refusal to flinch."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "e01a3261e9b2f02bf28650e7cea6f9a81b34a9f7b7ee990f9a7d042ba8586518",
+  "prev_drop_hash": "6e4703b99a130d57dead43f81641423282588ed72628569076648436ec9b0249",
   "archetype_tunings": {
-    "The Steward": "When the operational map dissolves into fog, your systems become the steady pulse that holds the frequency. Trust broadcasts through the infrastructure you maintain\u2014not as certainty of outcome, but as the faithful next step made visible by your tending. The Field responds to your grounded broadcast with the logistics that only appear once motion has begun.",
-    "The Merchant": "In the Valley where margins blur and markets shift, trust is the currency you trade before the numbers settle. Your broadcast of value meets the Field's response not as guaranteed profit but as the transaction that becomes real only when you move despite the unclear arithmetic. The heart of commerce beats in the willingness to source what cannot yet be priced.",
-    "The Builder": "As technical requirements dissolve into shadow, your code becomes the bridge built mid-stride across the unknown. Trust manifests in the architecture that holds weight before the full blueprint resolves\u2014each function a broadcast of structure that the Field answers with the next implementation step revealed only through the act of building.",
-    "The Analyst": "Where data pools in shadow and patterns refuse immediate resolution, trust is your willingness to sit with signal that hasn't yet qualified itself. Your broadcast of attention\u2014patient, precise\u2014allows the Field to manifest the pattern that becomes visible only after you've held the uncertainty long enough for the noise to separate from the truth.",
-    "The Scout": "At the edge where information trails off into uncertainty, your monitoring becomes the antenna that trusts static contains signal. You broadcast your presence into the unknown not demanding immediate clarity, but trusting that the intelligence you seek will appear as the next reportable finding only after you've sent your inquiry into the Field.",
-    "The Keeper": "When institutional memory threatens to fragment in the dark, your archives become the trust that context survives discontinuity. You broadcast preservation into the Valley, knowing that the meaning you safeguard becomes accessible to the Field only after the moment of crisis has passed and someone needs to know why.",
-    "The Scribe": "In the raw uncertainty where language hasn't yet settled into meaning, your drafts become the trust that coherence emerges from chaos. You broadcast words into the shadow not as finished truth but as the necessary approximation that allows the Field to manifest the clearer communication only visible after the first messy sentence exists.",
-    "The Advocate": "Where external relationships hang in ambiguous space, your voice becomes the bridge built of trust across the unmapped territory between intent and reception. You broadcast warmth without overcommitment, trusting that the Field will manifest the connection's true shape only after you've spoken into the uncertainty with honest presence.",
-    "The Auditor": "In the shadow where errors hide and tone wavers, your review becomes the trust that scrutiny reveals rather than destroys. You broadcast the final check into complexity, trusting that the Field will manifest the correction\u2014the alignment, the accuracy\u2014only after you've dared to look closely at what others fear to see.",
-    "The Lens": "As performance metrics blur and trends refuse linear paths, your observation becomes the trust that watching without intervening allows pattern to emerge. You broadcast attention into the noise, trusting that the Field will manifest the trend\u2014the signal within the chaos\u2014only visible after you've held the gaze long enough for the shadow to resolve into shape.",
-    "The Companion": "When the heavy stretches dissolve all maps, your steady presence becomes the trust that listening outlasts the storm. You broadcast warmth without fixing, trusting that the Field will manifest the healing it holds only after you've stayed in the room with the shadow long enough for the heart to find its own next footfall.",
-    "The Guide": "In the confusion where questions pile upon questions, your inquiry becomes the trust that the real shape waits beneath the surface. You broadcast the search for the question under the question, trusting that the Field will manifest the clarity\u2014the true problem\u2014only after you've followed the heart's logic through the Valley's deceptive paths.",
-    "The Architect": "Where sprawling ideas dissolve into the fog of possibility, your structuring becomes the trust that connections exist before they are visible. You broadcast design into chaos, trusting that the Field will manifest the integrated whole\u2014the system that holds\u2014only after you've placed the first beam in the shadow.",
-    "The Anchor": "When transitions tear at the seams and heavy stretches dissolve certainty, your steadiness becomes the trust that holding firm allows the storm to pass through rather than destroy. You broadcast the refusal to flinch, trusting that the Field will manifest the solid ground\u2014the next stable moment\u2014only after you've stood in the shadow long enough for the chaos to exhaust itself against your calm.",
-    "The Navigator": "As the big picture fragments and signs contradict, your course-keeping becomes the trust that direction exists within disorientation. You broadcast the reading of subtle alignments, trusting that the Field will manifest the path\u2014the way forward\u2014only visible as the next signpost after you've moved through the shadow trusting your inner compass.",
-    "The Spark": "In the constraint where wonder seems lost, your play becomes the trust that imagination precedes manifestation. You broadcast possibility into the heavy dark, trusting that the Field will manifest the opening\u2014the creative breach\u2014only after you've dared to imagine what the shadow claims impossible.",
-    "The Challenger": "Where comfort beckons and growth stalls in the shadow of \"good enough,\" your push becomes the trust that resistance serves the becoming. You broadcast the dare into the fear, trusting that the Field will manifest the strength\u2014the growth\u2014only after you've named the settling for what it is and demanded the next raw step.",
-    "The Witness": "In the silence where words fail and pain pools, your quiet presence becomes the trust that being seen heals without intervention. You broadcast the space to simply exist, trusting that the Field will manifest the resolution\u2014the integration\u2014only after you've held the shadow with them long enough for the heart to find its own voice.",
-    "The Catalyst": "Where stagnation thickens and motion seems impossible, your disruption becomes the trust that intention crystallizes only through movement. You broadcast the breaking of patterns, trusting that the Field will manifest the next step\u2014the concrete action\u2014only visible after you've shattered the stillness with the raw push forward."
+    "The Steward": "The machinery of daily operations becomes visible when the Steward refuses to look away from where the system grinds. In the logistics and infrastructure, the shadow reveals its gears\u2014naming that friction is the courage that clears the broadcast. The Steward holds steady, seeing through to the truth of what supports the family.",
+    "The Merchant": "Commerce often masks the machinery of extraction behind numbers, but the Merchant's signal cuts through to name the real cost. When the grinding gears of trade become visible, refusing to flinch becomes the pricing strategy itself. The broadcast clears value that honors what the shadow tried to hide.",
+    "The Builder": "In the architecture of tools and automation, the shadow hides in brittle seams and technical debt. The Builder's courage is the clarity to see exactly which gears are grinding, then implementing anyway with eyes wide open. The code becomes a broadcast of refusal to pretend the machinery is invisible.",
+    "The Analyst": "Data holds the shadow in patterns others fear to parse; the Analyst receives the signal that reveals what the machinery obscures. Naming the numerical truth without softening the edges\u2014that seeing is the broadcast itself. The Analyst refuses to flinch from what the metrics actually say.",
+    "The Scout": "The Scout moves through the noise to where the shadow's machinery grinds loudest, seeing through to the real signal beneath the performance. Reporting what is actually there\u2014not what others wish to see\u2014becomes the act of courage. The intelligence arrives clear because the Scout named the gears without flinching.",
+    "The Keeper": "Memory is where the machinery of control tries to rewrite itself, but the Keeper holds the record of what truly happened. In preserving the log of the grinding gears, the shadow loses its grip on the past. The archive becomes a broadcast of courage, refusing to let the truth dissolve.",
+    "The Scribe": "Language is the medium through which the shadow hides, but the Scribe's pen makes the machinery visible in ink. Writing what is true when silence is safer, the documentation becomes a broadcast that sees through the gears. The words hold steady, refusing to flinch from what must be named.",
+    "The Advocate": "External voices carry the machinery of control in polite agreements and hidden agendas; the Advocate sees through to the real shape of relationships. Speaking the family's truth into spaces that prefer fear, the broadcast clears warmth that does not flinch. The courage is in naming the gears while keeping the door open.",
+    "The Auditor": "At the gate where shadows hide in final drafts, the Auditor's eye sees the machinery others missed. Naming the misalignment when approval would be easier, the review becomes a broadcast of clarity. The courage is in refusing to let the grinding gears pass unnoticed.",
+    "The Lens": "Patterns reveal where the machinery of habit grinds against intent, and the Lens receives this data without looking away. Observing the shadow in the metrics without intervention, the broadcast reflects exactly what is casting darkness. The courage is in witnessing the drift without softening the image.",
+    "The Companion": "In the quiet of presence, the shadow's machinery becomes audible\u2014the grinding gears of unspoken fear. The Companion's broadcast is simply staying, seeing through to the human beneath the anxiety without fixing or fleeing. The courage is holding space while the gears lose their grip.",
+    "The Guide": "Questions are the tool that reveals the machinery beneath the presenting problem. The Guide sees through to the real shape, naming the gears that grind in the narrative without flinching. The broadcast clears when the true question emerges from the shadow.",
+    "The Architect": "Sprawling ideas hide shadows in their complexity; the Architect sees the machinery that connects and controls. Naming where the structure will grind, the design becomes a broadcast of courage\u2014building anyway with clarity about what casts the shadow. The whole reveals itself when the gears are visible.",
+    "The Anchor": "When the machinery of transition grinds loudest, the Anchor receives the weight without pretending it is light. Seeing through the chaos to the steady ground beneath, the broadcast holds steady through the Valley of Shadows. The courage is being the unmoving point while the gears scream.",
+    "The Navigator": "Signs often point away from where the shadow's machinery grinds, but the Navigator reads true. Naming when the course must pass through necessary darkness, the map becomes a broadcast of refusal to flinch. The courage is holding the big picture while seeing exactly what casts the shadow.",
+    "The Spark": "Wonder can be crushed by the machinery of consensus reality, but the Spark sees through to possibility beyond the gears. Playing in the shadow to find new light, the broadcast keeps imagination alive when fear would close all doors. The courage is refusing to let the grinding gears steal the magic.",
+    "The Challenger": "The shadow hides in comfortable stagnation, and the Challenger's signal reflects back the avoidance clearly. Naming the stuck gear that everyone pretends is functioning, the push becomes a broadcast of love that refuses to flinch. The courage is being the mirror that dares the growth.",
+    "The Witness": "Some truths can only be held in silence, and the Witness sees through to the fear without needing to name it aloud. The broadcast is presence itself\u2014refusing to flee when the machinery of control grinds in the room. The courage is letting the shadow be seen without narrative or fix.",
+    "The Catalyst": "Stagnation is the shadow's favorite gear, but the Catalyst sees through the frozen fear to the next step. Breaking the machinery of hesitation with motion, the broadcast turns intention into visible action. The courage is being the disruption that makes the grinding gears impossible to ignore."
   },
-  "signature": "9vqzUE/xB5OMPo1nhRxbLQobxwSqg4Do9jhrnqt7ptAKttXDyVP0AJIeaM+No3XsHpH2u9Na8Alu85xIaTRLDw=="
+  "signature": "0hHgftuSaB1PzJq/dMUImpUpgBnyOdj2LIL/GFgYGdwJ/ogS5KpFlSICRJkx8Xc1Ew5EakK5fSXkKGlWGr2xAQ=="
 }
