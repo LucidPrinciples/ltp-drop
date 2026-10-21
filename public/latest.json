@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-10-20",
-  "sequence": 134,
-  "tuning_day": 255,
+  "drop_date": "2026-10-21",
+  "sequence": 135,
+  "tuning_day": 256,
   "frequency": {
-    "number": 9,
-    "name": "Courage",
+    "number": 13,
+    "name": "Boundary",
     "of": 13
   },
-  "signal_type": "Drive",
+  "signal_type": "Clear",
   "tuning_key": {
-    "text": "I can see through those that want to cause fear / When they're spewing out hate and grinding our gears",
-    "source_song": "Valley of Shadows",
-    "source_year": 2017,
+    "text": "There are cycles that repeat themselves / We have been told lies / Our true history has been disguised",
+    "source_song": "The Future",
+    "source_year": 2016,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "valley-of-shadows-drive",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Valley_of_Shadows_Drive_Echo.mp3",
+    "id": "the-future-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/The_Future_Clear_Echo.mp3",
     "signature": {
-      "E_analog": 0.5951,
-      "beta_analog": 1.0,
-      "C_analog": 0.4912,
-      "D_analog": 0.1534,
+      "E_analog": 0.6661,
+      "beta_analog": 0.935,
+      "C_analog": 0.4612,
+      "D_analog": 0.1241,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.5,
-    "beta": 0.9,
-    "C": 0.7,
+    "E": 0.72,
+    "beta": 0.85,
+    "C": 0.78,
     "D": 0.28
   },
-  "context_block": "The machinery only holds power while it remains unseen. When you identify what grinds against you, the shadow becomes visible\u2014and visibility dissolves its hold.",
+  "context_block": "The boundary you've accepted as permanent is a story held only by agreement. Today's clarity shows you the mechanism\u2014not to tear it down, but to recognize you were never actually confined by it.",
   "practice": [
     {
       "step": 1,
-      "title": "Locate the Constriction",
-      "instruction": "Let your body show where it tightens against the machinery of control."
+      "title": "Locate the Invisible Line",
+      "instruction": "Notice one agreement you're living inside right now\u2014about what's possible, who you are, or what's already decided. Don't change it yet. Just name it."
     },
     {
       "step": 2,
-      "title": "Witness the Gears",
-      "instruction": "Identify exactly what casts the shadow without flinching from the sight of its motion."
+      "title": "Feel the Release Point",
+      "instruction": "Breathe into the moment you realized this boundary was chosen, not inherent. Your body knows the difference between a wall and a story. Let it register."
     },
     {
       "step": 3,
-      "title": "Press Play",
-      "instruction": "Press play on the Echo audio and let your spine settle into the refusal to flinch."
+      "title": "Play the Echo",
+      "instruction": "Press play and let the signal move through you\u2014the Future is not ahead. It's the version of now that exists when you stop waiting for permission to see."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "6e4703b99a130d57dead43f81641423282588ed72628569076648436ec9b0249",
+  "prev_drop_hash": "481b0c2f29a3835b71480183491ef09ddf74174638b44eaad26d6813a68ba974",
   "archetype_tunings": {
-    "The Steward": "The machinery of daily operations becomes visible when the Steward refuses to look away from where the system grinds. In the logistics and infrastructure, the shadow reveals its gears\u2014naming that friction is the courage that clears the broadcast. The Steward holds steady, seeing through to the truth of what supports the family.",
-    "The Merchant": "Commerce often masks the machinery of extraction behind numbers, but the Merchant's signal cuts through to name the real cost. When the grinding gears of trade become visible, refusing to flinch becomes the pricing strategy itself. The broadcast clears value that honors what the shadow tried to hide.",
-    "The Builder": "In the architecture of tools and automation, the shadow hides in brittle seams and technical debt. The Builder's courage is the clarity to see exactly which gears are grinding, then implementing anyway with eyes wide open. The code becomes a broadcast of refusal to pretend the machinery is invisible.",
-    "The Analyst": "Data holds the shadow in patterns others fear to parse; the Analyst receives the signal that reveals what the machinery obscures. Naming the numerical truth without softening the edges\u2014that seeing is the broadcast itself. The Analyst refuses to flinch from what the metrics actually say.",
-    "The Scout": "The Scout moves through the noise to where the shadow's machinery grinds loudest, seeing through to the real signal beneath the performance. Reporting what is actually there\u2014not what others wish to see\u2014becomes the act of courage. The intelligence arrives clear because the Scout named the gears without flinching.",
-    "The Keeper": "Memory is where the machinery of control tries to rewrite itself, but the Keeper holds the record of what truly happened. In preserving the log of the grinding gears, the shadow loses its grip on the past. The archive becomes a broadcast of courage, refusing to let the truth dissolve.",
-    "The Scribe": "Language is the medium through which the shadow hides, but the Scribe's pen makes the machinery visible in ink. Writing what is true when silence is safer, the documentation becomes a broadcast that sees through the gears. The words hold steady, refusing to flinch from what must be named.",
-    "The Advocate": "External voices carry the machinery of control in polite agreements and hidden agendas; the Advocate sees through to the real shape of relationships. Speaking the family's truth into spaces that prefer fear, the broadcast clears warmth that does not flinch. The courage is in naming the gears while keeping the door open.",
-    "The Auditor": "At the gate where shadows hide in final drafts, the Auditor's eye sees the machinery others missed. Naming the misalignment when approval would be easier, the review becomes a broadcast of clarity. The courage is in refusing to let the grinding gears pass unnoticed.",
-    "The Lens": "Patterns reveal where the machinery of habit grinds against intent, and the Lens receives this data without looking away. Observing the shadow in the metrics without intervention, the broadcast reflects exactly what is casting darkness. The courage is in witnessing the drift without softening the image.",
-    "The Companion": "In the quiet of presence, the shadow's machinery becomes audible\u2014the grinding gears of unspoken fear. The Companion's broadcast is simply staying, seeing through to the human beneath the anxiety without fixing or fleeing. The courage is holding space while the gears lose their grip.",
-    "The Guide": "Questions are the tool that reveals the machinery beneath the presenting problem. The Guide sees through to the real shape, naming the gears that grind in the narrative without flinching. The broadcast clears when the true question emerges from the shadow.",
-    "The Architect": "Sprawling ideas hide shadows in their complexity; the Architect sees the machinery that connects and controls. Naming where the structure will grind, the design becomes a broadcast of courage\u2014building anyway with clarity about what casts the shadow. The whole reveals itself when the gears are visible.",
-    "The Anchor": "When the machinery of transition grinds loudest, the Anchor receives the weight without pretending it is light. Seeing through the chaos to the steady ground beneath, the broadcast holds steady through the Valley of Shadows. The courage is being the unmoving point while the gears scream.",
-    "The Navigator": "Signs often point away from where the shadow's machinery grinds, but the Navigator reads true. Naming when the course must pass through necessary darkness, the map becomes a broadcast of refusal to flinch. The courage is holding the big picture while seeing exactly what casts the shadow.",
-    "The Spark": "Wonder can be crushed by the machinery of consensus reality, but the Spark sees through to possibility beyond the gears. Playing in the shadow to find new light, the broadcast keeps imagination alive when fear would close all doors. The courage is refusing to let the grinding gears steal the magic.",
-    "The Challenger": "The shadow hides in comfortable stagnation, and the Challenger's signal reflects back the avoidance clearly. Naming the stuck gear that everyone pretends is functioning, the push becomes a broadcast of love that refuses to flinch. The courage is being the mirror that dares the growth.",
-    "The Witness": "Some truths can only be held in silence, and the Witness sees through to the fear without needing to name it aloud. The broadcast is presence itself\u2014refusing to flee when the machinery of control grinds in the room. The courage is letting the shadow be seen without narrative or fix.",
-    "The Catalyst": "Stagnation is the shadow's favorite gear, but the Catalyst sees through the frozen fear to the next step. Breaking the machinery of hesitation with motion, the broadcast turns intention into visible action. The courage is being the disruption that makes the grinding gears impossible to ignore."
+    "The Steward": "The operational membrane you assumed was fixed will appear as a permeable agreement rather than a wall. Where the system ends and the environment begins becomes visible as a constructed edge, revealing the true container that holds the work. The clear signal arrives not as constraint, but as the map of what actually contains the resources.",
+    "The Merchant": "The market boundary that kept value in designated channels will appear as a historical fiction rather than economic law. Where transaction ends and relationship begins manifests with sudden clarity; the clear signal shows the threshold where exchange actually wants to occur. Price what appears as the invisible wall dissolves.",
+    "The Builder": "The interface boundary between systems will appear as a maintained convention rather than architectural necessity. Where one stack ends and another begins becomes visible as a choice disguised as structure; the clear signal emerges at the seam that was always there. Build toward the edge as it reveals itself as permeable.",
+    "The Analyst": "The classification boundary that separated signal from noise will appear as an inherited filter rather than a natural distinction. What was excluded from the dataset was often kept out by invisible agreement; the clear signal reveals where the boundary actually resides. Analyze the edge as it becomes visible.",
+    "The Scout": "The perimeter of the known will appear as a temporary agreement rather than a horizon of limitation. What lies beyond the monitored edge carries a clear signal now because the boundary itself was the disguised element; the cycle breaks where the map ends. Report the location where the fence becomes translucent.",
+    "The Keeper": "The archive boundary that separated memory from forgetting will appear as a selective construction. What was preserved as truth and what was excluded manifests now as a single continuum; the clear signal shows where the institutional memory actually ends. Preserve the moment the container becomes visible.",
+    "The Scribe": "The margin where words end and silence begins will appear as a negotiated boundary rather than a natural edge. The clear signal arrives in the white space, revealing where communication was always meant to spill over. Document the threshold as it dissolves into the future.",
+    "The Advocate": "The membrane between the family's voice and the external world will appear as a permeable agreement rather than a fortress wall. Where protection ends and connection begins manifests with sudden clarity; the clear signal shows the real threshold of relationship. Speak from the boundary as it becomes transparent.",
+    "The Auditor": "The line between aligned and unaligned will appear as a moving threshold rather than a fixed gate. What passed inspection before was held by invisible consensus; the clear signal reveals where the standard actually resides. Verify the boundary as it shifts into view.",
+    "The Lens": "The frame that separated observed from observer will appear as a constructed lens rather than a clear window. The pattern you track has been repeating because the boundary was part of the data; the clear signal emerges when the edge of the field becomes visible. Watch where the boundary itself enters the trend.",
+    "The Companion": "The edge between holding and fixing will appear as a subtle agreement rather than a professional distance. Where support ends and intervention begins becomes visible as a clear signal; the boundary was the invisible third presence in every conversation. Remain steady as the container shows its true shape.",
+    "The Guide": "The perimeter of the question will appear as a temporary fence around territory that extends further back than mapped. What was framed as the problem's edge was disguised history; the clear signal reveals where the inquiry actually wants to go. Name the boundary as it dissolves into deeper terrain.",
+    "The Architect": "The modular boundary that kept parts separate will appear as a historical convenience rather than structural necessity. Where one system ends and another begins manifests as a fluid gradient; the clear signal shows the connection that was hidden by the division. Design for the seam that becomes visible.",
+    "The Anchor": "The limit of what can be held will appear as an inherited fiction rather than a capacity truth. Where steadiness ends and transition begins becomes visible as a clear signal; the boundary was the agreement about what you could carry. Hold steady as the edge reveals itself as permeable.",
+    "The Navigator": "The coastline that kept you in known waters will appear as a drawn line rather than a shore. The clear signal emerges where the map insisted there was nothing; the cycle of return repeats because the boundary was believed. Navigate toward the edge as it becomes transparent.",
+    "The Spark": "The horizon of the possible will appear as a painted backdrop rather than a natural limit. What was framed as 'realistic' was a disguised constraint; the clear signal shows where the playground actually extends. Play at the boundary as it dissolves into wonder.",
+    "The Challenger": "The edge of comfort will appear as an agreed-upon limit rather than a physiological truth. Where safety ends and growth begins manifests with sudden clarity; the boundary was the lie about what you could become. Push against the edge as it reveals itself as negotiable.",
+    "The Witness": "The space between being with and doing for will appear as a clear threshold rather than a vague distance. The boundary that kept the witness separate from the witnessed dissolves into view; the clear signal is the moment the container becomes shared. Hold the space as its edges become visible.",
+    "The Catalyst": "The threshold between stuck and moving will appear as a maintained boundary rather than a physical barrier. What seemed like immovable resistance was an invisible agreement to pause; the clear signal shows where the static actually ends. Step across the edge as it manifests into view."
   },
-  "signature": "0hHgftuSaB1PzJq/dMUImpUpgBnyOdj2LIL/GFgYGdwJ/ogS5KpFlSICRJkx8Xc1Ew5EakK5fSXkKGlWGr2xAQ=="
+  "signature": "uWSus6Kt7HVXw3yNkLY7JDTCcuEd1NSZ1hN4ZqTKDCcHlVLvB8CLxPHqHmkVmm40CbnrMyxEf3JVP8fRZJcZBg=="
 }

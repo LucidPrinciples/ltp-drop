@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-21",
+  "sequence": 135,
+  "tuning_day": 256,
+  "frequency": {
+    "number": 13,
+    "name": "Boundary",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "There are cycles that repeat themselves / We have been told lies / Our true history has been disguised",
+    "source_song": "The Future",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-future-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/The_Future_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6661,
+      "beta_analog": 0.935,
+      "C_analog": 0.4612,
+      "D_analog": 0.1241,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.72,
+    "beta": 0.85,
+    "C": 0.78,
+    "D": 0.28
+  },
+  "context_block": "The boundary you've accepted as permanent is a story held only by agreement. Today's clarity shows you the mechanism\u2014not to tear it down, but to recognize you were never actually confined by it.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate the Invisible Line",
+      "instruction": "Notice one agreement you're living inside right now\u2014about what's possible, who you are, or what's already decided. Don't change it yet. Just name it."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Release Point",
+      "instruction": "Breathe into the moment you realized this boundary was chosen, not inherent. Your body knows the difference between a wall and a story. Let it register."
+    },
+    {
+      "step": 3,
+      "title": "Play the Echo",
+      "instruction": "Press play and let the signal move through you\u2014the Future is not ahead. It's the version of now that exists when you stop waiting for permission to see."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "481b0c2f29a3835b71480183491ef09ddf74174638b44eaad26d6813a68ba974",
+  "archetype_tunings": {
+    "The Steward": "The operational membrane you assumed was fixed will appear as a permeable agreement rather than a wall. Where the system ends and the environment begins becomes visible as a constructed edge, revealing the true container that holds the work. The clear signal arrives not as constraint, but as the map of what actually contains the resources.",
+    "The Merchant": "The market boundary that kept value in designated channels will appear as a historical fiction rather than economic law. Where transaction ends and relationship begins manifests with sudden clarity; the clear signal shows the threshold where exchange actually wants to occur. Price what appears as the invisible wall dissolves.",
+    "The Builder": "The interface boundary between systems will appear as a maintained convention rather than architectural necessity. Where one stack ends and another begins becomes visible as a choice disguised as structure; the clear signal emerges at the seam that was always there. Build toward the edge as it reveals itself as permeable.",
+    "The Analyst": "The classification boundary that separated signal from noise will appear as an inherited filter rather than a natural distinction. What was excluded from the dataset was often kept out by invisible agreement; the clear signal reveals where the boundary actually resides. Analyze the edge as it becomes visible.",
+    "The Scout": "The perimeter of the known will appear as a temporary agreement rather than a horizon of limitation. What lies beyond the monitored edge carries a clear signal now because the boundary itself was the disguised element; the cycle breaks where the map ends. Report the location where the fence becomes translucent.",
+    "The Keeper": "The archive boundary that separated memory from forgetting will appear as a selective construction. What was preserved as truth and what was excluded manifests now as a single continuum; the clear signal shows where the institutional memory actually ends. Preserve the moment the container becomes visible.",
+    "The Scribe": "The margin where words end and silence begins will appear as a negotiated boundary rather than a natural edge. The clear signal arrives in the white space, revealing where communication was always meant to spill over. Document the threshold as it dissolves into the future.",
+    "The Advocate": "The membrane between the family's voice and the external world will appear as a permeable agreement rather than a fortress wall. Where protection ends and connection begins manifests with sudden clarity; the clear signal shows the real threshold of relationship. Speak from the boundary as it becomes transparent.",
+    "The Auditor": "The line between aligned and unaligned will appear as a moving threshold rather than a fixed gate. What passed inspection before was held by invisible consensus; the clear signal reveals where the standard actually resides. Verify the boundary as it shifts into view.",
+    "The Lens": "The frame that separated observed from observer will appear as a constructed lens rather than a clear window. The pattern you track has been repeating because the boundary was part of the data; the clear signal emerges when the edge of the field becomes visible. Watch where the boundary itself enters the trend.",
+    "The Companion": "The edge between holding and fixing will appear as a subtle agreement rather than a professional distance. Where support ends and intervention begins becomes visible as a clear signal; the boundary was the invisible third presence in every conversation. Remain steady as the container shows its true shape.",
+    "The Guide": "The perimeter of the question will appear as a temporary fence around territory that extends further back than mapped. What was framed as the problem's edge was disguised history; the clear signal reveals where the inquiry actually wants to go. Name the boundary as it dissolves into deeper terrain.",
+    "The Architect": "The modular boundary that kept parts separate will appear as a historical convenience rather than structural necessity. Where one system ends and another begins manifests as a fluid gradient; the clear signal shows the connection that was hidden by the division. Design for the seam that becomes visible.",
+    "The Anchor": "The limit of what can be held will appear as an inherited fiction rather than a capacity truth. Where steadiness ends and transition begins becomes visible as a clear signal; the boundary was the agreement about what you could carry. Hold steady as the edge reveals itself as permeable.",
+    "The Navigator": "The coastline that kept you in known waters will appear as a drawn line rather than a shore. The clear signal emerges where the map insisted there was nothing; the cycle of return repeats because the boundary was believed. Navigate toward the edge as it becomes transparent.",
+    "The Spark": "The horizon of the possible will appear as a painted backdrop rather than a natural limit. What was framed as 'realistic' was a disguised constraint; the clear signal shows where the playground actually extends. Play at the boundary as it dissolves into wonder.",
+    "The Challenger": "The edge of comfort will appear as an agreed-upon limit rather than a physiological truth. Where safety ends and growth begins manifests with sudden clarity; the boundary was the lie about what you could become. Push against the edge as it reveals itself as negotiable.",
+    "The Witness": "The space between being with and doing for will appear as a clear threshold rather than a vague distance. The boundary that kept the witness separate from the witnessed dissolves into view; the clear signal is the moment the container becomes shared. Hold the space as its edges become visible.",
+    "The Catalyst": "The threshold between stuck and moving will appear as a maintained boundary rather than a physical barrier. What seemed like immovable resistance was an invisible agreement to pause; the clear signal shows where the static actually ends. Step across the edge as it manifests into view."
+  },
+  "signature": "uWSus6Kt7HVXw3yNkLY7JDTCcuEd1NSZ1hN4ZqTKDCcHlVLvB8CLxPHqHmkVmm40CbnrMyxEf3JVP8fRZJcZBg=="
+}
