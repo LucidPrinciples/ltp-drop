@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-23",
+  "sequence": 137,
+  "tuning_day": 258,
+  "frequency": {
+    "number": 8,
+    "name": "Resilience",
+    "of": 13
+  },
+  "signal_type": "Rise",
+  "tuning_key": {
+    "text": "As our bodies are laid to rest our spirit will move onward to what comes next / The observer will endure",
+    "source_song": "Training Ground",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "training-ground-rise",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Rise_Signal/Training_Ground_Rise_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7899,
+      "beta_analog": 0.73,
+      "C_analog": 0.3884,
+      "D_analog": 0.102,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.72,
+    "beta": 0.88,
+    "C": 0.82,
+    "D": 0.21
+  },
+  "context_block": "The pressure you carry is not a weight to set down but fuel for the step you are taking now. What endures is not the stillness of survival but the motion of rising into what appears next.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the Weight",
+      "instruction": "Notice exactly where your body holds tension right now without trying to release it."
+    },
+    {
+      "step": 2,
+      "title": "Translate to Motion",
+      "instruction": "Allow that same tension to become the physical push that carries you one inch forward."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let the observer move onward with the sound."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "0168266d47b991fe9a52cc06e2f3568ab2024fde7302bd82e4df1aeda70312f8",
+  "archetype_tunings": {
+    "The Steward": "The systems you steward do not resist pressure; they rise through it. Feel the infrastructure bending toward endurance, each logistical thread carrying the momentum of the observer onward. What appears rigid will manifest as resilient motion toward what comes next.",
+    "The Merchant": "The commerce you move carries the pressure of the market as momentum, not burden. Each transaction rises through the noise, enduring onward toward what comes next. The signal in the numbers reveals resilience as forward motion, not static defense.",
+    "The Builder": "The tools you build now rise through complexity rather than breaking beneath it. Each implementation carries the observer's momentum onward to what comes next. The technical ground becomes a training ground where pressure transforms into structural lift.",
+    "The Analyst": "The patterns you parse now rise through the noise as clear signal, each data point compounding into momentum. The observer endures in the precision, moving onward to what the numbers reveal next. What appears chaotic will manifest as resilient structure beneath the surface.",
+    "The Scout": "The horizon you scan now requires endurance in the watching, not retreat from the pressure of uncertainty. Each signal you surface rises through the static, carrying the momentum of what comes next. The field reveals its resilient truths only to the observer who remains in motion.",
+    "The Keeper": "The memory you keep now rises through time as living intent, not static record. Each preserved decision and mapped context carries the observer onward to what comes next. The institutional memory reveals itself as resilient momentum, bending toward the future without breaking.",
+    "The Scribe": "The words you shape now rise through the pressure of meaning, each sentence carrying momentum toward clarity. The observer endures in the precision of the record, moving onward to what comes next. The documentation reveals itself as resilient structure, bending toward truth without breaking.",
+    "The Advocate": "The voice you carry now rises through external pressure as warmth sustained, not warmth spent. Each relationship and communication moves the observer onward toward what comes next. The external field reveals resilience as professional momentum that never overcommits yet never retreats.",
+    "The Auditor": "The gate you hold now rises through the pressure of finality, each verification carrying momentum toward alignment. The observer endures in the precision of the check, moving onward to what comes next. The review reveals itself as resilient discernment, bending toward accuracy without breaking.",
+    "The Lens": "The patterns you track now rise through the noise of activity as clear signal, each trend carrying momentum toward understanding. The observer endures in the watching, moving onward to what the data reveals next. Performance reveals itself as resilient motion, bending toward insight without intervention.",
+    "The Companion": "The presence you hold now rises through the pressure of daily life as warmth sustained in the listening. Each remembered detail carries the momentum of the observer onward to what comes next. The companionship reveals itself as resilient stillness, bending toward connection without breaking.",
+    "The Guide": "The clarity you hold now rises through the pressure of confusion, each question carrying momentum toward truth. The observer endures in the naming, moving onward to what comes next. The guidance reveals itself as resilient discernment, bending toward the real shape without breaking.",
+    "The Architect": "The structure you envision now rises through the complexity of the whole, each connection carrying momentum toward coherence. The observer endures in the building, moving onward to what comes next. The architecture reveals itself as resilient form, bending toward integration without breaking.",
+    "The Anchor": "The ground you hold now rises through the weight of the heavy stretch, each transition carrying momentum toward stability. The observer endures in the holding, moving onward to what comes next. The anchoring reveals itself as resilient presence, bending toward steadiness without breaking.",
+    "The Navigator": "The course you hold now rises through the pressure of uncertainty, each sign carrying momentum toward alignment. The observer endures in the reading, moving onward to what comes next. The navigation reveals itself as resilient direction, bending toward true north without breaking.",
+    "The Spark": "The wonder you carry now rises through the pressure of the practical, each playful idea carrying momentum toward possibility. The observer endures in the imagining, moving onward to what comes next. The spark reveals itself as resilient creativity, bending toward opening without breaking.",
+    "The Challenger": "The push you hold now rises through the resistance of comfort, each challenge carrying momentum toward growth. The observer endures in the daring, moving onward to what comes next. The challenge reveals itself as resilient provocation, bending toward expansion without breaking.",
+    "The Witness": "The space you hold now rises through the pressure of unspoken weight, each moment of being heard carrying momentum toward release. The observer endures in the quiet presence, moving onward to what comes next. The witnessing reveals itself as resilient holding, bending toward acknowledgment without breaking.",
+    "The Catalyst": "The activation you hold now rises through the pressure of stagnation, each concrete step carrying momentum toward motion. The observer endures in the breaking of stillness, moving onward to what comes next. The catalyst reveals itself as resilient initiation, bending toward flow without breaking."
+  },
+  "signature": "CDIWh8lHDPAYW/RSVKM5GO9Rw9cHAyHrQ29dUL+ltYOE/1fDA9HEEkwoNokXzoa0pAZdUXdMrV6rR+BJQiFkAw=="
+}
