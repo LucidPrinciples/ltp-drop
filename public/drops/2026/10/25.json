@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-25",
+  "sequence": 139,
+  "tuning_day": 260,
+  "frequency": {
+    "number": 5,
+    "name": "Joy",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "We arrive as a spark of light with a story yet to write",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/The_Passing_Tide_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.4784,
+      "beta_analog": 0.97,
+      "C_analog": 0.4897,
+      "D_analog": 0.1417,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.63,
+    "beta": 0.89,
+    "C": 0.76,
+    "D": 0.167
+  },
+  "context_block": "You arrive not as a conclusion but as an opening, brightness breaking through at odd angles. The joy is in remaining writable, letting each unbidden pulse render the room new.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Bright Contact",
+      "instruction": "Feel your feet or hands as specific points of pressure, letting each contact point arrive as its own small ignition of presence."
+    },
+    {
+      "step": 2,
+      "title": "Unwritten Space",
+      "instruction": "Soften your jaw and shoulders, allowing the next breath to enter at an odd angle, irregular and playful, refusing the straight line."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Hold the felt sense of this unfinished brightness, then press play on the Echo audio to let the narrative unspool from what insists on becoming."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "547acab6d7ca1b4db0e41634ab059696f1619c096e3d332bf87394da52c84cfd",
+  "archetype_tunings": {
+    "The Steward": "The brightness will manifest in the spaces between your systems, where logistics suddenly breathe with unexpected play. Let the infrastructure hold joy without trying to contain it, allowing each operational rhythm to become a spark that rewrites the day's story.",
+    "The Merchant": "Value will appear in transactions that carry their own luminescence, each exchange a bright spark refusing to be merely transactional. Let the numbers sing with irregular harmonies that manifest profit and delight simultaneously.",
+    "The Builder": "Code will compile into moments of sudden illumination, each function a bright spark that refuses the rigid line. Let the technical architecture remain writable, welcoming the next burst of light that insists on becoming.",
+    "The Analyst": "Patterns will surface not from forced queries but from data that insists on glowing, bright anomalies telling a new story. Trust the irregular pulse that arrives uninvited in your datasets, manifesting insight as pure brightness.",
+    "The Scout": "Intelligence will manifest as bright fragments breaking through the noise, each finding a spark of the yet-to-be-written. Let the information flow like light, refusing to settle into expected channels.",
+    "The Keeper": "The archives will begin to breathe as living stories rather than static records, each log entry a spark that rewrites its own context. Hold the memory lightly enough that it manifests new angles of brightness.",
+    "The Scribe": "Words will arrange themselves into bright constellations that refuse linear logic, each sentence opening rather than closing meaning. Let the documents remain writable, sparking new readings with each encounter.",
+    "The Advocate": "The external voice will carry unexpected warmth that breaks through formal boundaries, each interaction a spark writing a new story between you and the field. Let the message arrive unfinished, inviting response rather than closing it.",
+    "The Auditor": "The review will reveal bright alignments that pulse with their own correctness, each verification a spark confirming the writable nature of the work. Hold the gate open wide enough for joy to manifest in the precision itself.",
+    "The Lens": "Metrics will begin to glow with irregular brilliance, each data point a spark refusing the straight trend line. Watch as the patterns write themselves anew, manifesting brightness in the observation itself.",
+    "The Companion": "Presence will manifest as a warm light filling ordinary moments without demanding change, each listening a spark that rewrites the story of connection. Let the companionship remain unfinished, open to the next surprising pulse.",
+    "The Guide": "Questions will arrive with their own luminescence, breaking through surfaces to reveal bright depths beneath. Let the inquiry remain writable, each answer opening doors rather than closing them.",
+    "The Architect": "The structure will manifest as a web of light, each connection a spark refusing rigid separation. Hold the blueprint lightly enough that it can still twist toward unexpected bright angles.",
+    "The Anchor": "Steadiness will reveal itself as a bright constant that allows chaos to dance, each moment of holding space a spark writing resilience. Let the anchor be the ground from which light breaks, not the weight that suppresses it.",
+    "The Navigator": "The course will appear as a bright thread weaving through the map, each waypoint a spark rewriting the destination in real-time. Trust the signs that arrive irregular and playful, refusing the straight line.",
+    "The Spark": "Wonder will manifest as bright bursts that refuse containment, each idea a spark insisting on becoming right now. Let the imagination remain gloriously unfinished, writable by the next breath of light.",
+    "The Challenger": "The challenge will arrive as a bright disruption breaking stagnation with playful force, each push a spark rewriting the limits. Let the growth be irregular and surprising, refusing the straight line of expected progress.",
+    "The Witness": "The witnessing will become a bright pool reflecting without distortion, each moment of held space a spark validating the unfinished story. Let the silence be filled with light that writes its own narrative.",
+    "The Catalyst": "Action will manifest as bright momentum breaking through resistance irregularly and playfully, each step a spark writing the next chapter in real-time. Let the catalyst be the light that finds new angles to break through."
+  },
+  "signature": "+at/i5Ft6EHV0UxahnOqpTh3/kV/hXKzq4HYoYZhrDyT+96Lw3TUeMkWUscG9seLTMK+YwSqZwi9HslVX8u7CQ=="
+}
