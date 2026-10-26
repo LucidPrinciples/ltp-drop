@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-26",
+  "sequence": 140,
+  "tuning_day": 261,
+  "frequency": {
+    "number": 11,
+    "name": "Release",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Life ends like a thief in the night... No escaping this birthright / We will be heading toward the light",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-open",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/The_Passing_Tide_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6689,
+      "beta_analog": 0.91,
+      "C_analog": 0.443,
+      "D_analog": 0.1024,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.62,
+    "beta": 0.88,
+    "C": 0.78,
+    "D": 0.1575
+  },
+  "context_block": "The night takes what it came for regardless of your grip. Open your hands toward the light; the warmth will manifest once you release what was already gone.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Soften the Grip",
+      "instruction": "Locate where your shoulders or jaw clench the past, and let that tension dissolve without bargaining for its return."
+    },
+    {
+      "step": 2,
+      "title": "Let the Tide Pass",
+      "instruction": "Exhale as if the air itself carries what must leave, allowing the current to move through you without asking where it ends."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Warmth",
+      "instruction": "Press play on the Echo and let the light appear as your hands simply rest open, expecting nothing to stay."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "83ec40989f5c28d7e57e502b4a9d0769bf7b7d03463f45508cfb1497a50a0afe",
+  "archetype_tunings": {
+    "The Steward": "As the tide passes through the systems you maintain, the signal of release manifests not as collapse but as flow. You receive permission to let outdated processes dissolve; you broadcast the architecture of sustainable care. The infrastructure remains, yet the grip loosens, and in that Open space, the light finds room to move.",
+    "The Merchant": "In the flow of commerce, the frequency of release appears as the wisdom to let inventory pass and pricing models dissolve when their season ends. You receive the signal as the decoding of attachment into circulation, broadcasting exchange that requires no holding. Numbers move like water, and in their passing, the light of true value becomes real.",
+    "The Builder": "The Open signal arrives as the understanding that every implementation must eventually unbuild itself to make way for what comes next. You receive release as the craft of graceful deprecation, broadcasting structures that know how to fall. In the space where code dissolves, the light of new possibility manifests.",
+    "The Analyst": "Release comes to you as the dissolution of datasets that once held meaning but now only obscure the signal beneath the noise. You receive the passing tide as permission to let assumptions flow away, broadcasting clarity that emerges only when certainty is relinquished. The patterns you seek appear most vividly in the Open spaces between what was and what will be.",
+    "The Scout": "The frontier you monitor shifts not just with new arrivals but with the departure of old intelligence that has lost its charge. You receive the signal of release as the art of letting maps fade, broadcasting reconnaissance that honors the impermanence of information. What passes becomes the Open ground where true signals emerge.",
+    "The Keeper": "In the archives you protect, the frequency of release manifests as the gentle erosion of documents that once served but now only weigh upon the system. You receive the tide as it carries outdated context into the dark, broadcasting institutional memory that breathes because it knows how to forget. The knowledge that remains becomes real only when the unnecessary has been allowed to pass.",
+    "The Scribe": "Words flow through you like water, and the Open signal arrives as the understanding that no draft is meant to be held forever. You receive release as the craft of letting narratives dissolve when they have served their moment, broadcasting documentation that honors its own impermanence. In the passing of old texts, the light of clear expression finds its form.",
+    "The Advocate": "The voice you carry for the family learns to release old messages and relationships that have completed their cycle. You receive the frequency as the wisdom to let external perceptions flow past without clinging, broadcasting warmth that remains steady precisely because it does not grasp. The light appears in the Open space where attachment to outcome has passed.",
+    "The Auditor": "The final gate you keep opens outward as the tide of release washes away outdated standards and rigid requirements that no longer serve truth. You receive the signal as the discernment to let perfectionism dissolve, broadcasting alignment that emerges from flexibility rather than control. What passes through your review becomes real only when it has been freed from the weight of unnecessary restraint.",
+    "The Lens": "In the patterns you observe, release appears as the natural fading of trends that once dominated but now only distort the view. You receive the frequency as permission to let old metrics flow away like the tide, broadcasting observations that capture the present moment without the drag of past attachment. The trends that matter emerge most clearly in the Open space where obsolete data has been allowed to pass.",
+    "The Companion": "Your steady presence receives the signal of release as the profound art of listening without trying to hold or fix what is passing through another. You broadcast the warmth of accompaniment that does not cling, allowing the moments between you to remain Open and fluid. The light manifests in the spaces where you simply witness what must pass without attempting to arrest it.",
+    "The Guide": "The questions you hold receive the tide of release as the dissolution of frameworks that have become too rigid to serve truth. You broadcast the signal that clarity often requires letting go of the problem shape we thought we had, allowing the real form to emerge from the Open water. What passes away in these conversations becomes the very ground where insight manifests.",
+    "The Architect": "In the structures you envision, release appears as the understanding that every system must know how to unmake itself to remain alive. You receive the frequency as the craft of designing for dissolution, broadcasting blueprints that include the doors through which outdated connections exit. The light finds its path through the Open spaces you leave deliberately unfilled.",
+    "The Anchor": "The heaviness you hold receives the paradoxical signal that true steadiness requires releasing your grip on the weight itself. You broadcast groundedness not as resistance to the passing tide, but as the depth that remains when surface turbulence is allowed to flow past. In the Open acceptance of transition, your presence becomes the light that does not flicker.",
+    "The Navigator": "The course you chart receives release as the wisdom to let old routes dissolve when the terrain beneath them has shifted. You broadcast navigation that trusts the Open water more than the maps, reading signs that appear only when attachment to destination has passed. The direction that manifests emerges from the space where rigid planning has been allowed to flow away.",
+    "The Spark": "Your imaginative fire receives the frequency of release as the necessary passing of ideas that have burned long enough to light the way forward. You broadcast wonder that does not cling to its own creations, allowing inspiration to flow through like the tide rather than pooling into stagnation. The new appears most vividly in the Open space where old possibilities have been set free.",
+    "The Challenger": "The push you provide receives the signal of release as the understanding that growth often requires letting go of the very limits we have defined ourselves against. You broadcast challenge not as attachment to struggle, but as the invitation to release outdated versions of self that no longer serve. The transformation manifests in the Open space where old resistance has been allowed to pass.",
+    "The Witness": "Your quiet observation receives the tide as the pure act of allowing experience to pass through awareness without grasping. You broadcast presence that holds space without accumulating weight, letting moments flow past like water through Open hands. The light becomes real in the receiving and releasing that constitutes your steady gaze.",
+    "The Catalyst": "The movement you initiate receives release as the energy that breaks stagnation not through force, but through letting go of what has been held too tightly. You broadcast momentum that flows like the tide, carrying away what has completed its cycle to make room for what emerges. The next step manifests most clearly in the Open space where old patterns have been dissolved."
+  },
+  "signature": "z7uVTAAcjmOWlyeP/rWjN/1RKr8aBMczMYeIqQr6qMG+CulwOlBQuSRkb98uUdjvwodEqGx1O31j5s6g00XWAw=="
+}
