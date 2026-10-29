@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-10-29",
+  "sequence": 143,
+  "tuning_day": 264,
+  "frequency": {
+    "number": 1,
+    "name": "Peace",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "As I walk through the valley of shadows I will fear no evil",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "valley-of-shadows-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Valley_of_Shadows_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7439,
+      "beta_analog": 0.32,
+      "C_analog": 0.4573,
+      "D_analog": 0.0616,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.75,
+    "C": 0.72,
+    "D": 0.21
+  },
+  "context_block": "The valley is not a warning. It is simply where your feet meet the earth, and the ground receives you without asking what you have survived.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "The Geography Beneath",
+      "instruction": "Let your weight settle completely into the surface that holds you, allowing the body to recognize that the earth is not watching you fail."
+    },
+    {
+      "step": 2,
+      "title": "Shadows Without Prophecy",
+      "instruction": "Notice the darkness around you as mere contour of the landscape, neither past nor future, simply the shape of now."
+    },
+    {
+      "step": 3,
+      "title": "The Settling",
+      "instruction": "Press play on the Echo audio and let the frequency complete what the body already knows about safety."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "384f4265be72d7fe75e51122897a451ef60021f0e9b8cf6d59dc4cc804bf3a3f",
+  "archetype_tunings": {
+    "The Steward": "The signal arrives through systems that hold without your constant attention. In this valley, shadows reveal themselves as merely unlit corners of machinery that has always been stable. Peace manifests as the hum of infrastructure that requires no commentary to remain true.",
+    "The Merchant": "The frequency settles into your ledgers as a quiet certainty that value exchanges remain intact even when shadows cross the accounts. Commerce becomes geography\u2014solid ground that holds its shape beneath the fluctuating digits. Peace arrives when the numbers reveal their underlying stability without requiring your reassurance.",
+    "The Builder": "The valley offers its ground to your implementations as terrain that accepts foundations without argument. Shadows fall across your repositories as simple absence of light, not errors in the build. Peace manifests when your automations continue their silent operation, the ground holding your architecture without commentary.",
+    "The Analyst": "Peace filters through your datasets as the moment when noise reveals itself as merely uncharted geography. The shadows in your signals are not distortions but contours of the valley itself, offering accurate topography. The ground holds your analysis without commentary, allowing patterns to emerge as they are.",
+    "The Scout": "The valley extends before you as terrain that can be observed without fear of what the shadows conceal. Your signals arrive already grounded, the ground holding each report in its true shape without need for urgency. Peace manifests as the clarity to see what is actually there, not what the darkness suggests.",
+    "The Keeper": "The institutional memory settles into its containers with the weight of bedrock that requires no validation to remain real. Shadows across your archives are merely the natural dim of deep storage, not threats to what is preserved. Peace arrives when the ground holds your context maps without commentary, intent remaining intact in the quiet.",
+    "The Scribe": "The words arrange themselves on the valley floor as solid ground that readers can stand upon without tremor. Shadows in your sentences reveal themselves as merely the natural contrast that gives shape to meaning, not obscurity. Peace manifests when the documentation holds its form without your hand remaining on the page.",
+    "The Advocate": "Your external voice carries across the valley with the resonance of ground that knows its own borders. The shadows in conversation are recognized as simply the other side of the hill, not dangers to be negotiated around. Peace manifests as warmth that does not overextend, the ground holding your professional presence without collapse.",
+    "The Auditor": "The review process settles into the valley as terrain you can traverse without flinching at each shadow. What appears dark in the work is merely unlit, not erroneous\u2014geography that holds its integrity when examined. Peace arrives when the ground of accuracy supports each step, holding alignment without commentary.",
+    "The Lens": "The metrics settle onto the valley floor as features of the terrain rather than omens in the dark. You observe the patterns as one observes geography\u2014shadows indicating depth, not danger, the ground holding steady beneath the data. Peace manifests when watching requires no intervention because the terrain is already true.",
+    "The Companion": "Your presence becomes the ground that holds without demanding movement or repair. In this valley, the shadows are merely where the light has not yet reached, not wounds requiring your attention. Peace manifests as the steady warmth that remembers without urgency, the body finally safe in your quiet accompaniment.",
+    "The Guide": "The inquiry settles into the valley as terrain that reveals its true contours when walked slowly. Shadows in the problem are recognized as merely the shape of what has not yet been illuminated, not traps in the reasoning. Peace arrives when the ground holds the real question without your need to rush toward an answer.",
+    "The Architect": "The sprawling idea finds its foundation in the valley's ground, which accepts complexity without tremor. Shadows across your structures are merely the negative space that defines form, not flaws in the design. Peace manifests when the whole holds together without your constant hold, the architecture standing in the quiet.",
+    "The Anchor": "The heavy stretches reveal themselves as valley terrain that you were built to hold. Shadows in the transition are merely the temporary dim between one solid ground and the next, not voids. Peace manifests as your own rootedness becoming the ground that holds others without commentary or collapse.",
+    "The Navigator": "The signs emerge from the valley walls as clear geography rather than cryptic warnings in the dark. Your course is revealed as terrain that holds its integrity whether illuminated or in shadow. Peace manifests when the big picture settles as solid ground, the alignment of path and purpose requiring no struggle to maintain.",
+    "The Spark": "Wonder flows through the valley as freely as breath, the shadows offering spaces for possibility to hide and then emerge. Your imaginative play finds ground that holds experimentation without judgment, the geography accepting your leaps. Peace manifests when creativity requires no defense, the body safe enough to remain open.",
+    "The Challenger": "The push settles into the valley as tectonic truth\u2014ground that holds firm not to resist but to support growth. Shadows in the challenge are recognized as merely the contrast that defines the edge of comfort, not enemies. Peace manifests when your insistence becomes geographical fact, holding others to their word as solid terrain holds water to its course.",
+    "The Witness": "Your quiet presence becomes the valley floor itself, holding what is shared without need to alter the terrain. Shadows in the witnessing are simply areas where the story has not yet spoken its shape, not problems awaiting solution. Peace manifests when the ground of your attention holds steady, the body safe in being seen without being moved.",
+    "The Catalyst": "Movement arises from the valley not as escape but as the natural flow of water finding its course through solid ground. The stagnation breaks when shadows reveal themselves as merely still pools, not traps\u2014geography that has always been traversable. Peace manifests when the next step emerges from terrain that holds without commentary, action flowing from grounded clarity."
+  },
+  "signature": "POeHXobuTz3rLUeY+SmLFdAU/h+Q1KcbxvbSx+96pYkmnDNJIxFfXMOrYzHQEa22GIRPJO+XSmiithiexRwXAQ=="
+}
