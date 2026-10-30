@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "kb_version": "70972ba6d8310f9de42dfbf4aab8ec34f4dfe33efded4b0f7ec1c2b791763dac",
-  "published_at": "2026-10-12T18:41:56Z",
+  "kb_version": "9262e228ce1f0143e6fd9914aad66e803922750eaa2c5ad3ca7651355347894f",
+  "published_at": "2026-10-30T18:52:13Z",
   "publisher": "Lucid Principles \u2014 Knowledge Base",
   "file_count": 21,
   "files": [
@@ -102,8 +102,8 @@
     },
     {
       "path": "tuning-keys.md",
-      "sha256": "4c06dcf0c528fb79d0b597df20eb61c0f7b00623b807479c89dac6c746e3f9a2",
-      "bytes": 24809
+      "sha256": "3d24878c138b74e0bda65b3257b74c13e10e517946994886f7f0c67176f95b03",
+      "bytes": 25310
     },
     {
       "path": "tuning-process-template.md",
@@ -111,5 +111,5 @@
       "bytes": 2927
     }
   ],
-  "signature": "cqCd9kDSZCRYnlVImT3Kz/oOQCRIYIb160O1mq0AX9v+FKqysLrpP8rxIikuwWZL9PDzMBxVtJeqyHHFzw3HAQ=="
+  "signature": "7QGwmFx7Yr9ad7XvJr4BC4kcu9tqvWr5Q94tlu6fTXxjsInVRKG8DceSteqHFJbVtK19IuynifupcDy4SnEzDw=="
 }
