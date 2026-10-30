@@ -21,7 +21,7 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 - "Let your Self go and feel how to grow / Let your heart keep you in sync"
 
 ### Peace
-- "We dance with what's around us / There's a flow that has us in tow, holding us in its embrace"
+- "We dance with what's around us, with what surrounds us in space / There's a flow that has us in tow, holding us in its embrace"
 - "Harmony will start to overflow creating an eternal link"
 
 ### Presence
@@ -33,7 +33,7 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 
 ### Integration
 - "Harmony will start to overflow creating an eternal link"
-- "We dance with what's around us / There's a flow that has us in tow, holding us in its embrace"
+- "We dance with what's around us, with what surrounds us in space / There's a flow that has us in tow, holding us in its embrace"
 
 ---
 
@@ -153,14 +153,14 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 ### Peace
 - "Freedom is undefined... Because it's a state of mind"
 - "No one can tell you what it means because it's a state of mind"
-- "Rivers flow to and fro / Forces nudge the waters so they go / Where they're told / The waters are free but controlled"
+- "Rivers flow to and fro / Forces nudge the waters so they go / Where they're told / Choices are there / The waters are free but controlled"
 
 ### Release
 - "Freedom is undefined... Because it's a state of mind"
 - "Rivers flow to and fro / Forces nudge the waters so they go / Where they're told / Choices are there / The waters are free but controlled"
 
 ### Trust
-- "Rivers flow to and fro / Forces nudge the waters so they go / Where they're told / The waters are free but controlled"
+- "Rivers flow to and fro / Forces nudge the waters so they go / Where they're told / Choices are there / The waters are free but controlled"
 
 ### Joy
 - "When we are little ones we have questions about how things are done / Is there a rule of thumb on how to find happiness and love... With freedom"
@@ -174,7 +174,7 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 
 ### Connection
 - "The one, the source, the guiding force, connects us all... attracts us to our fate"
-- "Many travel this journey alone navigating the constant storm / But assistance can be found on every shore if we look around"
+- "Many travel this journey alone navigating the constant storm... But assistance can be found on every shore if we look around"
 
 ### Trust
 - "It is all in our grasp, we only need to ask"
@@ -227,14 +227,14 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 ### Connection
 - "But what is life for if not sharing it with someone that you submit to a deep love that seems to fit, and you commit that you'll never quit"
 - "How do I break through all the noise, I am not just another one of the boys"
-- "I hope to find someone that joins me, that sees me as one of their life's joys"
+- "I hope to find, a girl that joins me, that sees me as one of her life's joys"
 
 ### Joy
 - "But what is life for if not sharing it with someone that you submit to a deep love that seems to fit"
 
 ### Trust
 - "A deep love that seems to fit, and you commit that you'll never quit"
-- "I hope to find someone that joins me, that sees me as one of their life's joys"
+- "I hope to find, a girl that joins me, that sees me as one of her life's joys"
 
 ### Clarity
 - "I wake up most days with feelings inside, torn apart to find what makes sense"
@@ -440,12 +440,12 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 
 ### Resilience
 - "Consciousness is not bound orchestrating a symphony of light and sound / We look for what we've found our awareness training ground"
-- "The reason we are here is a truth that eludes us / But we know for sure we exist reflecting"
+- "The reason we are here is a truth that eludes us / But we know for sure we exist reflecting / Consciousness is not bound orchestrating a symphony of light and sound"
 - "As our bodies are laid to rest our spirit will move onward to what comes next / The observer will endure"
 
 ### Momentum
 - "Thoughts become real, they impact the quantum field / Vibrations interacting to reveal"
-- "Awakening in our dreams to become lucid in this state of being creates a stream"
+- "Awakening in our dreams to become lucid in this / State of being creates a stream / To a consciousness that's not bound orchestrating a symphony of light and sound"
 
 ### Clarity
 - "Thoughts become real, they impact the quantum field / Vibrations interacting to reveal"
@@ -453,8 +453,8 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 - "Matter is energy condensed by activity / Requiring a foundation to reach each degree"
 
 ### Presence
-- "The reason we are here is a truth that eludes us / But we know for sure we exist reflecting"
-- "Awakening in our dreams to become lucid in this state of being creates a stream"
+- "The reason we are here is a truth that eludes us / But we know for sure we exist reflecting / Consciousness is not bound orchestrating a symphony of light and sound"
+- "Awakening in our dreams to become lucid in this / State of being creates a stream / To a consciousness that's not bound orchestrating a symphony of light and sound"
 
 ### Trust
 - "As our bodies are laid to rest our spirit will move onward to what comes next / The observer will endure"
@@ -549,10 +549,10 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 ### Momentum
 - "You know you know this so get up and shout / That's what life is about"
 - "Our life begins before we appear / We have a purpose for which to persevere"
-- "So don't miss good things being controlled by fear / Alter your routine so you can steer"
+- "So don't miss good things being controlled by fear / Alter your routine so you can steer / Toward the dreams you might have forgot"
 
 ### Courage
-- "Our life begins before we appear / We have a purpose for which to persevere / So don't miss good things being controlled by fear / Alter your routine so you can steer"
+- "Our life begins before we appear / We have a purpose for which to persevere / So don't miss good things being controlled by fear / Alter your routine so you can steer / Toward the dreams you might have forgot"
 - "We see the world through our own set of eyes / Our point of view is where the secret lies"
 
 ### Joy
