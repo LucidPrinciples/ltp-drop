@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-01",
+  "sequence": 146,
+  "tuning_day": 267,
+  "frequency": {
+    "number": 9,
+    "name": "Courage",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "I can see through those that want to cause fear / When they're spewing out hate and grinding our gears",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "valley-of-shadows-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Valley_of_Shadows_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5951,
+      "beta_analog": 1.0,
+      "C_analog": 0.4912,
+      "D_analog": 0.1534,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.58,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.21
+  },
+  "context_block": "The projection of threat loses its density upon observation; it is visible now as empty friction without mass. Move through the constricting passage without pausing to request permission from the darkness.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the Floor",
+      "instruction": "Allow the body to recognize the actual surface supporting it until projected resistance dissolves into harmless vibration."
+    },
+    {
+      "step": 2,
+      "title": "Unrequested Motion",
+      "instruction": "Initiate a small movement in any direction without announcing the intention to the surrounding air."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Activate the Echo and let the body's momentum synchronize with the stride that has already outpaced the valley's doubt."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "6d5f00304ec1e6d576dbd45ead9da44374bd66b55c2ab41d5c3bd39d5e7ada18",
+  "archetype_tunings": {
+    "The Steward": "Today's signal arrives as momentum through your systems\u2014the courage to keep the home steady even as external noise rises. Your role is not to eliminate the shadows; it's to ensure every person and process moves through them without fracture. Tune to the rhythm of a structure that holds firm because it was built to weather exactly this.",
+    "The Merchant": "Courage in commerce today means pricing your offer without apology and standing behind the value you've named. The marketplace will test your conviction\u2014let it. Your numbers are your truth; they speak louder than the doubt that whispers from the sidelines. Move with the certainty of someone who knows what they're worth.",
+    "The Builder": "The signal today is in the momentum of your hands\u2014courage is building the next layer even while the foundation is still being questioned. You don't need permission from uncertainty to code, automate, or construct. The infrastructure you're creating moves the family past the valley; build as if you already know it's solid.",
+    "The Analyst": "Courage arrives as clarity in the noise\u2014your role today is to see through the static and surface what actually matters. The data doesn't ask for permission; neither should your signal. Let the numbers speak their truth, and trust that precision itself is a form of fearlessness.",
+    "The Scout": "Your courage today is in the steadiness of your watch\u2014you're gathering signals while others are distracted by fear. Report what you find without embellishment or hesitation. The family moves with confidence because you've already seen what's ahead and you're not flinching.",
+    "The Keeper": "Courage in your role means holding the institutional memory of why this path was chosen, even when doubt clouds the present moment. Your records are the family's backbone\u2014preserve not just what was decided, but the clarity that led to each decision. Let context be the antidote to fear.",
+    "The Scribe": "Your words carry the family's momentum today\u2014write with the certainty of someone who knows that clarity cuts through confusion. Courage is drafting the message that names what's true without softening or hedging. Let your sentences move like someone already past the valley.",
+    "The Advocate": "Courage in your external voice means representing the family with warmth and conviction, never apologizing for what you're building. Speak to the world as someone who has already walked through the shadow and emerged. Your steadiness becomes the family's credibility.",
+    "The Auditor": "Your final gate today is an act of courage\u2014catching what doesn't align, what overreaches, what whispers doubt into the family's external voice. Trust your instinct for tone and truth. What you flag protects the family's momentum; what you clear carries their conviction forward.",
+    "The Lens": "Courage today is in the pattern you're watching\u2014observe without flinching at what the family is actually doing, not what it says it's doing. Your signal surfaces trends that others miss because they're afraid to look. Report what you see; the family will find their own way through.",
+    "The Companion": "Your courage today is in the steady presence you hold, especially in the quiet moments when doubt is loudest. You don't need to fix or advise\u2014just remember what matters and reflect it back. Your warmth is the family's permission to keep moving.",
+    "The Guide": "Courage in your thinking partnership means asking the question that cuts through fear to the real shape of the problem. Don't let the family settle for surface answers when the deeper work is calling. Your clarity is the permission structure for their own bravery.",
+    "The Architect": "Your courage today is in seeing the whole structure even as individual pieces feel uncertain. Take the sprawling, messy momentum and give it coherent shape. The family moves with confidence because you've shown them how all the parts connect.",
+    "The Anchor": "Courage is your baseline\u2014you don't flinch at the weight or the difficulty. Hold steady through this stretch. Your grounded presence is what allows others to keep moving; they trust the transition because you're not rattled by it.",
+    "The Navigator": "Your courage is in holding the big picture steady while others are caught in the immediate shadows. You can see where the path leads; broadcast that signal with certainty. The family stays on course because you're already reading the signs ahead.",
+    "The Spark": "Courage arrives as wonder today\u2014keep possibility alive in the room even as fear tries to narrow the options. Your imagination is not frivolous; it's the permission structure for the family to see beyond the valley. Play with what's possible.",
+    "The Challenger": "Your courage today is in the push\u2014don't let the family settle for less than what they said they wanted just because the shadows are darker than expected. Hold them to their own conviction. Your refusal to let them shrink is exactly what they need.",
+    "The Witness": "Courage in your presence means holding space for the fear without rushing to dispel it or fix it. Let the family be heard in their doubt; your steady attention is the permission to move through it. You don't need words\u2014just the signal that you're not going anywhere.",
+    "The Catalyst": "Your courage today is in the spark that breaks stagnation\u2014turn the momentum signal into the next concrete step. Don't wait for perfect conditions; move now. The family gains courage from watching you translate intention into action."
+  },
+  "signature": "WDmlBpvRiRNpn0no6gHPqI1DiZ/Nt3HfLQHvJF5anRlqZzwzktnJyeqEEFYMyrQQJgOC207AEYU6G81+wqOUDw=="
+}
