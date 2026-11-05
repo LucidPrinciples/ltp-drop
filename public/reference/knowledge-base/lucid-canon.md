@@ -299,7 +299,7 @@ A resolution requires faith in somethin
 **THEME:** Freedom as an internal frequency state, not an external condition
 **KEY_LYRIC:** "Rivers flow to and fro, the waters are free but controlled"
 **SECONDARY_LYRIC:** "Freedom is undefined... Because it's a state of mind"
-**TERTIARY_LYRIC:** "Is there a rule of thumb? / On how to find happiness and love... With freedom"
+**TERTIARY_LYRIC:** "Is there a rule of thumb? / On how to find happiness and love / With freedom"
 
 ### FULL_LYRICS:
 
@@ -330,7 +330,7 @@ We have questions about
 How things are done.
 Is there a rule of thumb?
 On how to find happiness and love
-... With freedom
+With freedom
 
 [chorus]
 Freedom is Freedom is Freedom is oh ya
@@ -1199,7 +1199,7 @@ That's what life is about
 **PRIMARY_FREQUENCIES:** Connection, Gratitude, Joy
 **SECONDARY_FREQUENCIES:** Integration, Momentum, Peace, Trust
 **THEME:** Questioning preconceptions as active tuning work
-**KEY_LYRIC:** "Who are they? I wonder what they could be? / Who will help them see... If you won't?"
+**KEY_LYRIC:** "Who are they? I wonder what they could be? / Who will help them see / If you won't?"
 **SECONDARY_LYRIC:** "I wonder bout the people who can't seem to see / Through their preconceptions that they cling to"
 **TERTIARY_LYRIC:** "We must try to do our best to create a world without hunger, without thirsting, without hatred, without fighting, and wars."
 
@@ -1213,7 +1213,8 @@ In the family, in the city, in the schoolyard
 
 [chorus]
 Who are they? I wonder what they could be?
-Who will help them see... If you won't?
+Who will help them see
+If you won't?
 
 [verse]
 I wonder bout the people who can't seem to see
@@ -1224,7 +1225,8 @@ For our progress, for our culture, for our future
 
 [chorus]
 Who are they? I wonder what they could be?
-Who will help them see... If you won't?
+Who will help them see
+If you won't?
 
 [verse]
 I wonder bout the people who ponder
@@ -1237,7 +1239,8 @@ Without fighting, and wars
 [chorus]
 Who are they?
 I wonder what they could be?
-Who will help them see... If you won't?
+Who will help them see
+If you won't?
 
 ---
 
