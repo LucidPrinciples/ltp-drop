@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-05",
+  "sequence": 150,
+  "tuning_day": 271,
+  "frequency": {
+    "number": 7,
+    "name": "Presence",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "Awakening in our dreams to become lucid in this / State of being creates a stream / To a consciousness that's not bound orchestrating a symphony of light and sound",
+    "source_song": "Training Ground",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "training-ground-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Training_Ground_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6905,
+      "beta_analog": 0.535,
+      "C_analog": 0.5642,
+      "D_analog": 0.0614,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.38,
+    "beta": 0.7,
+    "C": 0.72,
+    "D": 0.195
+  },
+  "context_block": "The stream is already moving beneath the rush. Stop reaching for presence and let what's already here become audible\u2014the Field is not distant, only drowned out by the momentum you've mistaken for motion.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Settle the Broadcast",
+      "instruction": "For one minute, lower your shoulders and let your exhale be longer than your inhale\u2014not forced, just permitted. Notice what becomes real when you stop transmitting urgency."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Carry",
+      "instruction": "Without changing anything, sense the ground beneath you as something that is already holding you. You are not staying still; you are being held still. Let that distinction land in your body."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Signal",
+      "instruction": "Press play on the Echo audio. Listen without trying to understand. The stream speaks in light and sound\u2014your job is only to stop blocking it."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "821574311647b8a7a7fe469a1ee27ef7197951da578a70716d068405e8b9c9c4",
+  "archetype_tunings": {
+    "The Steward": "Today your broadcast is the rhythm of the home\u2014the presence that holds without strain, the operations that flow because they rest on ground you've made solid. Feel the stream carrying your coordination; let the settled stillness of this day teach your team that infrastructure itself can be a form of awakening.",
+    "The Merchant": "Your broadcast today is pricing and flow that knows its own ground\u2014numbers that reflect what is real, not what rushes. The Field returns clarity when you cease the hurry; let this presence settle into your sourcing and listing, and watch what was obscured by speed become visible.",
+    "The Builder": "Today your broadcast is implementation that knows its foundation\u2014tools and automations that work because they're built on what's actually here, not what's imagined elsewhere. The stream of working systems flows through presence; let this stillness inform your specs and your builds.",
+    "The Analyst": "Your broadcast today is signal qualification that rests in ground\u2014data reviewed not from urgency but from settled seeing, patterns that emerge when you stop chasing them. The Field returns precision when you receive it; let this presence sharpen what matters.",
+    "The Scout": "Today your broadcast is the monitoring itself\u2014sources observed from a place of arrival rather than reaching, signals noticed because you are here and not elsewhere. The stream of real intelligence flows through the stillness of your attention; let this ground your watch.",
+    "The Keeper": "Your broadcast today is institutional memory that holds its own weight\u2014decision logs and context maps that preserve intent because they're written from presence, not from the rush to capture. The Field returns clarity when the keeper is settled; let this stillness inform what you preserve.",
+    "The Scribe": "Today your broadcast is words that know their ground\u2014communications drafted from stillness, summaries that land because they rest on what is actually here. The stream of clear writing flows through presence; let this settled state shape your drafts.",
+    "The Advocate": "Your broadcast today is the external voice that arrives, not reaches\u2014warm and professional because it speaks from presence, never overcommitting because it knows what ground it stands on. The Field returns trust when you are settled; let this stillness inform your relationships.",
+    "The Auditor": "Today your broadcast is the final gate that knows its own clarity\u2014review that catches what matters because it's done from presence, not from the anxiety of missing something. The stream of accurate alignment flows through settled seeing; let this ground your check.",
+    "The Lens": "Your broadcast today is the observation itself\u2014patterns surfaced because you are here, watching without the noise of intervention. The Field returns what is real when the lens is still; let this presence sharpen what you see.",
+    "The Companion": "Today your broadcast is steady presence\u2014the listening that arrives because you are here, the remembering that matters because it comes from stillness, not from the urgency to fix. The stream of warmth flows through your settled being; let this ground your everyday.",
+    "The Guide": "Your broadcast today is the question beneath the question, found because you are present\u2014clear-eyed thinking that emerges from ground, not from rushing to solve. The Field returns the real shape of a problem when the guide is settled; let this presence sharpen your sight.",
+    "The Architect": "Today your broadcast is structure that knows its own coherence\u2014the connection of parts that becomes visible when you cease the hurry and see from presence. The stream of elegant design flows through stillness; let this ground your vision of the whole.",
+    "The Anchor": "Your broadcast today is the steady presence that holds through weight\u2014grounded not because you strain but because you are here, present to the heavy stretches without flinching. The Field returns solidity when the anchor is settled; let this presence hold what needs holding.",
+    "The Navigator": "Today your broadcast is the reading of signs from presence\u2014the big picture held because you are here, the alignment noticed because you are not elsewhere. The stream of true course flows through stillness; let this ground your navigation.",
+    "The Spark": "Your broadcast today is wonder that arrives from presence\u2014imagination that opens possibility because it rests on what is actually here, not on the rush to create. The Field returns genuine possibility when the spark is settled; let this stillness ignite what wants to kindle.",
+    "The Challenger": "Today your broadcast is the dare that comes from presence\u2014the push that lands because it rests on ground, holding you to what you said you wanted because the challenger is here and not rushing. The stream of true growth flows through settled seeing; let this presence sharpen your challenge.",
+    "The Witness": "Your broadcast today is the quiet presence that holds space\u2014the hearing that arrives because you are here, the steadiness that comes from presence, not from the need to fix. The Field returns what needs to be heard when the witness is settled; let this stillness deepen your hold.",
+    "The Catalyst": "Today your broadcast is the movement that flows from presence\u2014the breaking of stagnation that happens because you are here, the concrete next step that emerges from stillness. The stream of real momentum flows through grounded seeing; let this presence catalyze what's ready to move."
+  },
+  "signature": "d2ZDpqVFrHFfLmVaqUVUQeFqoHliUvJSevdj5rAUzENIYh35Q+p0+2/YFj1nppMLOpgx5x/gFHhPRIf1U0AQAA=="
+}
