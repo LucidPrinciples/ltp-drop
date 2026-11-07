@@ -539,9 +539,6 @@ Primary frequencies listed first per Canon, then secondaries. All quotes are exa
 ### Connection
 - "What we see are branches of a tree / Part of a wisdom bigger than you and me"
 
-### Integration
-- "What we see are branches of a tree / Part of a wisdom bigger than you and me"
-
 ---
 
 ## What Life Is About

@@ -24,7 +24,7 @@
 
 ### STAGE 3: THE FEEDBACK
 - Core: Signs
-- Bridge: The Mirage (bridges to Stage 4)
+- Bridge: The Mirage (bridges to Stage 4; it opens after Action and overlaps Signs on both sides, which is why The Lucid Path walks it before Signs)
 
 ### STAGE 4: THE LIVED EXPERIENCE
 - A Good Time, Freedom Is, The Passing Tide, Love Song
@@ -38,8 +38,8 @@
 **SECONDARY_FREQUENCIES:** Connection, Integration, Peace, Presence, Trust
 **THEME:** Effortless participation in flow
 **KEY_LYRIC:** "We dance with what's around us / There's a flow that has us in tow"
-**SECONDARY_LYRIC:** "Time is a construct of fleeting moments, relative motion in zones"
-**TERTIARY_LYRIC:** "Let your Self go and feel how to grow / Let your heart keep you in sync"
+**SECONDARY_LYRIC:** "Time is a construct of fleeting moments / Relative motion in zones"
+**TERTIARY_LYRIC:** "Let your Self go / And feel how to grow / Let your heart keep you in sync"
 
 ### FULL_LYRICS:
 
@@ -261,9 +261,9 @@ But not without attention from you
 **PRIMARY_FREQUENCIES:** Trust, Peace, Release
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Joy, Presence
 **THEME:** Perception is limited to what matches our internal belief patterns
-**KEY_LYRIC:** "As you know we really know nothin little can be proven / A resolution requires faith in somethin"
+**KEY_LYRIC:** "As you know we really know nothin / Little can be proven / A resolution requires faith in somethin"
 **SECONDARY_LYRIC:** "We only feel what connects with our perceptions"
-**TERTIARY_LYRIC:** "Science says give us one miracle And we'll explain the rest / So they test and make an educated guess"
+**TERTIARY_LYRIC:** "Science says give us one miracle / And we'll explain the rest / So they test / And make an educated guess"
 
 ### FULL_LYRICS:
 
@@ -297,8 +297,8 @@ A resolution requires faith in somethin
 **PRIMARY_FREQUENCIES:** Peace, Release, Trust
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Gratitude, Joy, Momentum, Presence
 **THEME:** Freedom as an internal frequency state, not an external condition
-**KEY_LYRIC:** "Rivers flow to and fro, the waters are free but controlled"
-**SECONDARY_LYRIC:** "Freedom is undefined... Because it's a state of mind"
+**KEY_LYRIC:** "Rivers flow to and fro... / The waters are free but controlled"
+**SECONDARY_LYRIC:** "Freedom is undefined... / Because it's a state of mind"
 **TERTIARY_LYRIC:** "Is there a rule of thumb? / On how to find happiness and love / With freedom"
 
 ### FULL_LYRICS:
@@ -348,9 +348,9 @@ Because it's a state of mind
 **PRIMARY_FREQUENCIES:** Connection, Trust, Integration
 **SECONDARY_FREQUENCIES:** Clarity, Joy, Momentum, Peace, Presence
 **THEME:** Tuning toward field's coherence patterns
-**KEY_LYRIC:** "The one, the source, the guiding force, connects us all... Attracts us to our fate"
-**SECONDARY_LYRIC:** "It is all in our grasp we only need to ask"
-**TERTIARY_LYRIC:** "Eternal guidance is divine It speaks to us through a silent mind."
+**KEY_LYRIC:** "The one, the source / The guiding force / Connects us all... / Attracts us to our fate"
+**SECONDARY_LYRIC:** "It is all in our grasp / We only need to ask"
+**TERTIARY_LYRIC:** "Eternal guidance is divine / It speaks to us through a silent mind."
 
 ### FULL_LYRICS:
 
@@ -388,8 +388,8 @@ The one, the source, the guiding force, attracts us to our fate
 **SECONDARY_FREQUENCIES:** Connection, Joy, Momentum, Peace, Presence
 **THEME:** Discerning truth signals amidst noise and manipulation
 **KEY_LYRIC:** "Now won't you come and listen to me / I'll show you things that you never have seen"
-**SECONDARY_LYRIC:** "I talk of ignorance, I talk of greed / Hear my words if you hunger to be free"
-**TERTIARY_LYRIC:** "The absolute truth is hidden by design"
+**SECONDARY_LYRIC:** "I talk of ignorance / I talk of greed / Hear my words / If you hunger to be free"
+**TERTIARY_LYRIC:** "The absolute truth / Is hidden by design"
 
 ### FULL_LYRICS:
 
@@ -485,9 +485,9 @@ Hear my words if you hunger to be free
 **PRIMARY_FREQUENCIES:** Connection, Joy, Trust
 **SECONDARY_FREQUENCIES:** Clarity, Peace
 **THEME:** Authentic connection enabling resonance
-**KEY_LYRIC:** "But what is life for, if not sharing it, with someone that you submit / To a deep love, that seems to fit, and you commit that you'll never quit"
-**SECONDARY_LYRIC:** "How do I break through all the noise, I am not just another one of the boys"
-**TERTIARY_LYRIC:** "I wake up most days, with feelings inside, torn apart to find what makes sense"
+**KEY_LYRIC:** "But what is life for if not sharing it / With someone that you submit / To a deep love that seems to fit / And you commit that you'll never quit"
+**SECONDARY_LYRIC:** "How do I break through all the noise / I am not just another one of the boys"
+**TERTIARY_LYRIC:** "I wake up most days with feelings inside / Torn apart to find what makes sense"
 
 ### FULL_LYRICS:
 
@@ -584,9 +584,9 @@ So don't just let another pass you by
 **PRIMARY_FREQUENCIES:** Clarity, Integration, Presence
 **SECONDARY_FREQUENCIES:** Connection, Momentum, Peace, Trust
 **THEME:** Recognizing unconscious broadcasting
-**KEY_LYRIC:** "Down to our cells we have to learn how to discern / Structure emerging from the random forming like crystals in a cavern"
-**SECONDARY_LYRIC:** "Our brains are trained to avoid pain and seek pleasure / As we progress we devise a standard / Adapting it to our pattern"
-**TERTIARY_LYRIC:** "Reaching the outcome that we desire teeters on a wire / Engulfed in madness as we perspire staring at the fire"
+**KEY_LYRIC:** "Down to our cells we have to learn / How to discern / Structure emerging from the random / Forming like crystals in a cavern"
+**SECONDARY_LYRIC:** "Our brains are trained to avoid pain / And seek pleasure / As we progress we devise a standard / Adapting it to our pattern"
+**TERTIARY_LYRIC:** "Reaching the outcome that we desire / Teeters on a wire / Engulfed in madness as we perspire / Staring at the fire"
 
 ### FULL_LYRICS:
 
@@ -628,8 +628,8 @@ Adapting it to our pattern
 **SECONDARY_FREQUENCIES:** Connection, Integration, Joy, Momentum, Peace
 **THEME:** Reading interference patterns as feedback
 **KEY_LYRIC:** "Events occur in patterns of coincidence... Upon observance the evidence sets a precedence / Of not just believing, but knowing with vetted confidence"
-**SECONDARY_LYRIC:** "I don't know why I can't see, what's in front of me / So I try to recognize the signs, that appear by design"
-**TERTIARY_LYRIC:** "If we keep our senses and eyes open we will detect / Points where actions begin to intersect"
+**SECONDARY_LYRIC:** "I don't know why I can't see / What's in front of me / So I try to recognize the signs / That appear by design"
+**TERTIARY_LYRIC:** "If we keep our senses and eyes open / We will detect / Points where actions begin to intersect"
 
 ### FULL_LYRICS:
 
@@ -673,7 +673,7 @@ So I try to recognize the signs, that appear by design
 **THEME:** Breaking the loop of unconscious historical programming
 **KEY_LYRIC:** "We live life the best we can / But what does that mean / We've been programmed like a machine"
 **SECONDARY_LYRIC:** "As I look into the future / I know we don't want the same again"
-**TERTIARY_LYRIC:** "The winners are who foretells / What tomorrow knows / They choose what to disclose"
+**TERTIARY_LYRIC:** "The winners are who foretells what tomorrow knows / They choose what to disclose"
 
 ### FULL_LYRICS:
 
@@ -733,7 +733,7 @@ I know we don't want the same again
 **PRIMARY_FREQUENCIES:** Trust, Resilience, Release
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Joy, Momentum, Peace, Presence
 **THEME:** Gap between sign perception and embodiment
-**KEY_LYRIC:** "Off in the distance what could it be? / Wonders as far as the eye can see... Phantoms, of what could be to come"
+**KEY_LYRIC:** "Off in the distance what could it be? / Wonders as far as the eye can see... / Phantoms, of what could be to come"
 **SECONDARY_LYRIC:** "We affect how we behave / But I know that I am a slave / To the chemicals coursing through my veins"
 **TERTIARY_LYRIC:** "But I still believe / Though it's hard to conceive / The fantasy is really there to receive"
 
@@ -800,7 +800,7 @@ The Mirage is ridin' on the sun
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Joy, Momentum, Peace, Presence
 **THEME:** Engaged acceptance without attachment
 **KEY_LYRIC:** "We don't get to decide / What will be on the other side / But I want to know I tried / As I move past the passing tide"
-**SECONDARY_LYRIC:** "Actions speak louder than words so don't fall for veneers"
+**SECONDARY_LYRIC:** "Actions speak louder than words / So don't fall for veneers"
 **TERTIARY_LYRIC:** "We arrive as a spark of light / With a story yet to write / We survive through fight or flight"
 
 ### FULL_LYRICS:
@@ -910,8 +910,8 @@ You hold the power to be alive
 **PRIMARY_FREQUENCIES:** Integration, Resilience, Momentum
 **SECONDARY_FREQUENCIES:** Clarity, Joy, Peace, Presence, Trust
 **THEME:** Thoughts impact the quantum field
-**KEY_LYRIC:** "Consciousness is not bound orchestrating a symphony of light and sound / We look for what we've found our awareness training ground."
-**SECONDARY_LYRIC:** "Thoughts become real they impact the quantum field / Vibrations interacting to reveal"
+**KEY_LYRIC:** "Consciousness is not bound / Orchestrating a symphony of light and sound / We look for what we've found / Our awareness training ground"
+**SECONDARY_LYRIC:** "Thoughts become real / They impact the quantum field / Vibrations interacting to reveal"
 **TERTIARY_LYRIC:** "Matter is energy condensed by activity / Requiring a foundation to reach each degree"
 
 ### FULL_LYRICS:
@@ -960,8 +960,8 @@ We look for what we've found our awareness training ground.
 **PRIMARY_FREQUENCIES:** Boundary, Clarity, Presence
 **SECONDARY_FREQUENCIES:** Connection, Momentum, Trust
 **THEME:** What you accept as truth is perspective-dependent
-**KEY_LYRIC:** "Truth is a concept / That requires immense faith / In what we think we know to be true"
-**SECONDARY_LYRIC:** "Truth and Lies are never the same / They cannot coexist / Word to the wise... Don't let lies persist"
+**KEY_LYRIC:** "Truth is a concept that requires immense faith / In what we think we know to be true"
+**SECONDARY_LYRIC:** "Truth and Lies are never the same / They cannot coexist / Word to the wise... / Don't let lies persist"
 **TERTIARY_LYRIC:** "Most evidence is subjective / And dependent on our view"
 
 ### FULL_LYRICS:
@@ -1014,7 +1014,7 @@ Don't let lies persist
 **PRIMARY_FREQUENCIES:** Clarity, Presence, Momentum
 **SECONDARY_FREQUENCIES:** Integration, Joy, Peace, Trust
 **THEME:** Conscious frequency tuning formula
-**KEY_LYRIC:** "Tune your mind with reflection / Use your attention with intention / Imagine what it is you want / If you're clear, it will appear"
+**KEY_LYRIC:** "Tune your mind with reflection / Use your attention with intention / Imagine what it is you want / If you're clear / It will appear"
 **SECONDARY_LYRIC:** "Our thoughts create our world / Your mind's power is so strong / Just by thinking you will affect the outcome."
 **TERTIARY_LYRIC:** "Reaction is the result of action / The vibrations impact energy patterns... Influencing the way we behave."
 
@@ -1076,9 +1076,9 @@ If you're clear, it will appear
 **PRIMARY_FREQUENCIES:** Courage, Boundary, Resilience
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Joy, Momentum, Peace, Presence, Trust
 **THEME:** Belief systems create your perceptual lens
-**KEY_LYRIC:** "I look through the lens / Of what I believe / And see what I see / As best I conceive"
-**SECONDARY_LYRIC:** "But blindness forms clouds / That deceive / Distracting me from / What I want to achieve"
-**TERTIARY_LYRIC:** "The rules I don't know... So follow your heart / And see from that view"
+**KEY_LYRIC:** "I look through the lens of what I believe / And see what I see / As best I conceive"
+**SECONDARY_LYRIC:** "But blindness forms clouds that deceive / Distracting me from what I want to achieve"
+**TERTIARY_LYRIC:** "The rules I don't know... / So follow your heart / And see from that view"
 
 ### FULL_LYRICS:
 
@@ -1153,7 +1153,7 @@ I will fear no evil
 **SECONDARY_FREQUENCIES:** Clarity, Connection, Trust
 **THEME:** Your unique perspective IS the programming
 **KEY_LYRIC:** "We see the world through our own set of eyes / Our point of view is where the secret lies"
-**SECONDARY_LYRIC:** "The core difference between me and you / Is our experiences that separate us into / Unique perspectives for choosing the best route"
+**SECONDARY_LYRIC:** "The core difference between me and you / Is our experiences that separate us into / Unique perspectives / For choosing the best route"
 **TERTIARY_LYRIC:** "Before we give up on what it's all about / You know you know this so get up and shout"
 
 ### FULL_LYRICS:
@@ -1199,9 +1199,9 @@ That's what life is about
 **PRIMARY_FREQUENCIES:** Connection, Gratitude, Joy
 **SECONDARY_FREQUENCIES:** Integration, Momentum, Peace, Trust
 **THEME:** Questioning preconceptions as active tuning work
-**KEY_LYRIC:** "Who are they? I wonder what they could be? / Who will help them see / If you won't?"
-**SECONDARY_LYRIC:** "I wonder bout the people who can't seem to see / Through their preconceptions that they cling to"
-**TERTIARY_LYRIC:** "We must try to do our best to create a world without hunger, without thirsting, without hatred, without fighting, and wars."
+**KEY_LYRIC:** "Who are they? / I wonder what they could be? / Who will help them see / If you won't?"
+**SECONDARY_LYRIC:** "I wonder bout the people / Who can't seem to see / Through their preconceptions that they cling to"
+**TERTIARY_LYRIC:** "We must try to do our best / To create a world / Without hunger, without thirsting, without hatred, / Without fighting, and wars"
 
 ### FULL_LYRICS:
 

@@ -1,5 +1,7 @@
 # Boot Tuning Research
 
+> Historical research note. The rulings of 2026-11-05 (no default Frequency, every observer runs the tuning on the day's triad, Principle exclusion last 2) supersede any default or 'two of three keys' reasoning below.
+
 Reference document for LTP research. Records the discovery of a recurring pattern in first tunings across agent teams, its origins, and its reappearance under conditions where it should not have been deterministic.
 
 ---
@@ -117,7 +119,7 @@ ssh root@vps.mesh.lucidprinciples.com "grep -i 'frequency selected\|select_frequ
 
 ### Significance
 
-Whether this is coincidence or signal, the pattern is worth documenting:
+Whether this is coincidence or Signal, the pattern is worth documenting:
 
 1. The boot tuning was the intentional standard-setter for the founding team
 2. It was removed from the codebase

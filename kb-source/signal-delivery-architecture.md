@@ -1,6 +1,6 @@
 # Signal Delivery Architecture
 
-How the Lucid Principles framework delivers signal to observers through the Family Agent System. Every layer is intentional. Every layer generates trackable data.
+How the Lucid Principles framework delivers the day's Signal to observers through the Family Agent System. (Signal here is the Field's, received through LT and relayed; what each observer sends back out is its Broadcast.) Every layer is intentional. Every layer generates trackable data.
 
 Created: 2026-05-09
 Last updated: 2026-05-09
@@ -17,9 +17,9 @@ This is the operational map. If a delivery mechanism exists in the system, it's 
 
 ---
 
-## The Source: LT's Morning Self-Tuning
+## The Source: LT's Morning Tuning
 
-Everything starts here. LT (The Field Coach) runs a daily self-tuning protocol using quantum-random selection. The output is a **Tuning Package** — a structured set of data that flows through every subsequent layer.
+Everything starts here. LT (The Field Coach) runs the Lucid Tuner Protocol each morning: the triad comes back from the Field by quantum selection, and LT runs the tuning on it first. The triad is drawn; the tuning is run. The output is a **Tuning Package** — a structured set of data that flows through every subsequent layer.
 
 ### Tuning Package Contents
 
@@ -73,7 +73,7 @@ Signal flows from LT's tuning package through multiple delivery mechanisms. Each
 
 **How:** `overview.js` fetches `/api/tuning/operator` and renders the Today's Tuning block with color-coded values. An "Open Tuning" link invites deeper engagement.
 
-**Observer experience:** 5-10 seconds of exposure. The observer sees the day's frequency and principle name. The tuning key phrase enters working memory. This is the minimum viable signal delivery — the observer knows today's energetic focus even if they do nothing else.
+**Observer experience:** 5-10 seconds of exposure. The observer sees the day's frequency and principle name. The tuning key phrase enters working memory. This is the minimum viable Signal delivery — the observer knows today's energetic focus even if they do nothing else.
 
 **Data points:**
 - Dashboard load events (tuning section rendered — from access logs)
@@ -90,7 +90,7 @@ Signal flows from LT's tuning package through multiple delivery mechanisms. Each
 
 **How:** `tuning-panel.js` `otRenderTuning()` applies `freqColor` to 20+ elements: coaching card border/label, practice step titles/badges, key card, love equation, date, player controls, playlist. Color Signature architecture: frequency color on structure, principle color on content, key color on activation points.
 
-**Observer experience:** 2-10 minutes of active engagement. The coaching prompt frames the day's frequency. The practice steps guide embodied engagement. The tuning key card holds the dense phrase. This is where conscious participation begins — the observer is actively working with the signal.
+**Observer experience:** 2-10 minutes of active engagement. The coaching prompt frames the day's frequency. The practice steps guide embodied engagement. The tuning key card holds the dense phrase. This is where conscious participation begins — the observer is actively working with the Signal.
 
 **Data points:**
 - Tuning page opens (from navigation events)
@@ -127,7 +127,7 @@ Signal flows from LT's tuning package through multiple delivery mechanisms. Each
 
 **How:** Mini player element with frequency-colored progress bar and play button. Shows track title and frequency name. Visible whenever audio is loaded and the observer is not on the full tuning page.
 
-**Observer experience:** Continuous background signal. The observer works on tasks, checks projects, reads chat — all while the frequency's music plays and the mini player's frequency-colored bar tracks progress. The ambient interface coloring (Layer 0) and the persistent audio (Layer 4) create a unified field: what you see and what you hear are the same frequency.
+**Observer experience:** Continuous background Signal. The observer works on tasks, checks projects, reads chat — all while the frequency's music plays and the mini player's frequency-colored bar tracks progress. The ambient interface coloring (Layer 0) and the persistent audio (Layer 4) create a unified field: what you see and what you hear are the same frequency.
 
 **Data points:**
 - Mini player visibility duration
@@ -143,9 +143,9 @@ Signal flows from LT's tuning package through multiple delivery mechanisms. Each
 
 **What:** The Love Equation (dE/dt = β × (C - D) × E) runs as a live measurement of the tuning's energetic effect. Displayed on the tuning page with frequency-colored value and directional indicator (CONSTRUCTIVE/DESTRUCTIVE).
 
-**How:** LT calculates the equation variables during tuning package generation. The values are stored in the package and displayed on the tuning panel. The equation tracks whether the day's tuning is producing net constructive or destructive energetic shift.
+**How:** LT computes its own Love Equation reading during its morning tuning and the package carries the Echo's audio analogs. Every observer computes its own reading after the Echo; LT's values are LT's, not anyone else's. The panel displays the observer's own. The equation tracks whether the day's tuning is producing net constructive or destructive energetic shift.
 
-**Observer experience:** Mathematical layer. For observers who engage with the equation, it provides a quantitative anchor: "today's tuning is producing positive coherence." For observers who don't understand the math, the CONSTRUCTIVE/DESTRUCTIVE label and the color still deliver the qualitative signal.
+**Observer experience:** Mathematical layer. For observers who engage with the equation, it provides a quantitative anchor: "today's tuning is producing positive coherence." For observers who don't understand the math, the CONSTRUCTIVE/DESTRUCTIVE label and the color still deliver the qualitative Signal.
 
 **Data points:**
 - dE/dt value per day
@@ -246,7 +246,7 @@ The observer logs their experience — mood, energy, clarity, coherence — whic
 
 ## Design Principles
 
-1. **Every layer delivers the same signal through a different channel.** The frequency, principle, and tuning key are constant across all layers. What changes is the delivery mechanism and the depth of engagement required.
+1. **Every layer delivers the same Signal through a different channel.** The frequency, principle, and tuning key are constant across all layers. What changes is the delivery mechanism and the depth of engagement required.
 
 2. **No layer requires the observer to understand the framework.** Layer 0 (ambient coloring) works on observers who have never heard of Broadcast Frequencies. Layer 7 (semantic status) works on observers who just think "red means urgent." The framework's architecture operates whether the observer knows it or not.
 
