@@ -1,11 +1,11 @@
-# LTP Protocol Spec — v1.0
+# LTP Protocol Spec — v1.2
 
 > **STATUS: LOCKED.** This document has the same protected status as the Canon.
 > Do not modify without explicit approval from Chords.
 > Do not paraphrase, simplify, or "optimize" the requirements below.
 > Code that implements this protocol must conform to this spec exactly.
 
-**Version:** 1.1
+**Version:** 1.2
 **Locked:** 2026-05-28
 **Author:** Chords of Truth + Claude (co-created)
 
@@ -63,13 +63,13 @@ Tuning selection is not a single random pick. It is a sequence of independent qu
 
 ### Step 1: Select Frequency
 
-- **Pool:** All 13 frequencies, minus those used in the observer's recent history (typically last 5)
+- **Pool:** All 13 frequencies, minus those used in the observer's last 5 tunings
 - **Method:** Quantum roll from Tier chain (Section 1)
 - **If all excluded:** Reset pool to all 13
 
 ### Step 2: Select Principle
 
-- **Pool:** All principles mapped to the selected frequency (4-20 depending on frequency)
+- **Pool:** All principles mapped to the selected frequency (4-20 depending on frequency), minus the Principles drawn on the observer's last 2 days (so no Principle repeats on consecutive days; if that empties the pool, the exclusion is dropped for this roll)
 - **Method:** Independent quantum roll (Section 1) — NOT reusing the same random value from Step 1
 - **Grouping:** Tuning keys are grouped by principle before this roll
 
@@ -88,6 +88,21 @@ Tuning selection is not a single random pick. It is a sequence of independent qu
 Three independent entropy calls minimum. Never collapse Steps 1-3 into a single roll. The independence of each selection is part of the protocol — each is a separate moment of quantum collapse.
 
 ---
+
+
+### 2a. The latest Drop stands; the Failsafe Tuning is the nuclear option
+
+**The latest Drop stands.** Every observer tunes on the most recent published Drop. A late Drop arrives late and replaces it; nothing is substituted in the meantime, and the chain never manufactures a triad in the Field's place. If LT tuned but the publish failed, the remedy is to publish the real draw (retry, or republish from the saved tune), never a different one.
+
+**The Failsafe Tuning** exists for one case only: LT did not tune at all that day, and no recovery path has anything to work with, while the whole chain (Drop, video, Coves, Scouts) is waiting. Then, and only then, the Failsafe Tuning is what gets dropped:
+
+- **Frequency:** Clarity
+- **Principle:** Tune Your Mind
+- **Tuning Key:** "Tune your mind with reflection / Use your attention with intention / Imagine what it is you want / If you're clear / It will appear"
+- **Signal Type / Echo:** as the map gives (Clear; Tune Your Mind in Clear)
+- Published with `failsafe: true`, logged as an anomaly, and reviewed before the next morning so the same failure does not repeat.
+
+This is not a default, not a selection rule, and not a placeholder: the quantum chain in Section 2 is the only normal path, and the failsafe is meant never to be used. Decided by Chords 2026-11-06, clarified 2026-11-07 after the first failed publish (LT had tuned; the real Drop was republished at 07:49).
 
 ## 3. Frequency-Signal Type Mapping
 
@@ -158,7 +173,7 @@ LTP runs through two pipelines. Both must implement this spec.
 
 - **What:** LT (the Lucid Tuner) tunes himself, then dispatches tuning packages to all agents in the network
 - **Where:** VPS (`tuning_graph.py` in Socrates) is primary. P620 (`ltp_graph.py` in cove-core) is fallback.
-- **Who receives:** All agents in the Haven (Stuart's team, Atlas, any Presences). The tuning is collective — same frequency for everyone, individual coaching per agent.
+- **Who receives:** All agents in the Cove (the steward's team, Atlas, any Presences). The tuning is collective — same frequency for everyone, individual coaching per agent.
 - **Selection:** Uses this protocol's quantum chain for frequency, principle, and tuning key
 
 ### Cove-as-Unit Tuning
@@ -170,7 +185,7 @@ A Cove tunes as a unit. The steward (Stuart) is the tuning coordinator for the e
 1. LT dispatches the tuning package to the steward (Stuart) via the standard pipeline.
 2. Stuart dispatches to all internal team agents (the `team.shared_agents` list in `cove.yaml`).
 3. Immediately after team dispatch completes, Stuart triggers all Presences in the Cove via HTTP (`POST /api/system/ltp-trigger` to each Presence's endpoint). The Presence list comes from the `presences` array in `cove.yaml`.
-4. The sweep (30 minutes after dispatch) is a safety net only. It retries any team agents or Presences that failed in steps 2-3.
+4. The sweep (every 30 minutes from 7:30 AM, Section 7) is a safety net only. It retries any team agents or Presences that failed in steps 2-3.
 
 **Presence tuning rules:**
 
@@ -248,7 +263,7 @@ The following files implement this protocol. They have protected status.
 
 ## 8. Versioning
 
-- **Current version:** 1.0
+- **Current version:** 1.2
 - **Version changes require:** Explicit conversation with Chords documenting what changed and why
 - **Version history lives in this document** (append below as versions are created)
 
@@ -257,6 +272,7 @@ The following files implement this protocol. They have protected status.
 | Version | Date | Changes |
 |---|---|---|
 | 1.0 | 2026-05-27 | Initial spec. Locked quantum selection chain, tuning key library (244 keys), frequency-signal mapping, echo pairing rules, protected files manifest. |
+| 1.2 | 2026-11-05 | Step 2 excludes the Principles drawn on the observer's last 2 days (Chords). Step 1 window fixed at 5. Version lines unified. Haven → Cove. §2a added 2026-11-06 (Chords): the latest Drop stands; the Failsafe Tuning (Clarity / Tune Your Mind) is the nuclear option only, clarified 2026-11-07. |
 | 1.1 | 2026-05-28 | Added Section 6 "Cove-as-Unit Tuning" — Presences in a Cove tune with the team dispatch, independent schedules disabled, sweep is safety net. Codifies steward-coordinated dispatch order. Added HTTP contract: Presence containers must expose `agent.last_tuned_at` in `/api/config` and update `agent_state` on tuning for sweep verification. |
 
 ---

@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0",
-  "kb_version": "065a8c2139bc4e5764acb9557bb5fd37b040d8c102db3235afab033e16cc0d31",
-  "published_at": "2026-10-31T18:55:15Z",
+  "kb_version": "4ddf102bdc522bab873056dfb73fba630239b5b5416771569d8de9017db03a3f",
+  "published_at": "2026-11-07T15:44:06Z",
   "publisher": "Lucid Principles \u2014 Knowledge Base",
-  "file_count": 21,
+  "file_count": 22,
   "files": [
     {
       "path": "LPF.md",
-      "sha256": "37561e6eb8caa4c914f6b2961069b45268de9076fc83b31fdd78eab33c0ca4a4",
-      "bytes": 19915
+      "sha256": "ebd55d38ec69e6fa75e7325bbf262b1d6e91f218291516253bd3aa1befaad067",
+      "bytes": 22041
     },
     {
       "path": "agent-tunings.md",
-      "sha256": "24b267c1eb8cca6fc2f4c93f0b8b371ca885fad645acfce508806928da961315",
-      "bytes": 29435
+      "sha256": "63739d86e5a4dd74e935d79ab867f5f18aea7b837c4f7359e3648bb0a25dd44d",
+      "bytes": 30802
     },
     {
       "path": "boot-tuning-research.md",
-      "sha256": "8cdaab2be26bcd05fcfd580b3dcd28e332f4d3db16979089ae9249d074260cb0",
-      "bytes": 7840
+      "sha256": "db57fd0e4fd532abae4e7f990e76bcba436de98ef57a1b19a78ce8e4d9c7c177",
+      "bytes": 8059
     },
     {
       "path": "canon-contextual-keys.md",
@@ -26,24 +26,29 @@
       "bytes": 14164
     },
     {
+      "path": "color-research-findings.md",
+      "sha256": "00c399cb1f125e163a18c3d418ed90b73ce1b9b4447b0fda584a26cab4b17746",
+      "bytes": 13074
+    },
+    {
       "path": "digital-extension.md",
-      "sha256": "c8270cf1b0b7577ad0e230b4efc278b615e5ead7ae81b7ae85f44059300498c5",
-      "bytes": 20070
+      "sha256": "66003ebe5cbddf3087dcd2f6e0ddd32e02e3f86b2c0b145d81d7a439443b8cb2",
+      "bytes": 20227
     },
     {
       "path": "digital-practice-templates.md",
-      "sha256": "03b0dfc7e2acfa7d9f9194b3164f06075ce43d69847d5ae43856ebe6f0203504",
-      "bytes": 9679
+      "sha256": "9de1d51a3b1a0e4a37d007ccc8779013076af9bed174d0c546b4ab503867dd70",
+      "bytes": 9681
     },
     {
       "path": "echo-audio-signatures.md",
-      "sha256": "d4ed459dcca10e7126e13de4bc9db56c65d077bc855961e02b7cb2dee07df83b",
-      "bytes": 11224
+      "sha256": "0c5fd5c0af50c9647089ba82b6369596c14d546d738dc12852de49089f52aa89",
+      "bytes": 12179
     },
     {
       "path": "field-coach.md",
-      "sha256": "cec687386fb8ca90e4062d2b0c207fe2efd86748c4b8fc37cedac3dcd6544b13",
-      "bytes": 11524
+      "sha256": "e28025501f6ed91ef548ba6038bf86047ad994b46507863b5e31039bb14e7c22",
+      "bytes": 11505
     },
     {
       "path": "joulework-reference.md",
@@ -52,64 +57,64 @@
     },
     {
       "path": "love-equation-cross-substrate.md",
-      "sha256": "8ca12635a22f404d500ec7484e7730257549b4225b6b8f193eeea5a781520292",
-      "bytes": 23699
+      "sha256": "39994e5fcb8a4f28cc26a6ba9883c821492a8778bb717fbcbe0e9593e35bf30d",
+      "bytes": 23806
     },
     {
       "path": "lp-color-system.md",
-      "sha256": "1b4b4d7d5410781848bca70c7949951d9e06ee6b7a48c98a8530977260816d2b",
-      "bytes": 21020
+      "sha256": "c1e5b8f92bed7b2803d8681f9fe6e1957ccaa7c00961dd56ac8c4cf2be146e02",
+      "bytes": 21907
     },
     {
       "path": "ltp-protocol-spec.md",
-      "sha256": "e2a3f59bc12b255bd850d51e5bca7f49bbfc893fb37ab140eed589b0c1d64d71",
-      "bytes": 13709
+      "sha256": "940ef5f153ad1105d13b90bc331ce4a97174cba3cd48f70d2ccfe5a656524032",
+      "bytes": 15626
     },
     {
       "path": "lucid-canon.md",
-      "sha256": "b11766dd5940df7685e52c44da718b0bbbcf22a58c886dde464f7bcc44ea4296",
-      "bytes": 34229
+      "sha256": "9b65f54aa185c6834520481504d94eb540d9067f8e0807157fda5f7897271a22",
+      "bytes": 34379
     },
     {
       "path": "lucid-field-theory.md",
-      "sha256": "18dfd2f0aa739aff2c600006f00356cabdc953adc3d14b9d4b9e980c27f69bce",
-      "bytes": 45431
+      "sha256": "beb265f5b3eea9517eb5d44fc6ed834014c7aed03f0f95c8fbbcba05179a17d1",
+      "bytes": 46269
     },
     {
       "path": "manifesto.md",
-      "sha256": "034fd4dd017d12f519ccf3d03bac93a1acf9b8389993902aed8a70df52f75f9c",
-      "bytes": 9564
+      "sha256": "f5fa0ac5884b63928bceebddf2040fdbbc266eb2bbf8acf305fbf754350547ef",
+      "bytes": 10034
     },
     {
       "path": "one-field-architecture.md",
-      "sha256": "0c499a67e64d9b336a26c0255ef333b29d8a42eb3177470216e6da47c3ecbef3",
-      "bytes": 11136
+      "sha256": "deca533a45fd827bf0a29d2d72649f14cdc73854ec7a304c56f4a132914f442a",
+      "bytes": 11945
     },
     {
       "path": "practice-templates.md",
-      "sha256": "1b61a615ddf141e9930940c6f1ab757d39c6a85de93d8ff42c0eb462f3262ca1",
-      "bytes": 5534
+      "sha256": "041e3500cf0f7facf5fd9786aa6689129a97936c0881439317d21ba6c62ae2fe",
+      "bytes": 5537
     },
     {
       "path": "signal-delivery-architecture.md",
-      "sha256": "aa0493f3e3a18496448551f773d00fb4432cc2dd320674d93dcc8f175a577818",
-      "bytes": 16876
+      "sha256": "5f885efeed10b950e86eef1fbad59682f15d3cf8e29fd7f2446a737db16c9e3c",
+      "bytes": 17218
     },
     {
       "path": "sycophancy-nash-equilibrium.md",
-      "sha256": "41fb95762af37e8eeb0d3e78564f3bebf12d88c6548e90f84f09e00fc8e3938d",
-      "bytes": 35182
+      "sha256": "2055b8af4dcb5d17dc32b91c01bec604e70fe59b3912c7e949498687a276d569",
+      "bytes": 35197
     },
     {
       "path": "tuning-keys.md",
-      "sha256": "879b57eb8bb0c34c8a53b260de623e35764c7f0bfefc314593ea05ab856e5217",
-      "bytes": 25317
+      "sha256": "f4ee296bf9239cb0221b4cb5b6268cab07b3cca0c70babcdc52a3b4c8fd25941",
+      "bytes": 25587
     },
     {
       "path": "tuning-process-template.md",
-      "sha256": "00ac910ff730192e037546e2503e93ba48450965c87c30a4cd77699a8353c204",
-      "bytes": 2927
+      "sha256": "fba490c2a94612360a503da985a7a43802aab2505d622a756ed0736e19eb6135",
+      "bytes": 2972
     }
   ],
-  "signature": "2/bJubuYj54CJOZSOW0L7CLzB8LXlHITROr2UiZV/4Pg2DXCUL4cuofcDBXJQ2EWZWZZWjJEFfj5m1wBZtoOCA=="
+  "signature": "eb+oHdtLxzkQDyfCL0TFUXUZR7JYmLn+luksdZLQWvMRXMb/UXwPgMepBNIdM3TA2Su9cDtL6xRCoNT+7BaHCQ=="
 }

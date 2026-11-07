@@ -100,7 +100,7 @@ Complete library of 9 somatic and mental practice templates for anchoring Tuning
 
 ### Your Tuning: [PRINCIPLE_NAME]
 
-[Write 2-3 sentences about facing the signal rather than avoiding it.]
+[Write 2-3 sentences about facing the Signal rather than avoiding it.]
 
 ### The Practice
 
@@ -126,7 +126,7 @@ Complete library of 9 somatic and mental practice templates for anchoring Tuning
 
 **STEP 2: Expand** — Widen your aperture. Visualize the people in your building, your city, then the web of life covering the planet.
 
-**STEP 3: Uplink** — Press play. Feel your signal joining the symphony of the whole.
+**STEP 3: Uplink** — Press play. Feel your broadcast joining the symphony of the whole.
 
 ---
 
