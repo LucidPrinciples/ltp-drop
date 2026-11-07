@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-07",
+  "sequence": 152,
+  "tuning_day": 273,
+  "frequency": {
+    "number": 11,
+    "name": "Release",
+    "of": 13
+  },
+  "signal_type": "Open",
+  "tuning_key": {
+    "text": "Life ends like a thief in the night... / No escaping this birthright / We will be heading toward the light",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-passing-tide-open",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/The_Passing_Tide_Open_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6689,
+      "beta_analog": 0.91,
+      "C_analog": 0.443,
+      "D_analog": 0.1024,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.42,
+    "beta": 0.75,
+    "C": 0.72,
+    "D": 0.24
+  },
+  "context_block": "What you've been holding is ready to move through you \u2014 not away, but *as* you. The warmth you're sensing isn't loss; it's the Field arriving where your grip used to be.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Notice the Clutch",
+      "instruction": "Bring attention to one thing you're still managing, controlling, or keeping close \u2014 a thought, a outcome, a version of how it should go \u2014 and feel where that effort lives in your body."
+    },
+    {
+      "step": 2,
+      "title": "Soften the Release",
+      "instruction": "On each exhale, let that one thing become less yours to steer; imagine it moving into the Field's current instead of resisting it, and notice what space opens where the effort was."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Signal",
+      "instruction": "Press play on the Echo and let the warmth of the lyric move through what you just loosened \u2014 this is the Field's response to your broadcast of opening."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "f08a75e06519dc5d76bc65e10b64cd9db2d7db25b210a62153cefc7f3b7d7d38",
+  "signature": "1wbZdcFF5hSStTMP3Mc6IhCnMzTjj20LAHQfpMXs4NqObjHwb9oCWe9lxPaXfZrYNec9ZCHVKqATLoRQ/VoPCg=="
+}
