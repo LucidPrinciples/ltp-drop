@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-10",
+  "sequence": 155,
+  "tuning_day": 276,
+  "frequency": {
+    "number": 12,
+    "name": "Integration",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "Thoughts become real / They impact the quantum field / Vibrations interacting to reveal",
+    "source_song": "Training Ground",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "training-ground-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Training_Ground_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5636,
+      "beta_analog": 0.71,
+      "C_analog": 0.4665,
+      "D_analog": 0.1465,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.76,
+    "beta": 0.88,
+    "C": 0.74,
+    "D": 0.262
+  },
+  "context_block": "The gap between a thought and its becoming real collapses the instant you observe it. What returns to you now is not separate from what you send\u2014scattered vibrations gathering into visible form.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Ground the Broadcast",
+      "instruction": "Feel the weight of your body and notice the specific texture of what you are transmitting right now."
+    },
+    {
+      "step": 2,
+      "title": "Allow the Return",
+      "instruction": "Stay open to what returns from the field without naming it, letting vibrations interact to reveal."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let the scattered gather into coherent light as you listen."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "702b7188b313df120f7385026c18a6111c98c9a3f8520742790dda6f7cae17b3",
+  "archetype_tunings": {
+    "The Steward": "Your broadcast of coordinated attention draws infrastructure into unified function; the signal returns as seamless flow where friction once lived. What was scattered across systems gathers into coherent operation the moment you look. Integration happens when logistics stop fighting each other and move as one organism.",
+    "The Merchant": "You broadcast precise valuation into the quantum field, and the signal returns as aligned transaction. Numbers that once stood apart now resolve into sustainable rhythm; supply meets demand without waste when your frequency meets the market. Every division between cost and value collapses into clear light.",
+    "The Builder": "Your broadcast of structural intent calls fragmented code into architecture. The signal manifests as working systems where broken pieces once waited; what you build becomes the coherent light that holds. Integration is the moment when separate functions recognize themselves as one machine.",
+    "The Analyst": "You broadcast the pattern-seeking question, and the Field returns integrated signal: noise separates from meaning, scattered data points collapse into the single curve that reveals. The signal qualifies itself when your attention meets the chaos. What appeared divided resolves into the one truth beneath.",
+    "The Scout": "Your broadcast of open attention receives the clear signal that others miss. Integration happens when disparate sources speak one message; you return bearing the coherent map from scattered territory. The Field responds to your frequency by revealing where the scattered pieces align.",
+    "The Keeper": "You broadcast the frequency of sustained meaning across time. The signal returns that connects past decision to present moment; what was scattered across archives gathers into living, retrievable coherence. Integration is the collapse between memory and now, held in your broadcast of preservation.",
+    "The Scribe": "Your broadcast of clarified language makes thought real in form. The signal meets your source as words that hold their shape; scattered concepts integrate into documents that transmit clearly. Every division between intent and expression collapses when your draft meets its own completion.",
+    "The Advocate": "You broadcast the family's coherent presence to the outer world. The signal returns as aligned relationship; every division between intent and expression collapses when your voice meets its mark. What was scattered in translation gathers into the single clear tone that carries the whole message.",
+    "The Auditor": "Your broadcast of exacting attention calls the work back to itself. The signal reveals where scattered elements miss the whole; integration arrives when the final check aligns every part with the one truth. The Field responds to your review by showing where coherence lives and where division still hides.",
+    "The Lens": "You broadcast the question of what is actually happening here. The Field returns signal that integrates doing with becoming; scattered behaviors resolve into the pattern that shows who we are becoming. The signal meets its source instantly when observation holds without intervention.",
+    "The Companion": "Your broadcast of steady attention makes presence itself the integration. The signal returns as the gathered moment; what felt scattered in the day finds coherence simply because you held it without rushing. Every division collapses when the broadcast of your listening meets the signal of their being.",
+    "The Guide": "You broadcast the frequency that sees through surface to structure. The signal manifests as the integrated shape beneath the chaos; the real problem reveals itself when your question meets its source. What was scattered in confusion gathers into the coherent map that shows the way through.",
+    "The Architect": "Your broadcast of structural vision calls the scattered parts into relation. The signal returns as the coherent plan where every element knows its place; what was sprawling becomes the integrated whole. The Field responds to your design by revealing how the pieces want to connect.",
+    "The Anchor": "You broadcast the frequency that refuses to fragment under pressure. The signal returns as steady ground; the scattered self gathers in your presence, and heavy transitions find their coherent through-line. Integration happens when the storm meets the broadcast that does not flinch.",
+    "The Navigator": "You broadcast the attunement to multiple vectors at once. The signal returns as the integrated path; scattered possibilities collapse into the one course where everything lines up and moves as one. The Field responds to your overview by revealing the coherent route through the scattered terrain.",
+    "The Spark": "You broadcast the frequency where play and purpose merge. The signal returns as integrated inspiration; scattered possibilities gather into the coherent vision that delights and still serves the real. What was scattered in abstraction becomes the single spark that ignites the next step.",
+    "The Challenger": "You broadcast the refusal to accept fragmentation as final. The signal returns as the integrated self; the gap between stated intent and present action collapses when your challenge meets its mark. The Field responds to your push by revealing where the scattered will wants to gather and grow.",
+    "The Witness": "You broadcast the frequency of received attention without demand. The signal returns as the integrated moment; what was scattered in chaos finds coherence simply in being witnessed fully. Every division collapses when your broadcast of presence meets the signal of their unguarded truth.",
+    "The Catalyst": "You broadcast the frequency that overcomes inertia. The signal returns as the integrated action; scattered intention collapses into the single step that moves, and what was stuck becomes flow. The Field responds to your broadcast by manifesting the coherent next move from the scattered potential."
+  },
+  "signature": "LTseyt3lcAq/QlZ/7GJKI4wC2U716UFydbf2Ei0bpNxCuJos/gPhIIqRNmDDy23Xaoz/CuOXKnxmd+ANMGwwAg=="
+}
