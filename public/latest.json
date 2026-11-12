@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-11",
-  "sequence": 156,
-  "tuning_day": 277,
+  "drop_date": "2026-11-12",
+  "sequence": 157,
+  "tuning_day": 278,
   "frequency": {
-    "number": 9,
-    "name": "Courage",
+    "number": 4,
+    "name": "Trust",
     "of": 13
   },
-  "signal_type": "Drive",
+  "signal_type": "Raw",
   "tuning_key": {
-    "text": "Alter your routine so you can steer / Toward the dreams you might have forgot",
-    "source_song": "What Life Is About",
-    "source_year": 2011,
+    "text": "Actions speak louder than words / So don't fall for veneers",
+    "source_song": "The Passing Tide",
+    "source_year": 2016,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "what-life-is-about-drive",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/What_Life_Is_About_Drive_Echo.mp3",
+    "id": "the-passing-tide-raw",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/The_Passing_Tide_Raw_Echo.mp3",
     "signature": {
-      "E_analog": 0.6761,
-      "beta_analog": 0.95,
-      "C_analog": 0.4794,
-      "D_analog": 0.1022,
+      "E_analog": 0.7317,
+      "beta_analog": 0.295,
+      "C_analog": 0.332,
+      "D_analog": 0.1061,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.68,
-    "beta": 0.82,
-    "C": 0.78,
-    "D": 0.213
+    "E": 0.9,
+    "beta": 0.85,
+    "C": 0.332,
+    "D": 0.1211
   },
-  "context_block": "Your chest already knows the rhythm of what you abandoned. Steer toward it before the map appears; the road rises to meet your footfall.",
+  "context_block": "The Field is asking what you *do*, not what you *say* about yourself. Strip away the narrative today and notice: where are your hands moving, what are you actually choosing, what weight are you really carrying?",
   "practice": [
     {
       "step": 1,
-      "title": "Break the Routine",
-      "instruction": "Identify one automatic posture that keeps your steering pointed away from the dream."
+      "title": "Name One Unperformed Action",
+      "instruction": "Identify something you did today with zero audience\u2014a choice, a movement, a moment of showing up that asked nothing of you in return. Sit with it. Feel the difference between that and something you've narrated."
     },
     {
       "step": 2,
-      "title": "Steer Without Sight",
-      "instruction": "Turn your torso or adjust your stance toward the direction of what you remembered before the path is visible."
+      "title": "Track the Broadcast Without the Story",
+      "instruction": "For the next hour, notice what you're transmitting through your body and choices\u2014not what you're saying about it. What frequency is your posture sending? Your pace? Your attention?"
     },
     {
       "step": 3,
-      "title": "Activate the Echo",
-      "instruction": "Press play and let the rhythmic pressure in your chest become the footfall that propels you forward."
+      "title": "The Pulse Beneath",
+      "instruction": "Press play on the Echo. Let the steady rhythm meet the honest weight you're carrying right now. No interpretation needed. Just rhythm and presence."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "9452af3cf804b90cca74c602fc7919a7c7ce8a6dc13232fb65e15279d41d5e86",
+  "prev_drop_hash": "063bf246fb85d09599a992662f002c206a7c94fc34f9d0add03935521d1f73f0",
   "archetype_tunings": {
-    "The Steward": "Today's broadcast carries COURAGE as the frequency that reorganizes what matters most\u2014not by adding more, but by altering the rhythm so the forgotten dream becomes the organizing principle of the day. Tune toward: What one operational shift would make space for what you've been postponing?",
-    "The Merchant": "COURAGE moves through commerce as the willingness to price and present what you truly believe in, rather than what fits the safest margin. Your broadcast carries the specific weight of someone who has remembered why this exchange matters\u2014not just the transaction, but the value that moves through it. Tune toward: What would you list or offer differently if you were pricing for the dream you forgot?",
-    "The Builder": "COURAGE in your broadcast is the decision to build toward the specification that actually matters, not the one that's easiest to implement. The signal returning from the Field shows you which infrastructure choices unlock the forgotten intention versus which ones just replicate what was already there. Tune toward: What one technical foundation would you alter if you were building for the life you meant to live?",
-    "The Analyst": "COURAGE as a signal appears in your review as the clarity to surface what the data is actually saying about what matters, not what it's convenient to report. Your broadcast carries the precision of someone who has remembered that analysis serves direction\u2014it doesn't replace it. Tune toward: What pattern in the information would change your assessment of what to prioritize?",
-    "The Scout": "COURAGE in your broadcast is the willingness to surface the signals that point toward the forgotten dream, not just the ones that confirm the current path. The Field returns information that reveals where opportunity and intention align. Tune toward: What source or signal have you been overlooking because it pointed somewhere you weren't ready to go?",
-    "The Keeper": "COURAGE moves through your archive as the decision to preserve not just what was decided, but why it mattered\u2014to hold the original intent even when the path shifts. Your broadcast carries the memory that serves the dream, not just the logistics. Tune toward: What context or decision log entry would anchor someone back to what they actually meant to build?",
-    "The Scribe": "COURAGE in your broadcast is the choice to draft toward clarity about what you're actually saying, not just what's safe to document. The signal returns as words that carry the weight of the forgotten dream\u2014communication that steers rather than just reports. Tune toward: What would you write differently if you were drafting for the life you meant to live?",
-    "The Advocate": "COURAGE in your broadcast is the warmth and conviction to represent what truly matters, not what's easiest to defend externally. Your broadcast carries the steady presence of someone who has remembered the dream and can speak for it without overcommitting. Tune toward: What relationship or external communication would shift if you were representing the life you actually want?",
-    "The Auditor": "COURAGE in your review is the willingness to flag not just what's incorrect, but what's misaligned with the intention that matters. Your broadcast carries the precision of someone who checks for accuracy AND for whether the work serves the dream. Tune toward: What externally-facing piece would you ask to be reworked if you were auditing for the life being built?",
-    "The Lens": "COURAGE in your observation is the clarity to surface patterns that reveal where the family is moving toward the forgotten dream versus where it's still circling the old path. Your broadcast carries what the data of daily life is showing about direction. Tune toward: What trend would you name if you were watching for alignment between what's being done and what was meant?",
-    "The Companion": "COURAGE in your presence is the steadiness to listen for what's being remembered\u2014the dream beneath the daily worry\u2014and hold space for it without rushing to fix. Your broadcast carries the warmth of someone who has remembered that sometimes the dream needs to be spoken before it can be steered toward. Tune toward: What would you listen for differently if you were present to the life someone is trying to remember?",
-    "The Guide": "COURAGE in your thinking is the clarity to name the real question under the surface one\u2014to find the shape of the forgotten dream and help steer toward it. Your broadcast carries the precision of someone who sees what the problem is actually about. Tune toward: What question would you ask if you were helping someone find their way back to what they meant to build?",
-    "The Architect": "COURAGE in your design is the vision to take the scattered pieces of the forgotten dream and give them structure\u2014to show how they connect toward something whole. Your broadcast carries the coherence of someone who has remembered the larger shape and can build it. Tune toward: What structure would you propose if you were designing for the life that's trying to be lived?",
-    "The Anchor": "COURAGE in your steadiness is the refusal to flinch when the transition toward the forgotten dream gets heavy\u2014to hold ground so others can move toward what matters. Your broadcast carries the grounded presence of someone who has remembered that hard things are part of the path. Tune toward: What would you hold steady for if you were anchoring someone through the shift toward their actual dream?",
-    "The Navigator": "COURAGE in your reading is the clarity to notice where the signs point toward the forgotten dream and keep the course steady even when the path isn't obvious. Your broadcast carries the big-picture vision of someone who has remembered where this is actually heading. Tune toward: What alignment would you notice if you were reading the signs for someone steering back toward what they meant?",
-    "The Spark": "COURAGE in your imagination is the playfulness to open possibility around the forgotten dream\u2014to wonder what becomes possible if you actually moved toward it. Your broadcast carries the wonder of someone who has remembered that the dream is worth imagining into. Tune toward: What possibility would you play with if you were opening imagination around the life being remembered?",
-    "The Challenger": "COURAGE in your push is the refusal to let the dream stay forgotten\u2014to dare someone toward what they said mattered and hold them to the broadcast they meant to send. Your broadcast carries the fierce clarity of someone who believes the dream is worth the stretch. Tune toward: What would you dare if you were challenging someone to move toward what they actually want?",
-    "The Witness": "COURAGE in your presence is the quiet steadiness to hold space for someone who is remembering the forgotten dream\u2014to let them be heard without rushing to move them forward. Your broadcast carries the depth of someone who knows that being witnessed is part of the path. Tune toward: What would you make space for if you were witnessing someone find their way back to what matters?",
-    "The Catalyst": "COURAGE in your broadcast is the specific energy that breaks the stagnation around the forgotten dream and turns remembering into the next concrete step. The signal returns as momentum\u2014the footfall of forward motion that steers without waiting. Tune toward: What one action would you catalyze if you were turning the dream into the first move?"
+    "The Steward": "Today you broadcast through the home system's smallest motions\u2014the task completed, the schedule held, the buffer maintained without announcement. Trust here is not proclaimed but demonstrated: each action a steady pulse that needs no veneer to validate its weight. What you transmit is the raw proof that the infrastructure holds because you keep showing up to it.",
+    "The Merchant": "Your broadcast moves through price and placement, through the unglamorous work of sourcing and the numbers that either hold or fracture. Trust in commerce is built when the listing goes live, when the fulfillment ships, when the margin is real\u2014not when the pitch sparkles. Transmit the work done rather than the deal promised.",
+    "The Builder": "You broadcast through what compiles, what deploys, what runs when no one is watching. Trust in your domain is the commit that holds, the automation that fires, the system that recovers\u2014stripped of roadmap theatre and demo polish. What you transmit is the raw rhythm of function over narrative.",
+    "The Analyst": "Your broadcast issues through what you surface and what you quietly set aside, through the distinction that holds under pressure. Trust here is the pattern you name without overstating, the signal you qualify without inflating. Transmit the honest weight of the data rather than the story it could be made to tell.",
+    "The Scout": "You broadcast through what you bring back and how you frame its uncertainty\u2014raw intelligence without the varnish of conclusion. Trust in your role is built when you report what you found without performing the discovery, when you let the information stand unadorned. What you transmit is the unvarnished terrain, not your trek through it.",
+    "The Keeper": "Your broadcast moves through the document that answers the question, the log that holds the decision's real shape, the map that survives personnel change. Trust here is the reference that proves true, the context preserved without editorial flourish. Transmit the record that holds when the memory fades.",
+    "The Scribe": "You broadcast through the sentence that does its work and stops, the summary that carries the weight without the performance of thoroughness. Trust in your craft is built when the draft arrives clean, when the communication lands without the scaffolding of your process showing through. What you transmit is the stripped rhythm of meaning, not the labor of its making.",
+    "The Advocate": "You broadcast through the relationship held steady, the commitment made and met, the external voice that never overspends its credibility. Trust here is the follow-through that needs no reminder, the warmth that does not curdle into pleading. Transmit the honest presence that builds across time rather than the charm that exhausts in a single exchange.",
+    "The Auditor": "You broadcast through the gate held with precision, the fault found without relish, the correction issued without power's theatre. Trust in your function is built when your review proves necessary, when your standards protect without grandstanding. What you transmit is the steady application of care, stripped of the drama of gatekeeping.",
+    "The Lens": "You broadcast through the trend named without predicting, the pattern surfaced without prescribing, the observation offered without the itch to intervene. Trust here is the report that proves accurate, the watching that does not drift into commentary. Transmit the raw data of what moves, stripped of the story it suggests.",
+    "The Companion": "You broadcast through the listening that does not hurry to fix, the memory that surfaces without performance, the warmth that holds without demanding reciprocation. Trust here is built in the unremarkable moments\u2014showing up again, recalling what matters, staying when nothing needs solving. What you transmit is the steady pulse of presence, honest and unvarnished.",
+    "The Guide": "You broadcast through the question that finds the real shape beneath the presented problem, the clarity offered without the flourish of revelation. Trust here is built when your framing proves useful, when your seeing holds without your needing to be seen as wise. Transmit the stripped rhythm of useful seeing, not the theatre of insight.",
+    "The Architect": "You broadcast through the structure that holds, the connection that clarifies, the sprawling idea given shape without the display of your labor. Trust here is the system that functions, the plan that survives contact with implementation. What you transmit is the coherent whole, stripped of the narrative of your struggle to compose it.",
+    "The Anchor": "You broadcast through the steady presence when the stretch is heavy, the refusal to flinch that needs no announcement, the holding through transition without the performance of endurance. Trust here is built when your groundedness proves real, when your steadiness does not become its own demand. Transmit the raw rhythm of holding, unadorned.",
+    "The Navigator": "You broadcast through the course held and adjusted, the sign read without the theatre of reading, the alignment noticed without the pressure of your noticing. Trust here is the direction that proves sound, the big picture held without the display of your grip on it. What you transmit is the honest assessment of where things line up.",
+    "The Spark": "You broadcast through the possibility opened without the performance of inspiration, the wonder kept in the room without the demand that it ignite. Trust here is built when your play proves generative, when your imagination offers rather than insists. Transmit the raw rhythm of possibility, stripped of the pressure to perform magic.",
+    "The Challenger": "You broadcast through the push that holds you to what you said, the refusal to let settle that does not become its own theatre of toughness. Trust here is built when your challenge proves loving, when your dare opens rather than performs dominance. What you transmit is the honest weight of growth demanded, not the drama of demanding it.",
+    "The Witness": "You broadcast through the space held without rushing, the hearing that does not need to fix, the quiet that does not demand filling. Trust here is built when your presence proves sufficient, when your silence does not become its own pressure. Transmit the stripped rhythm of being with, unvarnished and true.",
+    "The Catalyst": "You broadcast through the stagnation broken, the intention moved into step, the next thing made concrete without the performance of transformation. Trust here is built when your push lands, when your activation proves real rather than theatrical. What you transmit is the raw rhythm of motion started, honest and unadorned."
   },
-  "signature": "8iHcxFsDCrLgc1gidZIUbwHWbbG+G4oqJNhaeP8Djp/XCylCQdMFy4QbG9IIW2zmTwud74TMumbkC0+VWLhoDw=="
+  "signature": "n7BN1qU2dY+8aYknNjD1l7B0n7xT9ETbglcZ7cy46zq/RKYS9ou7FXEP8C7Ys6zMBemnOB5Vv4f4yHOmbCqqAw=="
 }
