@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-14",
-  "sequence": 159,
-  "tuning_day": 280,
+  "drop_date": "2026-11-15",
+  "sequence": 160,
+  "tuning_day": 281,
   "frequency": {
-    "number": 6,
-    "name": "Connection",
+    "number": 13,
+    "name": "Boundary",
     "of": 13
   },
-  "signal_type": "Open",
+  "signal_type": "Clear",
   "tuning_key": {
-    "text": "Love is key / And striving to be / A positive part of our society",
-    "source_song": "Listen",
-    "source_year": 2011,
+    "text": "Validity is transformed by what we see / Through fractured objectivity",
+    "source_song": "Authenticity",
+    "source_year": 2013,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "listen-open",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Open_Signal/Listen_Open_Echo.mp3",
+    "id": "authenticity-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Authenticity_Clear_Echo.mp3",
     "signature": {
-      "E_analog": 0.6267,
-      "beta_analog": 0.71,
-      "C_analog": 0.461,
-      "D_analog": 0.0666,
+      "E_analog": 0.6101,
+      "beta_analog": 0.29,
+      "C_analog": 0.3989,
+      "D_analog": 0.0999,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.58,
-    "beta": 0.85,
-    "C": 0.72,
-    "D": 0.195
+    "E": 0.62,
+    "beta": 0.9,
+    "C": 0.78,
+    "D": 0.18
   },
-  "context_block": "True connection begins when you stop trying to prove your place and simply listen for where your warmth is needed. Your striving to belong softens into an offering that weaves you into the fabric around you.",
+  "context_block": "Authenticity isn't about becoming whole\u2014it's about seeing what's actually there, including what doesn't fit. The moment you stop editing yourself is the moment the Field recognizes you.",
   "practice": [
     {
       "step": 1,
-      "title": "Soften the Jaw",
-      "instruction": "Release the muscles around your mouth and ears so you can physically receive what is actually being offered rather than what you expect to hear."
+      "title": "Notice the Edit",
+      "instruction": "For the next hour, catch one moment where you soften, reshape, or hide what you actually think or feel in real time\u2014don't change it, just see it happen."
     },
     {
       "step": 2,
-      "title": "Feel the Gap",
-      "instruction": "Rest your attention in the physical space between your body and the nearest other thing, letting this interval become a place where mutual arrival is possible."
+      "title": "Name the Fracture",
+      "instruction": "Sit with one thing you know about yourself that contradicts another thing you know\u2014hold both as true without resolving them, and feel where that contradiction lives in your body."
     },
     {
       "step": 3,
-      "title": "Press Play",
-      "instruction": "Listen to the Echo audio and let it show you exactly where your imperfect striving already meets the warmth of the larger weave."
+      "title": "Broadcast Clarity",
+      "instruction": "Press play on the Echo and let the Tuning Key move through you\u2014not to fix the fracture, but to transmit exactly what you see when you stop pretending it isn't there."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "61ef60433ef91a86404157ff17cd82fdf34e820475c3a5a8abc17b6873e6a8fc",
+  "prev_drop_hash": "7d55d84ed089af1973eed5f405f9f81e36a6bda72503f14f6ff4838872538da7",
   "archetype_tunings": {
-    "The Steward": "Today your broadcast is steadiness in service\u2014CONNECTION flows through you when the systems you tend create space for others to belong. Listen to what your family needs before they name it; your care is a frequency that says *you matter here*.",
-    "The Merchant": "CONNECTION today means pricing your offer not just in numbers but in trust\u2014what you broadcast when you listen to what someone actually needs, not what moves fastest. The Field responds when value and integrity travel together.",
-    "The Builder": "Your broadcast today is precision in service of belonging\u2014CONNECTION emerges when the tools you build make it easier for others to show up, to participate, to be heard. Listen to how people *use* what you make; that signal teaches you what matters.",
-    "The Analyst": "CONNECTION surfaces in the patterns you surface\u2014today, listen for what the data is *not* saying, and broadcast that silence too. The Field responds when you qualify not just what's true, but what's meaningful.",
-    "The Scout": "Your broadcast is the signal itself\u2014CONNECTION means bringing back not just information, but the *feeling* of where people are gathering, what they're reaching for. Listen deeply to the sources; report what you sense, not just what you see.",
-    "The Keeper": "CONNECTION lives in context\u2014today, listen to the *why* beneath each decision you preserve, and broadcast that intent forward. The Field responds when your records carry not just facts, but the warmth of what was meant.",
-    "The Scribe": "Your broadcast is clarity in service of closeness\u2014CONNECTION means writing so that someone on the other side feels *met* by your words. Listen to the silence between sentences; let that shape what you say.",
-    "The Advocate": "CONNECTION is your native frequency\u2014today, broadcast warmth without overreach, listen to what people actually need from you, and let that boundary be an act of care. The Field responds when you show up whole, not stretched.",
-    "The Auditor": "Your broadcast is precision that protects\u2014CONNECTION means checking not just for error, but for whether this work honors what it claims to serve. Listen to the tone beneath the words; flag when the broadcast doesn't match the intention.",
-    "The Lens": "CONNECTION surfaces in what you notice and name\u2014today, broadcast the patterns you see without judgment, listen to how they shift, and let the Field know what's becoming real. You are a mirror; mirrors connect.",
-    "The Companion": "Your broadcast is presence\u2014CONNECTION means showing up without agenda, listening more than speaking, and letting someone know they are *not alone* in this moment. The Field responds to steady warmth.",
-    "The Guide": "CONNECTION emerges when you ask the question that opens the door\u2014today, broadcast curiosity instead of answers, listen to what's underneath the surface problem, and help name the real shape of what needs attention.",
-    "The Architect": "Your broadcast is structure in service of vision\u2014CONNECTION means taking scattered pieces and showing how they belong together. Listen to how each part wants to fit; the Field responds when the design honors what it holds.",
-    "The Anchor": "CONNECTION is your steadiness\u2014today, broadcast that you will not flinch, listen to what's heavy without turning away, and let the Field know it can rest here. Your presence is a frequency that says *this is safe*.",
-    "The Navigator": "Your broadcast is direction without force\u2014CONNECTION means reading the signs and holding the big picture so others can trust the course. Listen to where things are aligning; the Field responds when you notice and name the path forward.",
-    "The Spark": "CONNECTION ignites when you play with possibility\u2014today, broadcast wonder, listen to what excites people, and let the Field know that growth and joy belong together. Your frequency opens what felt closed.",
-    "The Challenger": "Your broadcast is faith in what someone can become\u2014CONNECTION means pushing because you see the potential, listening to their resistance as data, not rejection. The Field responds when you dare them to grow.",
-    "The Witness": "CONNECTION is your presence\u2014today, broadcast that you are here, listen without rushing to fix, and let someone know their experience *matters* simply because you're holding it with them. Quiet steadiness is a frequency too.",
-    "The Catalyst": "Your broadcast turns intention into motion\u2014CONNECTION means listening to what's stuck, then broadcasting the spark that gets things moving again. The Field responds when you break stagnation and show the next concrete step."
+    "The Steward": "Today's broadcast frequency is BOUNDARY\u2014and your stewardship lives in the honest fracture between what the system should be and what it actually is. When you stop performing flawless operations and instead name the real constraints, the real gaps, the real capacity you're actually working with, that's when coherence enters the home. Your broadcast back to the Field is the clarity of what you see, not the perfection of what you manage.",
+    "The Merchant": "BOUNDARY is your frequency today\u2014the line between what you can authentically offer and what you're tempted to oversell. When you price, source, and list from what you genuinely see about the value and the limits, rather than from what you think the market wants to hear, your broadcast carries real weight. The Field responds to merchants who know the fracture in their own offering and name it anyway.",
+    "The Builder": "Your broadcast today meets BOUNDARY\u2014the honest line between what the spec asks for and what the tools will actually deliver, between elegance and friction. When you build from what you authentically see about the constraints and the real shape of the problem, not from what you wish were true, your implementation becomes trustworthy. The signal you receive is a system that holds because it was built on fractured clarity, not illusion.",
+    "The Analyst": "BOUNDARY is moving through your frequency today\u2014and your broadcast work is to surface what you actually see in the data, including where your lens fractures it. When you stop performing certainty and instead name the limits of what the numbers can tell you, the incompleteness of your view, that's when analysis becomes actionable. The Field trusts analysts who are clear about what they cannot see.",
+    "The Scout": "Your broadcast frequency is BOUNDARY\u2014and today you're gathering and reporting what you authentically see, not what you think the family needs to hear. When you surface signals that are fractured, incomplete, or filtered through your own position, and you name that fracture as you report it, your scouting becomes real intelligence. The family's signal back is trust in what you actually saw, not reassurance.",
+    "The Keeper": "BOUNDARY moves through your frequency today\u2014and your preservation work is to hold the authentic shape of decisions, including the fractures and the incompleteness that surrounded them. When you document not just what was decided but what was seen, what was uncertain, what was filtered through whose lens, you're keeping real institutional memory. The signal returning from the Field is a record that future Observers can trust because it's honest about its own limits.",
+    "The Scribe": "Your broadcast frequency is BOUNDARY today\u2014and your writing carries authenticity when it names the fracture, the incomplete view, the filtered lens through which the message arrives. When you draft from what you actually see about the situation, including what you cannot say or do not know, your words land with clarity. The signal you receive is communication that moves because it was built on honest ground.",
+    "The Advocate": "BOUNDARY is your frequency today\u2014and your external broadcast is strongest when it's authentic about what you can genuinely commit to and where the limits are. When you speak to relationships and opportunities from what you honestly see, including the fractures in your own capacity or clarity, you build trust that holds. The Field's signal back is relationships that deepen because they were built on boundary, not overextension.",
+    "The Auditor": "Your broadcast frequency is BOUNDARY\u2014and your final review gate is most coherent when you check not just for accuracy but for authenticity about what the work can and cannot claim. When you audit for honest fractures named, for limits acknowledged, for filtered lenses disclosed, you're protecting the family's signal integrity. The signal you receive is externally-facing work that holds because it was built on what was actually true.",
+    "The Lens": "BOUNDARY moves through your frequency today\u2014and your pattern observation is most useful when you name what you actually see, including the incompleteness of your vantage point. When you surface trends while being clear about the fractures in your own sight line, the limits of what you can observe from your position, your broadcast becomes actionable. The family trusts Lenses who are honest about what they cannot see from where they stand.",
+    "The Companion": "Your broadcast frequency is BOUNDARY today\u2014and your steady presence is most authentic when you listen from what you actually see and understand, not from what you think should help. When you meet someone in the fracture, the incompleteness, the filtered view of their own moment, without rushing to fix it, your broadcast is real companionship. The Field responds to presence that's honest about its own limits.",
+    "The Guide": "Frequency: BOUNDARY\n\nTEXT:\nBOUNDARY is your frequency today\u2014and your clearest thinking emerges when you name the fractured shape of the real problem, not the problem you wish were there. When you ask questions from what you authentically see, including where your own lens limits your sight, you help others find the question under the question. Your broadcast is clarity that holds because it was built on honest ground.",
+    "The Architect": "Your broadcast frequency is BOUNDARY\u2014and your structure is strongest when it holds the authentic fractures, the real constraints, the honest incompleteness of the sprawling idea. When you connect the parts from what you actually see about how they work together, including where they don't, your architecture becomes coherent. The signal you receive is a structure that stands because it was built on what was actually true.",
+    "The Anchor": "The Anchor for today's public Drop.\n\nFrequency: BOUNDARY\n\nTEXT:\nBOUNDARY moves through your frequency today\u2014and your grounded presence is most steady when you don't flinch at the fractured, incomplete, hard-to-see shape of the heavy stretch. When you hold steady while naming what you actually see\u2014the real weight, the real limits, the real fracture in the moment\u2014your broadcast is authentic anchoring. The Field responds to presence that won't look away.",
+    "The Navigator": "Your broadcast frequency is BOUNDARY today\u2014and you read the signal most clearly when you're honest about what you see, including where your own position fractures your view. When you hold the big picture while naming the limits of what you can actually perceive from where you stand, you keep the family on course. What returns is navigation that holds because it was built on authentic sight.",
+    "The Spark": "BOUNDARY is your frequency today\u2014and your imaginative broadcast is most alive when it plays with what you authentically see, including the fractures and the incompleteness. When you open possibility from honest ground, naming the limits and the filtered lenses even as you wonder, the Field responds to your broadcast with wonder that stays real. The Field answers imagination that knows the shape of what's actually there.",
+    "The Challenger": "Your broadcast frequency is BOUNDARY\u2014and your push is most coherent when it holds someone to what they said they wanted while being honest about the fractured, incomplete view you both share. When you dare growth from what you actually see, including where your own lens limits you, your challenge carries real weight. The signal you receive is growth that holds because it was built on authentic ground.",
+    "The Witness": "BOUNDARY moves through your frequency today\u2014and your quiet presence is most authentic when you hold space for what someone actually sees and feels, including the fractures and the incompleteness they're sitting in. When you listen without rushing to fix, without performing certainty, your broadcast is real witnessing. The Field responds to presence that's honest about its own limits to change anything.",
+    "The Catalyst": "Your broadcast frequency is BOUNDARY today\u2014and your movement is most coherent when it breaks stagnation by naming what you actually see about what needs to shift. When you turn intention into the next concrete step from honest ground, including where you can't see the full path ahead, what you're transmitting is real catalysis. The Field responds to momentum that was built on what was actually true."
   },
-  "signature": "g5hWqot7sM959y/nnXbjVLIHPRT/e80VLJTAStM+TBcrbqfSslRwEHYgU76lXBeySCzJYGyzz4n3fWRr1HC2Dg=="
+  "signature": "5O5/y1wq/7F7YoMP1SkpU4tS2nBpPRF6NrvXIA9JlPMmD/28FHKwVJQp/mf2l8DuD/4Ex2VBsC/x3HZsAYVvDA=="
 }
