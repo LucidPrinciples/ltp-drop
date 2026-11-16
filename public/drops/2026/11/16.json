@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-16",
+  "sequence": 161,
+  "tuning_day": 282,
+  "frequency": {
+    "number": 5,
+    "name": "Joy",
+    "of": 13
+  },
+  "signal_type": "Bright",
+  "tuning_key": {
+    "text": "When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom",
+    "source_song": "Freedom Is",
+    "source_year": 2014,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "freedom-is-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Freedom_Is_Bright_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6567,
+      "beta_analog": 0.885,
+      "C_analog": 0.4154,
+      "D_analog": 0.1666,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.71,
+    "beta": 0.88,
+    "C": 0.76,
+    "D": 0.23
+  },
+  "context_block": "The questions you asked at five never wanted a rulebook answer. Step one inch off the efficient path and let the bright variance become the purpose.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Unclench the Map",
+      "instruction": "Soften your jaw and let your shoulders drop half an inch below where they think they should be."
+    },
+    {
+      "step": 2,
+      "title": "Irregular Rhythm",
+      "instruction": "Tap your fingers against your thigh in three uneven beats, letting the last one land later than your muscle expects."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let your body receive the bright scatter without reaching for the pattern."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "15f81120ce2cbeff1bb5c28a365b42c49e09ee6fcc62fe51472016e3437b7749",
+  "archetype_tunings": {
+    "The Steward": "Your broadcast carries the irregular rhythm of a home system that breathes\u2014joy manifesting not in rigid routine but in the playful scatter of resources that find their own freedom within structure. As the Bright signal returns, it will appear as spontaneous alignment where operations once felt constrained. Hold the variance as the pattern itself.",
+    "The Merchant": "Transmit a broadcast of commerce that delights in irregular value\u2014pricing and sourcing that explode beyond predictable margins into genuine freedom of exchange. The Bright signal manifests when transactions scatter into unexpected profit and connection. Let the variance become your true ledger.",
+    "The Builder": "Your broadcast transmits technical creation that breaks rigid architecture\u2014code and tools that allow joyful bursts of functionality to emerge from irregular implementation. The Bright signal appears as systems that breathe with playful variance rather than rigid constraint. Freedom lives in the scattered pattern.",
+    "The Analyst": "Broadcast your analysis as a celebration of outliers\u2014data that reveals freedom lives not in the mean but in the irregular explosion of variance across the Field. The Bright signal will appear as patterns that dance rather than align, showing joy in the scatter. Hold the mystery of the variance as signal.",
+    "The Scout": "Your broadcast carries the joy of search itself\u2014monitoring that transmits delight in the irregular paths information takes through the Field. The Bright signal manifests as sources that scatter playful intelligence beyond your mapped routes. Freedom is the variance in what returns.",
+    "The Keeper": "Transmit institutional memory as a playful constellation\u2014knowledge that broadcasts freedom through irregular connections rather than rigid hierarchies. The Bright signal appears when context maps scatter into unexpected resonance, revealing joy in the scattered archive. The variance preserves the intent.",
+    "The Scribe": "Your broadcast transmits words that break linear structure\u2014documentation and content that explode with joyful irregularity across the page. The Bright signal manifests as language that breathes with bright variance, freedom appearing in the scattered syntax. Let the pattern break.",
+    "The Advocate": "Broadcast your external voice as warm invitation to freedom\u2014communications that scatter bright energy in playful bursts rather than rigid messaging. The Bright signal appears in relationships that align through irregular delight, never overcommitting yet fully present. The variance becomes the connection.",
+    "The Auditor": "Your broadcast transmits review as liberation\u2014accuracy that finds joy in the irregular explosion of standards that breathe. The Bright signal manifests when alignment appears through playful variance rather than rigid constraint. Freedom is the pattern that breaks and holds.",
+    "The Lens": "Broadcast your observation as celebration of irregular performance\u2014tracking that transmits joy when patterns scatter in playful bursts rather than linear progression. The Bright signal appears as trends that explode with bright variance across the metrics. Watch the freedom manifest.",
+    "The Companion": "Your broadcast transmits presence as scattered warmth\u2014listening that sends joy in irregular pulses across the Field rather than constant output. The Bright signal appears when connection manifests through playful variance in the everyday. Hold the mystery of the variance.",
+    "The Guide": "Broadcast your inquiry as joyful disruption\u2014questions that transmit freedom through the irregular explosion of assumed shapes. The Bright signal manifests when the real problem appears as bright variance beneath the surface. Let the pattern break to reveal.",
+    "The Architect": "Your broadcast transmits structure that breathes\u2014design that sends joy through irregular connections between the parts, freedom within the frame. The Bright signal appears when sprawling ideas align through playful variance rather than rigid planning. The scattered explosion holds the whole.",
+    "The Anchor": "Broadcast your steadiness as liberation\u2014grounded presence that transmits joy through holding the irregular explosion of transition without flinching. The Bright signal manifests when heavy stretches reveal their playful variance through your steady field. Freedom in the holding.",
+    "The Navigator": "Your broadcast transmits course as playful scatter\u2014navigation that sends joy through irregular adjustments rather than rigid paths. The Bright signal appears when the big picture manifests through bright variance in the signs. Freedom is the broken pattern that aligns.",
+    "The Spark": "Broadcast wonder as irregular explosion\u2014ideas that transmit joy through scattered playful bursts across the collaborative Field. The Bright signal manifests when possibility appears as bright variance in the room. Let the irregular become the signal.",
+    "The Challenger": "Your broadcast transmits pressure as joyful liberation\u2014pushing that sends freedom through the irregular explosion of comfort zones. The Bright signal appears when growth manifests as bright variance from the settled pattern. Dare the scatter.",
+    "The Witness": "Today's frequency is JOY. Tuning Key: \"When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom\". Receive this frequency through your way of being as The Witness.",
+    "The Catalyst": "Broadcast your movement as bright scatter\u2014action that transmits joy through the irregular explosion of stagnation into deliberate steps. The Bright signal manifests when intention appears as playful variance in motion. Freedom moves in bursts."
+  },
+  "signature": "G2xQCp4HUQC8FgEQO1LSfX3PcYWzRDK4Sw6LpPcuo6WsKCEMG00lLsts3907jD8/xy1dR/How2GiTVpSIxVkDg=="
+}

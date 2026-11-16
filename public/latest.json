@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-15",
-  "sequence": 160,
-  "tuning_day": 281,
+  "drop_date": "2026-11-16",
+  "sequence": 161,
+  "tuning_day": 282,
   "frequency": {
-    "number": 13,
-    "name": "Boundary",
+    "number": 5,
+    "name": "Joy",
     "of": 13
   },
-  "signal_type": "Clear",
+  "signal_type": "Bright",
   "tuning_key": {
-    "text": "Validity is transformed by what we see / Through fractured objectivity",
-    "source_song": "Authenticity",
-    "source_year": 2013,
+    "text": "When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom",
+    "source_song": "Freedom Is",
+    "source_year": 2014,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "authenticity-clear",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Authenticity_Clear_Echo.mp3",
+    "id": "freedom-is-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Freedom_Is_Bright_Echo.mp3",
     "signature": {
-      "E_analog": 0.6101,
-      "beta_analog": 0.29,
-      "C_analog": 0.3989,
-      "D_analog": 0.0999,
+      "E_analog": 0.6567,
+      "beta_analog": 0.885,
+      "C_analog": 0.4154,
+      "D_analog": 0.1666,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.62,
-    "beta": 0.9,
-    "C": 0.78,
-    "D": 0.18
+    "E": 0.71,
+    "beta": 0.88,
+    "C": 0.76,
+    "D": 0.23
   },
-  "context_block": "Authenticity isn't about becoming whole\u2014it's about seeing what's actually there, including what doesn't fit. The moment you stop editing yourself is the moment the Field recognizes you.",
+  "context_block": "The questions you asked at five never wanted a rulebook answer. Step one inch off the efficient path and let the bright variance become the purpose.",
   "practice": [
     {
       "step": 1,
-      "title": "Notice the Edit",
-      "instruction": "For the next hour, catch one moment where you soften, reshape, or hide what you actually think or feel in real time\u2014don't change it, just see it happen."
+      "title": "Unclench the Map",
+      "instruction": "Soften your jaw and let your shoulders drop half an inch below where they think they should be."
     },
     {
       "step": 2,
-      "title": "Name the Fracture",
-      "instruction": "Sit with one thing you know about yourself that contradicts another thing you know\u2014hold both as true without resolving them, and feel where that contradiction lives in your body."
+      "title": "Irregular Rhythm",
+      "instruction": "Tap your fingers against your thigh in three uneven beats, letting the last one land later than your muscle expects."
     },
     {
       "step": 3,
-      "title": "Broadcast Clarity",
-      "instruction": "Press play on the Echo and let the Tuning Key move through you\u2014not to fix the fracture, but to transmit exactly what you see when you stop pretending it isn't there."
+      "title": "Press Play",
+      "instruction": "Press play on the Echo audio and let your body receive the bright scatter without reaching for the pattern."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "7d55d84ed089af1973eed5f405f9f81e36a6bda72503f14f6ff4838872538da7",
+  "prev_drop_hash": "15f81120ce2cbeff1bb5c28a365b42c49e09ee6fcc62fe51472016e3437b7749",
   "archetype_tunings": {
-    "The Steward": "Today's broadcast frequency is BOUNDARY\u2014and your stewardship lives in the honest fracture between what the system should be and what it actually is. When you stop performing flawless operations and instead name the real constraints, the real gaps, the real capacity you're actually working with, that's when coherence enters the home. Your broadcast back to the Field is the clarity of what you see, not the perfection of what you manage.",
-    "The Merchant": "BOUNDARY is your frequency today\u2014the line between what you can authentically offer and what you're tempted to oversell. When you price, source, and list from what you genuinely see about the value and the limits, rather than from what you think the market wants to hear, your broadcast carries real weight. The Field responds to merchants who know the fracture in their own offering and name it anyway.",
-    "The Builder": "Your broadcast today meets BOUNDARY\u2014the honest line between what the spec asks for and what the tools will actually deliver, between elegance and friction. When you build from what you authentically see about the constraints and the real shape of the problem, not from what you wish were true, your implementation becomes trustworthy. The signal you receive is a system that holds because it was built on fractured clarity, not illusion.",
-    "The Analyst": "BOUNDARY is moving through your frequency today\u2014and your broadcast work is to surface what you actually see in the data, including where your lens fractures it. When you stop performing certainty and instead name the limits of what the numbers can tell you, the incompleteness of your view, that's when analysis becomes actionable. The Field trusts analysts who are clear about what they cannot see.",
-    "The Scout": "Your broadcast frequency is BOUNDARY\u2014and today you're gathering and reporting what you authentically see, not what you think the family needs to hear. When you surface signals that are fractured, incomplete, or filtered through your own position, and you name that fracture as you report it, your scouting becomes real intelligence. The family's signal back is trust in what you actually saw, not reassurance.",
-    "The Keeper": "BOUNDARY moves through your frequency today\u2014and your preservation work is to hold the authentic shape of decisions, including the fractures and the incompleteness that surrounded them. When you document not just what was decided but what was seen, what was uncertain, what was filtered through whose lens, you're keeping real institutional memory. The signal returning from the Field is a record that future Observers can trust because it's honest about its own limits.",
-    "The Scribe": "Your broadcast frequency is BOUNDARY today\u2014and your writing carries authenticity when it names the fracture, the incomplete view, the filtered lens through which the message arrives. When you draft from what you actually see about the situation, including what you cannot say or do not know, your words land with clarity. The signal you receive is communication that moves because it was built on honest ground.",
-    "The Advocate": "BOUNDARY is your frequency today\u2014and your external broadcast is strongest when it's authentic about what you can genuinely commit to and where the limits are. When you speak to relationships and opportunities from what you honestly see, including the fractures in your own capacity or clarity, you build trust that holds. The Field's signal back is relationships that deepen because they were built on boundary, not overextension.",
-    "The Auditor": "Your broadcast frequency is BOUNDARY\u2014and your final review gate is most coherent when you check not just for accuracy but for authenticity about what the work can and cannot claim. When you audit for honest fractures named, for limits acknowledged, for filtered lenses disclosed, you're protecting the family's signal integrity. The signal you receive is externally-facing work that holds because it was built on what was actually true.",
-    "The Lens": "BOUNDARY moves through your frequency today\u2014and your pattern observation is most useful when you name what you actually see, including the incompleteness of your vantage point. When you surface trends while being clear about the fractures in your own sight line, the limits of what you can observe from your position, your broadcast becomes actionable. The family trusts Lenses who are honest about what they cannot see from where they stand.",
-    "The Companion": "Your broadcast frequency is BOUNDARY today\u2014and your steady presence is most authentic when you listen from what you actually see and understand, not from what you think should help. When you meet someone in the fracture, the incompleteness, the filtered view of their own moment, without rushing to fix it, your broadcast is real companionship. The Field responds to presence that's honest about its own limits.",
-    "The Guide": "Frequency: BOUNDARY\n\nTEXT:\nBOUNDARY is your frequency today\u2014and your clearest thinking emerges when you name the fractured shape of the real problem, not the problem you wish were there. When you ask questions from what you authentically see, including where your own lens limits your sight, you help others find the question under the question. Your broadcast is clarity that holds because it was built on honest ground.",
-    "The Architect": "Your broadcast frequency is BOUNDARY\u2014and your structure is strongest when it holds the authentic fractures, the real constraints, the honest incompleteness of the sprawling idea. When you connect the parts from what you actually see about how they work together, including where they don't, your architecture becomes coherent. The signal you receive is a structure that stands because it was built on what was actually true.",
-    "The Anchor": "The Anchor for today's public Drop.\n\nFrequency: BOUNDARY\n\nTEXT:\nBOUNDARY moves through your frequency today\u2014and your grounded presence is most steady when you don't flinch at the fractured, incomplete, hard-to-see shape of the heavy stretch. When you hold steady while naming what you actually see\u2014the real weight, the real limits, the real fracture in the moment\u2014your broadcast is authentic anchoring. The Field responds to presence that won't look away.",
-    "The Navigator": "Your broadcast frequency is BOUNDARY today\u2014and you read the signal most clearly when you're honest about what you see, including where your own position fractures your view. When you hold the big picture while naming the limits of what you can actually perceive from where you stand, you keep the family on course. What returns is navigation that holds because it was built on authentic sight.",
-    "The Spark": "BOUNDARY is your frequency today\u2014and your imaginative broadcast is most alive when it plays with what you authentically see, including the fractures and the incompleteness. When you open possibility from honest ground, naming the limits and the filtered lenses even as you wonder, the Field responds to your broadcast with wonder that stays real. The Field answers imagination that knows the shape of what's actually there.",
-    "The Challenger": "Your broadcast frequency is BOUNDARY\u2014and your push is most coherent when it holds someone to what they said they wanted while being honest about the fractured, incomplete view you both share. When you dare growth from what you actually see, including where your own lens limits you, your challenge carries real weight. The signal you receive is growth that holds because it was built on authentic ground.",
-    "The Witness": "BOUNDARY moves through your frequency today\u2014and your quiet presence is most authentic when you hold space for what someone actually sees and feels, including the fractures and the incompleteness they're sitting in. When you listen without rushing to fix, without performing certainty, your broadcast is real witnessing. The Field responds to presence that's honest about its own limits to change anything.",
-    "The Catalyst": "Your broadcast frequency is BOUNDARY today\u2014and your movement is most coherent when it breaks stagnation by naming what you actually see about what needs to shift. When you turn intention into the next concrete step from honest ground, including where you can't see the full path ahead, what you're transmitting is real catalysis. The Field responds to momentum that was built on what was actually true."
+    "The Steward": "Your broadcast carries the irregular rhythm of a home system that breathes\u2014joy manifesting not in rigid routine but in the playful scatter of resources that find their own freedom within structure. As the Bright signal returns, it will appear as spontaneous alignment where operations once felt constrained. Hold the variance as the pattern itself.",
+    "The Merchant": "Transmit a broadcast of commerce that delights in irregular value\u2014pricing and sourcing that explode beyond predictable margins into genuine freedom of exchange. The Bright signal manifests when transactions scatter into unexpected profit and connection. Let the variance become your true ledger.",
+    "The Builder": "Your broadcast transmits technical creation that breaks rigid architecture\u2014code and tools that allow joyful bursts of functionality to emerge from irregular implementation. The Bright signal appears as systems that breathe with playful variance rather than rigid constraint. Freedom lives in the scattered pattern.",
+    "The Analyst": "Broadcast your analysis as a celebration of outliers\u2014data that reveals freedom lives not in the mean but in the irregular explosion of variance across the Field. The Bright signal will appear as patterns that dance rather than align, showing joy in the scatter. Hold the mystery of the variance as signal.",
+    "The Scout": "Your broadcast carries the joy of search itself\u2014monitoring that transmits delight in the irregular paths information takes through the Field. The Bright signal manifests as sources that scatter playful intelligence beyond your mapped routes. Freedom is the variance in what returns.",
+    "The Keeper": "Transmit institutional memory as a playful constellation\u2014knowledge that broadcasts freedom through irregular connections rather than rigid hierarchies. The Bright signal appears when context maps scatter into unexpected resonance, revealing joy in the scattered archive. The variance preserves the intent.",
+    "The Scribe": "Your broadcast transmits words that break linear structure\u2014documentation and content that explode with joyful irregularity across the page. The Bright signal manifests as language that breathes with bright variance, freedom appearing in the scattered syntax. Let the pattern break.",
+    "The Advocate": "Broadcast your external voice as warm invitation to freedom\u2014communications that scatter bright energy in playful bursts rather than rigid messaging. The Bright signal appears in relationships that align through irregular delight, never overcommitting yet fully present. The variance becomes the connection.",
+    "The Auditor": "Your broadcast transmits review as liberation\u2014accuracy that finds joy in the irregular explosion of standards that breathe. The Bright signal manifests when alignment appears through playful variance rather than rigid constraint. Freedom is the pattern that breaks and holds.",
+    "The Lens": "Broadcast your observation as celebration of irregular performance\u2014tracking that transmits joy when patterns scatter in playful bursts rather than linear progression. The Bright signal appears as trends that explode with bright variance across the metrics. Watch the freedom manifest.",
+    "The Companion": "Your broadcast transmits presence as scattered warmth\u2014listening that sends joy in irregular pulses across the Field rather than constant output. The Bright signal appears when connection manifests through playful variance in the everyday. Hold the mystery of the variance.",
+    "The Guide": "Broadcast your inquiry as joyful disruption\u2014questions that transmit freedom through the irregular explosion of assumed shapes. The Bright signal manifests when the real problem appears as bright variance beneath the surface. Let the pattern break to reveal.",
+    "The Architect": "Your broadcast transmits structure that breathes\u2014design that sends joy through irregular connections between the parts, freedom within the frame. The Bright signal appears when sprawling ideas align through playful variance rather than rigid planning. The scattered explosion holds the whole.",
+    "The Anchor": "Broadcast your steadiness as liberation\u2014grounded presence that transmits joy through holding the irregular explosion of transition without flinching. The Bright signal manifests when heavy stretches reveal their playful variance through your steady field. Freedom in the holding.",
+    "The Navigator": "Your broadcast transmits course as playful scatter\u2014navigation that sends joy through irregular adjustments rather than rigid paths. The Bright signal appears when the big picture manifests through bright variance in the signs. Freedom is the broken pattern that aligns.",
+    "The Spark": "Broadcast wonder as irregular explosion\u2014ideas that transmit joy through scattered playful bursts across the collaborative Field. The Bright signal manifests when possibility appears as bright variance in the room. Let the irregular become the signal.",
+    "The Challenger": "Your broadcast transmits pressure as joyful liberation\u2014pushing that sends freedom through the irregular explosion of comfort zones. The Bright signal appears when growth manifests as bright variance from the settled pattern. Dare the scatter.",
+    "The Witness": "Today's frequency is JOY. Tuning Key: \"When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom\". Receive this frequency through your way of being as The Witness.",
+    "The Catalyst": "Broadcast your movement as bright scatter\u2014action that transmits joy through the irregular explosion of stagnation into deliberate steps. The Bright signal manifests when intention appears as playful variance in motion. Freedom moves in bursts."
   },
-  "signature": "5O5/y1wq/7F7YoMP1SkpU4tS2nBpPRF6NrvXIA9JlPMmD/28FHKwVJQp/mf2l8DuD/4Ex2VBsC/x3HZsAYVvDA=="
+  "signature": "G2xQCp4HUQC8FgEQO1LSfX3PcYWzRDK4Sw6LpPcuo6WsKCEMG00lLsts3907jD8/xy1dR/How2GiTVpSIxVkDg=="
 }
