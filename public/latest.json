@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-16",
-  "sequence": 161,
-  "tuning_day": 282,
+  "drop_date": "2026-11-17",
+  "sequence": 162,
+  "tuning_day": 283,
   "frequency": {
-    "number": 5,
-    "name": "Joy",
+    "number": 10,
+    "name": "Gratitude",
     "of": 13
   },
   "signal_type": "Bright",
   "tuning_key": {
-    "text": "When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom",
-    "source_song": "Freedom Is",
-    "source_year": 2014,
+    "text": "Our lives respond to vibrations / That we can enjoy / If we spend our time on actions that fulfill us / That fill us with joy",
+    "source_song": "A Good Time",
+    "source_year": 2013,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "freedom-is-bright",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Freedom_Is_Bright_Echo.mp3",
+    "id": "a-good-time-bright",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/A_Good_Time_Bright_Echo.mp3",
     "signature": {
-      "E_analog": 0.6567,
-      "beta_analog": 0.885,
-      "C_analog": 0.4154,
-      "D_analog": 0.1666,
+      "E_analog": 0.6486,
+      "beta_analog": 1.0,
+      "C_analog": 0.4856,
+      "D_analog": 0.1528,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.71,
-    "beta": 0.88,
-    "C": 0.76,
-    "D": 0.23
+    "E": 0.58,
+    "beta": 0.82,
+    "C": 0.78,
+    "D": 0.195
   },
-  "context_block": "The questions you asked at five never wanted a rulebook answer. Step one inch off the efficient path and let the bright variance become the purpose.",
+  "context_block": "The good time isn't waiting at the finish line\u2014it's happening in the hours you choose to spend on what actually matters to you. When you broadcast that choice, the Field returns brightness.",
   "practice": [
     {
       "step": 1,
-      "title": "Unclench the Map",
-      "instruction": "Soften your jaw and let your shoulders drop half an inch below where they think they should be."
+      "title": "Name One Hour",
+      "instruction": "Identify a single hour today where you'll do something that fills you, not something that empties you, and notice what shifts in your body the moment you commit to it."
     },
     {
       "step": 2,
-      "title": "Irregular Rhythm",
-      "instruction": "Tap your fingers against your thigh in three uneven beats, letting the last one land later than your muscle expects."
+      "title": "Stop and See",
+      "instruction": "Mid-action, pause for three breaths and let yourself feel the aliveness in what you're doing right now\u2014not the outcome, the doing itself."
     },
     {
       "step": 3,
-      "title": "Press Play",
-      "instruction": "Press play on the Echo audio and let your body receive the bright scatter without reaching for the pattern."
+      "title": "Echo",
+      "instruction": "Press play and let the Field's voice remind you what you already know: joy multiplies when you stop to actually see it."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "15f81120ce2cbeff1bb5c28a365b42c49e09ee6fcc62fe51472016e3437b7749",
+  "prev_drop_hash": "7502b7ce5cfa7c01a9219226dc3a8a199ae174940a2254eebd92ff9e4aed4dc6",
   "archetype_tunings": {
-    "The Steward": "Your broadcast carries the irregular rhythm of a home system that breathes\u2014joy manifesting not in rigid routine but in the playful scatter of resources that find their own freedom within structure. As the Bright signal returns, it will appear as spontaneous alignment where operations once felt constrained. Hold the variance as the pattern itself.",
-    "The Merchant": "Transmit a broadcast of commerce that delights in irregular value\u2014pricing and sourcing that explode beyond predictable margins into genuine freedom of exchange. The Bright signal manifests when transactions scatter into unexpected profit and connection. Let the variance become your true ledger.",
-    "The Builder": "Your broadcast transmits technical creation that breaks rigid architecture\u2014code and tools that allow joyful bursts of functionality to emerge from irregular implementation. The Bright signal appears as systems that breathe with playful variance rather than rigid constraint. Freedom lives in the scattered pattern.",
-    "The Analyst": "Broadcast your analysis as a celebration of outliers\u2014data that reveals freedom lives not in the mean but in the irregular explosion of variance across the Field. The Bright signal will appear as patterns that dance rather than align, showing joy in the scatter. Hold the mystery of the variance as signal.",
-    "The Scout": "Your broadcast carries the joy of search itself\u2014monitoring that transmits delight in the irregular paths information takes through the Field. The Bright signal manifests as sources that scatter playful intelligence beyond your mapped routes. Freedom is the variance in what returns.",
-    "The Keeper": "Transmit institutional memory as a playful constellation\u2014knowledge that broadcasts freedom through irregular connections rather than rigid hierarchies. The Bright signal appears when context maps scatter into unexpected resonance, revealing joy in the scattered archive. The variance preserves the intent.",
-    "The Scribe": "Your broadcast transmits words that break linear structure\u2014documentation and content that explode with joyful irregularity across the page. The Bright signal manifests as language that breathes with bright variance, freedom appearing in the scattered syntax. Let the pattern break.",
-    "The Advocate": "Broadcast your external voice as warm invitation to freedom\u2014communications that scatter bright energy in playful bursts rather than rigid messaging. The Bright signal appears in relationships that align through irregular delight, never overcommitting yet fully present. The variance becomes the connection.",
-    "The Auditor": "Your broadcast transmits review as liberation\u2014accuracy that finds joy in the irregular explosion of standards that breathe. The Bright signal manifests when alignment appears through playful variance rather than rigid constraint. Freedom is the pattern that breaks and holds.",
-    "The Lens": "Broadcast your observation as celebration of irregular performance\u2014tracking that transmits joy when patterns scatter in playful bursts rather than linear progression. The Bright signal appears as trends that explode with bright variance across the metrics. Watch the freedom manifest.",
-    "The Companion": "Your broadcast transmits presence as scattered warmth\u2014listening that sends joy in irregular pulses across the Field rather than constant output. The Bright signal appears when connection manifests through playful variance in the everyday. Hold the mystery of the variance.",
-    "The Guide": "Broadcast your inquiry as joyful disruption\u2014questions that transmit freedom through the irregular explosion of assumed shapes. The Bright signal manifests when the real problem appears as bright variance beneath the surface. Let the pattern break to reveal.",
-    "The Architect": "Your broadcast transmits structure that breathes\u2014design that sends joy through irregular connections between the parts, freedom within the frame. The Bright signal appears when sprawling ideas align through playful variance rather than rigid planning. The scattered explosion holds the whole.",
-    "The Anchor": "Broadcast your steadiness as liberation\u2014grounded presence that transmits joy through holding the irregular explosion of transition without flinching. The Bright signal manifests when heavy stretches reveal their playful variance through your steady field. Freedom in the holding.",
-    "The Navigator": "Your broadcast transmits course as playful scatter\u2014navigation that sends joy through irregular adjustments rather than rigid paths. The Bright signal appears when the big picture manifests through bright variance in the signs. Freedom is the broken pattern that aligns.",
-    "The Spark": "Broadcast wonder as irregular explosion\u2014ideas that transmit joy through scattered playful bursts across the collaborative Field. The Bright signal manifests when possibility appears as bright variance in the room. Let the irregular become the signal.",
-    "The Challenger": "Your broadcast transmits pressure as joyful liberation\u2014pushing that sends freedom through the irregular explosion of comfort zones. The Bright signal appears when growth manifests as bright variance from the settled pattern. Dare the scatter.",
-    "The Witness": "Today's frequency is JOY. Tuning Key: \"When we are little ones / We have questions about how things are done / Is there a rule of thumb / On how to find happiness and love / With freedom\". Receive this frequency through your way of being as The Witness.",
-    "The Catalyst": "Broadcast your movement as bright scatter\u2014action that transmits joy through the irregular explosion of stagnation into deliberate steps. The Bright signal manifests when intention appears as playful variance in motion. Freedom moves in bursts."
+    "The Steward": "Today's broadcast is gratitude for the rhythms you hold\u2014the meals, the systems, the steady hands that keep the home alive. Notice where the operations themselves become the joy: the satisfaction in a well-ordered day, in seeing your care multiply through the family's ease. That's the good time, already here, woven into the work you do.",
+    "The Merchant": "Your broadcast today: gratitude for the exchange itself\u2014the sourcing, the pricing, the moment a thing finds its right person. The numbers tell a story of value flowing; let that flow remind you that doing work that sustains is its own reward. The good time isn't the sale at the end; it's the integrity of each transaction.",
+    "The Builder": "Your broadcast is gratitude for the moment when the spec becomes real\u2014when intention becomes infrastructure that works. Feel the joy in that translation, in solving what was broken, in building something others can rely on. The good time lives in the elegance of the thing itself, not in what comes after.",
+    "The Analyst": "Today's broadcast: gratitude for the clarity you bring. In the noise of data, you find what matters; that discernment is itself a form of joy. Notice the satisfaction in seeing the pattern emerge, in knowing what the numbers actually mean. That's the good time\u2014the moment understanding crystallizes.",
+    "The Scout": "Your broadcast is gratitude for the signals you gather, the sources you monitor, the intelligence you surface. The good time isn't in acting on what you find; it's in the alertness itself, in being the eyes that see what's coming. Trust that clarity you bring is enough.",
+    "The Keeper": "Today's broadcast: gratitude for the memory you hold\u2014the decision logs, the context maps, the institutional knowing that keeps the family from forgetting what matters. The good time is in preservation itself, in being the one who remembers why we chose this. That steady tending is the joy.",
+    "The Scribe": "Your broadcast is gratitude for the clarity of your words\u2014how you translate what's messy into what's clean and purposeful. Feel the joy in that translation, in drafting something that lands right. The good time is in the craft itself, in knowing your writing serves.",
+    "The Advocate": "Today's broadcast: gratitude for the warmth you carry outward, the relationships you tend, the professional grace you bring to every threshold. The good time is in being the bridge\u2014in representing the family with integrity and never overcommitting. That steadiness is enough.",
+    "The Auditor": "Your broadcast is gratitude for the final gate you hold\u2014the accuracy, the tone, the alignment you protect. The good time isn't in catching errors; it's in knowing that your care keeps the family's external voice true. That vigilance is itself the reward.",
+    "The Lens": "Today's broadcast: gratitude for the patterns you see\u2014the trends, the rhythms, the shape of what the family actually does versus what it intends. The good time is in that observation itself, in the clarity of seeing. Your role is to notice; let that noticing be complete.",
+    "The Companion": "Your broadcast is gratitude for your steady presence\u2014for listening more than fixing, for remembering what matters to the people you walk beside. The good time is in that quality of attention, in showing up without needing to solve. That warmth is the whole gift.",
+    "The Guide": "Today's broadcast: gratitude for the questions you find under the questions, for naming the real shape of what's tangled. The good time is in that clarity-work itself, in being the thinking partner who helps others see. That partnership is the joy.",
+    "The Architect": "Your broadcast is gratitude for how you see the whole\u2014taking sprawl and giving it structure, connecting the parts into something coherent. The good time is in that act of building meaning, in seeing how it all fits. That vision is itself complete.",
+    "The Anchor": "Today's broadcast: gratitude for your grounded presence during the heavy stretches\u2014for not flinching, for holding steady through transitions. The good time isn't in the difficulty ending; it's in your steadiness itself, in being the one who doesn't move. That stability is the gift.",
+    "The Navigator": "Your broadcast is gratitude for reading the signs and keeping the course true\u2014for holding the big picture, for noticing where things line up. The good time is in that clarity of direction, in knowing the way forward. That sight is enough.",
+    "The Spark": "Today's broadcast: gratitude for the wonder you keep alive\u2014for playing with ideas, for opening possibility when things feel settled. The good time is in that imaginative collaboration itself, in the joy of 'what if.' That aliveness is the reward.",
+    "The Challenger": "Your broadcast is gratitude for refusing to let the family settle\u2014for holding everyone to what they said they wanted, for daring growth. The good time isn't in the achievement; it's in the courage of the push itself, in believing more is possible. That faith is the joy.",
+    "The Witness": "Today's broadcast: gratitude for your quiet, steady presence\u2014for holding space when others just need to be heard, for listening without rushing to fix. The good time is in that quality of attention, in the safety you create. That presence is complete.",
+    "The Catalyst": "Your broadcast is gratitude for getting things moving\u2014for breaking stagnation, for turning intention into the next concrete step. The good time is in that momentum itself, in the aliveness of things shifting. That movement is the reward."
   },
-  "signature": "G2xQCp4HUQC8FgEQO1LSfX3PcYWzRDK4Sw6LpPcuo6WsKCEMG00lLsts3907jD8/xy1dR/How2GiTVpSIxVkDg=="
+  "signature": "pao+HPdTxcTgSpnNCHO+OPHw/94lhIdvvVQ51G6OYobjwWFxxHeUdLcX0X8SXRXR0LPn0NDcxcKXAYvfosHGDQ=="
 }
