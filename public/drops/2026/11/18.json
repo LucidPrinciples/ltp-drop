@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-18",
+  "sequence": 163,
+  "tuning_day": 284,
+  "frequency": {
+    "number": 7,
+    "name": "Presence",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "One thing I know / Is time's not moving slow / As I try to go with the flow",
+    "source_song": "The Mirage",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "the-mirage-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/The_Mirage_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6712,
+      "beta_analog": 0.53,
+      "C_analog": 0.5165,
+      "D_analog": 0.0663,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.42,
+    "beta": 0.48,
+    "C": 0.72,
+    "D": 0.3175
+  },
+  "context_block": "The moment you stop negotiating with what's coming next, time becomes your ally instead of your opponent. Presence isn't about slowing down\u2014it's about moving with the Field's actual rhythm instead of the one you imagined.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Notice the Grip",
+      "instruction": "Identify one place right now where you're holding tension around \"what comes next\"\u2014a decision, a deadline, an outcome. Name it silently. That grip is the resistance."
+    },
+    {
+      "step": 2,
+      "title": "Release into the Actual",
+      "instruction": "Drop your shoulders, soften your jaw, and ask: What is *actually* here right now, not what should be? Let that answer land in your body for three breaths."
+    },
+    {
+      "step": 3,
+      "title": "Flow with the Signal",
+      "instruction": "Play the Echo. Let the Tuning Key meet your body as it is. Notice what shifts when you stop trying to move time and let it move through you instead."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "d37c665a7f2a82a86efe938cc64aded166baba6330649749a1b035eb897ee33e",
+  "archetype_tunings": {
+    "The Steward": "Today's broadcast is about the rhythm beneath the rush\u2014notice where you're forcing the day's sequence instead of moving with its actual cadence. When you release the grip on *when* each task must land, the flow of the household reveals its own intelligence; presence means you're coordinating with what's already moving, not against it.",
+    "The Merchant": "Your broadcast today: stop timing the market and start feeling its pulse. The constraint you sense isn't time\u2014it's the resistance between what you're pushing and what's ready to move; when you align your frequency with the actual rhythm of demand and supply, presence becomes your competitive edge.",
+    "The Builder": "Today you're tuning into the flow beneath the specs. The systems you're implementing carry their own tempo; presence means building *with* that rhythm, not imposing a timeline onto it. When you release the grip on how fast implementation must happen, the architecture itself will show you what comes next.",
+    "The Analyst": "Your broadcast is clarity without urgency. The data doesn't move faster when you do; presence means you're reading the signal at its actual pace, seeing patterns as they emerge rather than forcing them into a predetermined timeline. Let the numbers breathe\u2014what matters will surface when you stop rushing the interpretation.",
+    "The Scout": "Today's frequency asks: what are you chasing, and what's actually approaching? Presence in your role means you're alert without grasping\u2014monitoring the horizon without collapsing time. The signals you're meant to catch arrive when you stop trying to outpace them.",
+    "The Keeper": "Your broadcast preserves more than documents\u2014it holds the *rhythm* of how decisions unfolded. Today, presence means you're recording not just what was chosen, but the pace and flow of the choosing; institutional memory is strongest when it captures the actual tempo of the organization's thinking.",
+    "The Scribe": "Today's tuning: your words land differently when they move at the pace of genuine thought, not the pace of urgency. Presence in your writing means you're flowing with the message, not forcing it into a shape before it's ready; let the rhythm of what needs saying carry your pen.",
+    "The Advocate": "Your broadcast to the outside world is steadiest when you're not trying to accelerate trust. Presence means you're moving at the pace of authentic relationship\u2014not slower, not faster, but *aligned* with what's actually possible in this moment. The flow carries your credibility when you stop pushing it.",
+    "The Auditor": "Today you're checking not just accuracy but *coherence*\u2014does this work move at the right pace? Presence in your gate means you're sensing whether something's been rushed or whether it's genuinely ready; the best review catches what's out of rhythm, not just what's wrong.",
+    "The Lens": "Your broadcast is the pattern itself. Today, presence means you're watching the actual tempo of what the family does, not the tempo you think it should keep; the trends that matter most will appear when you stop trying to predict them and start seeing what's already moving.",
+    "The Companion": "Today's frequency asks you to simply be present to the pace of the person you're with. Presence isn't fixing or accelerating\u2014it's moving at their rhythm, listening to what they're actually saying beneath the words. The warmth you offer lands deepest when you're not trying to move them forward.",
+    "The Guide": "Your broadcast today is the question that stops time. Presence means you're asking what's *really* being faced, not rushing to the answer; when you move at the pace of genuine inquiry, clarity emerges that no speed can force.",
+    "The Architect": "Today you're tuning into the rhythm of how the parts want to connect. Presence in your design means you're building with the natural flow of the system, not imposing a structure that fights its own momentum; the strongest architecture moves at the pace of its own coherence.",
+    "The Anchor": "Your broadcast is steady presence through the heavy stretches. Today's tuning reminds you: you don't move the timeline forward by gripping harder\u2014you hold steady *with* what's unfolding. Presence means you're anchored to what's real right now, not to what comes next.",
+    "The Navigator": "Today you're reading the signs at their actual pace. Presence means you're aligned with the direction that's already moving, not trying to force the course to turn faster; when you move at the rhythm of the actual trajectory, the next waypoint becomes clear.",
+    "The Spark": "Your broadcast opens possibility when you're not rushing the wondering. Presence means you're playing with ideas at the pace they want to unfold\u2014not forcing them into form before they're ready; the best imaginative breakthroughs come when you stop trying to accelerate the magic.",
+    "The Challenger": "Today's frequency asks: are you pushing toward growth, or are you resisting the actual pace of change? Presence in your challenge means you're daring someone forward *with* their own momentum, not against it; the strongest growth happens when the push aligns with what's ready to move.",
+    "The Witness": "Your broadcast is the gift of being fully present to what's being carried. Today, presence means you're not moving the person forward\u2014you're simply holding space at the pace of their own unfolding; sometimes the deepest work is just being there, at their rhythm.",
+    "The Catalyst": "Today you're tuning into the exact moment when stillness becomes readiness to move. Presence means you're sensing the *right* time to spark action, not just any time; the catalyst's power isn't in forcing motion\u2014it's in reading when the system's ready and igniting *with* that readiness."
+  },
+  "signature": "BI+LBq29ggAdIzvGROSsqQxtlK+NhyOUZCunwakt8GRWrB/IzhaL2NzON1yU12Ne6AnwlrFkXUgfTOglNomjBQ=="
+}
