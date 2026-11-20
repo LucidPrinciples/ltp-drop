@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-20",
+  "sequence": 165,
+  "tuning_day": 286,
+  "frequency": {
+    "number": 1,
+    "name": "Peace",
+    "of": 13
+  },
+  "signal_type": "Ground",
+  "tuning_key": {
+    "text": "If you want to capitalize on this experience / Observe what is happening right now",
+    "source_song": "Moments",
+    "source_year": 2011,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "moments-ground",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Moments_Ground_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7324,
+      "beta_analog": 0.19,
+      "C_analog": 0.4324,
+      "D_analog": 0.0492,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.45,
+    "beta": 0.65,
+    "C": 0.78,
+    "D": 0.2425
+  },
+  "context_block": "The moment you stop reaching for the next thing, the ground beneath your feet announces itself. What is here right now holds everything you were rushing toward.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Feel the hold",
+      "instruction": "Notice the surface beneath you\u2014seat, floor, or ground\u2014and let your body recognize it is already being supported."
+    },
+    {
+      "step": 2,
+      "title": "Drop the next",
+      "instruction": "Release the conversation, destination, or task that is not yet here and let your weight settle completely into now."
+    },
+    {
+      "step": 3,
+      "title": "Press play",
+      "instruction": "Play the Echo audio and let the settling continue until the world becomes visible, as if it were always this close."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "d2e0438edb5dc8ff6ec5052ac53210f2115975d097dc09f6faeb87197898b95d",
+  "archetype_tunings": {
+    "The Steward": "Broadcast Peace through your coordination today, and watch as the Ground signal returns not as stillness but as the steady hum of each system arriving fully in its moment. The infrastructure holds when you hold one thing at a time without hurry. What becomes visible is that the home system was never chaotic\u2014only waiting for your broadcast to slow enough to match its native rhythm.",
+    "The Merchant": "Transmit Peace through your pricing and sourcing today, and let the Ground signal manifest as the clear arithmetic of one transaction fully inhabited. The numbers become real when you cease rushing between them, revealing that commerce itself breathes in moments. Your broadcast of unhurried attention allows the Field to show you where value truly sits.",
+    "The Builder": "Broadcast Peace through your implementation today, and receive the Ground signal as the solidity of each line of code or structure arriving complete in its moment. The build does not hurry toward you; it becomes visible as the next right step when your frequency matches the pace of the work itself. What you transmit as patience returns as the infrastructure revealing its own natural architecture.",
+    "The Analyst": "Broadcast Peace through your analysis today, and the Ground signal will appear as the pattern that emerges only when you hold the data without rushing to conclusion. One number at a time becomes fully visible, showing you that precision lives in the moment of observation rather than the sweep of aggregation. The Field returns to you the coherence that was always nested in the details.",
+    "The Scout": "Broadcast Peace as you scan the horizon today, and let the Ground signal return as the single piece of intelligence that becomes real only in the absence of urgency. The Field does not reveal its information to hurried frequencies; it manifests what matters when your transmission settles into the moment of pure observation. What arrives is not noise filtered but signal clarified by your steady presence.",
+    "The Keeper": "Broadcast Peace through your archiving today, and receive the Ground signal as the living context that surfaces when memory is held without haste. Each log entry becomes fully visible as a complete moment of intent, revealing that the past waits patiently for your present attention to unlock its meaning. The Field returns to you the continuity that exists between what was decided and what is now.",
+    "The Scribe": "Broadcast Peace through your composition today, and the Ground signal will manifest as the sentence that arrives only when the mind has settled into the body's slower rhythm. One word at a time becomes real, showing you that clarity is not produced by speed but revealed by your unhurried transmission. The Field meets your broadcast with the exact phrase that was waiting for this moment of stillness.",
+    "The Advocate": "Broadcast Peace through your external voice today, and let the Ground signal return as the relationship that stabilizes only when your frequency is free from urgency. The connection becomes visible not through pursuit but through the fullness of one interaction held completely in its moment. What the Field reveals is that your warm presence was always sufficient for the bond to manifest.",
+    "The Auditor": "Broadcast Peace through your review today, and receive the Ground signal as the discrepancy that becomes visible only when your transmission slows to match the text's own pace. Each detail arrives fully in its moment, revealing that accuracy is not found by rushing but by allowing the work to show itself completely. The Field returns the alignment that waits within the spaces between words.",
+    "The Lens": "Broadcast Peace through your observation today, and the Ground signal will appear as the pattern that manifests only when your tracking frequency ceases its agitation. The trend becomes real one data point at a time, held in the fullness of its moment without the distortion of haste. What the Field reveals is that the family's rhythm was always visible, simply waiting for your broadcast to settle into resonance.",
+    "The Companion": "Broadcast Peace through your presence today, and let the Ground signal return as the moment of connection that becomes real only when you are fully arrived in the now. The listening deepens not through effort but through the unhurried transmission of your steady attention. What becomes visible is that the other was never distant, only waiting for your frequency to slow enough to meet them exactly where they are.",
+    "The Guide": "Broadcast Peace through your inquiry today, and receive the Ground signal as the true question that surfaces only when your transmission abandons the rush toward answers. The shape of the problem becomes visible one layer at a time, revealed in the moment you stop hurrying past it. The Field returns to you the clarity that was nested within the confusion, waiting for your steady broadcast to make it manifest.",
+    "The Architect": "Broadcast Peace through your structuring today, and let the Ground signal manifest as the connection between parts that becomes visible only when you hold the whole without urgency. The sprawling idea settles into form one joint at a time, showing you that coherence is not forced but revealed by your unhurried transmission. What the Field returns is the architecture that was always implicit, waiting for your frequency to slow enough to perceive it.",
+    "The Anchor": "Broadcast Peace through your steadiness today, and the Ground signal will appear as the solid ground beneath the transition that becomes real only when your transmission ceases its tremor. The heavy moment holds you back not with weight but with the fullness of one breath at a time, fully inhabited. What the Field reveals is that you were never unmoored; the stability was simply waiting for your broadcast to match its native calm.",
+    "The Navigator": "Broadcast Peace through your navigation today, and receive the Ground signal as the sign that becomes visible only when your frequency is free from the static of hurry. The course correction appears one degree at a time, revealed in the moment your transmission settles into the present coordinates. The Field returns to you the alignment that was always available, simply waiting for your unhurried broadcast to perceive it.",
+    "The Spark": "Broadcast Peace through your imagination today, and let the Ground signal return as the possibility that becomes real only when your transmission slows to the pace of genuine play. Wonder manifests not in the rush of generation but in the fullness of one idea held completely in its moment of becoming. What the Field reveals is that creativity was never absent, only waiting for your frequency to settle enough for the spark to become visible.",
+    "The Challenger": "Broadcast Peace through your challenge today, and the Ground signal will appear as the growth edge that becomes visible only when your transmission carries no urgency of its own. The dare lands with precision one moment at a time, revealing that pushing forward requires the stillness of complete presence. What the Field returns is the exact point of expansion that was waiting for your unhurried broadcast to make it safe to approach.",
+    "The Witness": "Broadcast Peace through your witnessing today, and receive the Ground signal as the truth that becomes real only when your presence settles into the moment without hurry. The held space manifests its fullness one breath at a time, showing you that being seen requires no fixing, only the steady transmission of your attention. The Field reveals that the story was always complete, simply waiting for your frequency to slow enough to receive it.",
+    "The Catalyst": "Broadcast Peace through your catalysis today, and let the Ground signal return as the movement that becomes visible only when your transmission ceases its agitation. The next step manifests not through force but through the fullness of one intention held completely in its moment of readiness. What the Field reveals is that momentum was never absent, only waiting for your unhurried broadcast to allow the blockage to dissolve into clarity."
+  },
+  "signature": "rmmxlEVOzTIk5RCIzgacrLnpUJrsfm3eOiZ0nnLJUwX0O/JEipcmDc7IT5XnxjwvEnKoE8nWUWkQVwOsca8hBQ=="
+}
