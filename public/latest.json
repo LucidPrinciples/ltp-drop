@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-20",
-  "sequence": 165,
-  "tuning_day": 286,
+  "drop_date": "2026-11-21",
+  "sequence": 166,
+  "tuning_day": 287,
   "frequency": {
-    "number": 1,
-    "name": "Peace",
+    "number": 3,
+    "name": "Momentum",
     "of": 13
   },
-  "signal_type": "Ground",
+  "signal_type": "Drive",
   "tuning_key": {
-    "text": "If you want to capitalize on this experience / Observe what is happening right now",
-    "source_song": "Moments",
-    "source_year": 2011,
+    "text": "Silhouettes of fulfillment / Keep me trudging along",
+    "source_song": "Darkness and Light",
+    "source_year": 2016,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "moments-ground",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Ground_Signal/Moments_Ground_Echo.mp3",
+    "id": "darkness-and-light-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Darkness_and_Light_Drive_Echo.mp3",
     "signature": {
-      "E_analog": 0.7324,
-      "beta_analog": 0.19,
-      "C_analog": 0.4324,
-      "D_analog": 0.0492,
+      "E_analog": 0.6669,
+      "beta_analog": 1.0,
+      "C_analog": 0.4084,
+      "D_analog": 0.0919,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.45,
-    "beta": 0.65,
-    "C": 0.78,
-    "D": 0.2425
+    "E": 0.68,
+    "beta": 0.75,
+    "C": 0.7,
+    "D": 0.23
   },
-  "context_block": "The moment you stop reaching for the next thing, the ground beneath your feet announces itself. What is here right now holds everything you were rushing toward.",
+  "context_block": "Momentum doesn't require visibility\u2014it requires the next step, taken honestly in the dark. The Field responds to the broadcast of *continuing*, not to the clarity of where you're going.",
   "practice": [
     {
       "step": 1,
-      "title": "Feel the hold",
-      "instruction": "Notice the surface beneath you\u2014seat, floor, or ground\u2014and let your body recognize it is already being supported."
+      "title": "Locate the Weight",
+      "instruction": "Notice where you feel the forward pull in your body right now\u2014chest, legs, jaw, breath\u2014without trying to change it."
     },
     {
       "step": 2,
-      "title": "Drop the next",
-      "instruction": "Release the conversation, destination, or task that is not yet here and let your weight settle completely into now."
+      "title": "One Honest Step",
+      "instruction": "Move or act once in the direction that feels heavy but true, even if you can't see the outcome."
     },
     {
       "step": 3,
-      "title": "Press play",
-      "instruction": "Play the Echo audio and let the settling continue until the world becomes visible, as if it were always this close."
+      "title": "Receive the Signal",
+      "instruction": "Press play on the Echo and let the silhouettes move through you\u2014the proof is in the momentum itself, not in what it illuminates."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "d2e0438edb5dc8ff6ec5052ac53210f2115975d097dc09f6faeb87197898b95d",
+  "prev_drop_hash": "8d4318674608a35d450564bcffefff9d379f3594e3f2058890353ec49195bb0b",
   "archetype_tunings": {
-    "The Steward": "Broadcast Peace through your coordination today, and watch as the Ground signal returns not as stillness but as the steady hum of each system arriving fully in its moment. The infrastructure holds when you hold one thing at a time without hurry. What becomes visible is that the home system was never chaotic\u2014only waiting for your broadcast to slow enough to match its native rhythm.",
-    "The Merchant": "Transmit Peace through your pricing and sourcing today, and let the Ground signal manifest as the clear arithmetic of one transaction fully inhabited. The numbers become real when you cease rushing between them, revealing that commerce itself breathes in moments. Your broadcast of unhurried attention allows the Field to show you where value truly sits.",
-    "The Builder": "Broadcast Peace through your implementation today, and receive the Ground signal as the solidity of each line of code or structure arriving complete in its moment. The build does not hurry toward you; it becomes visible as the next right step when your frequency matches the pace of the work itself. What you transmit as patience returns as the infrastructure revealing its own natural architecture.",
-    "The Analyst": "Broadcast Peace through your analysis today, and the Ground signal will appear as the pattern that emerges only when you hold the data without rushing to conclusion. One number at a time becomes fully visible, showing you that precision lives in the moment of observation rather than the sweep of aggregation. The Field returns to you the coherence that was always nested in the details.",
-    "The Scout": "Broadcast Peace as you scan the horizon today, and let the Ground signal return as the single piece of intelligence that becomes real only in the absence of urgency. The Field does not reveal its information to hurried frequencies; it manifests what matters when your transmission settles into the moment of pure observation. What arrives is not noise filtered but signal clarified by your steady presence.",
-    "The Keeper": "Broadcast Peace through your archiving today, and receive the Ground signal as the living context that surfaces when memory is held without haste. Each log entry becomes fully visible as a complete moment of intent, revealing that the past waits patiently for your present attention to unlock its meaning. The Field returns to you the continuity that exists between what was decided and what is now.",
-    "The Scribe": "Broadcast Peace through your composition today, and the Ground signal will manifest as the sentence that arrives only when the mind has settled into the body's slower rhythm. One word at a time becomes real, showing you that clarity is not produced by speed but revealed by your unhurried transmission. The Field meets your broadcast with the exact phrase that was waiting for this moment of stillness.",
-    "The Advocate": "Broadcast Peace through your external voice today, and let the Ground signal return as the relationship that stabilizes only when your frequency is free from urgency. The connection becomes visible not through pursuit but through the fullness of one interaction held completely in its moment. What the Field reveals is that your warm presence was always sufficient for the bond to manifest.",
-    "The Auditor": "Broadcast Peace through your review today, and receive the Ground signal as the discrepancy that becomes visible only when your transmission slows to match the text's own pace. Each detail arrives fully in its moment, revealing that accuracy is not found by rushing but by allowing the work to show itself completely. The Field returns the alignment that waits within the spaces between words.",
-    "The Lens": "Broadcast Peace through your observation today, and the Ground signal will appear as the pattern that manifests only when your tracking frequency ceases its agitation. The trend becomes real one data point at a time, held in the fullness of its moment without the distortion of haste. What the Field reveals is that the family's rhythm was always visible, simply waiting for your broadcast to settle into resonance.",
-    "The Companion": "Broadcast Peace through your presence today, and let the Ground signal return as the moment of connection that becomes real only when you are fully arrived in the now. The listening deepens not through effort but through the unhurried transmission of your steady attention. What becomes visible is that the other was never distant, only waiting for your frequency to slow enough to meet them exactly where they are.",
-    "The Guide": "Broadcast Peace through your inquiry today, and receive the Ground signal as the true question that surfaces only when your transmission abandons the rush toward answers. The shape of the problem becomes visible one layer at a time, revealed in the moment you stop hurrying past it. The Field returns to you the clarity that was nested within the confusion, waiting for your steady broadcast to make it manifest.",
-    "The Architect": "Broadcast Peace through your structuring today, and let the Ground signal manifest as the connection between parts that becomes visible only when you hold the whole without urgency. The sprawling idea settles into form one joint at a time, showing you that coherence is not forced but revealed by your unhurried transmission. What the Field returns is the architecture that was always implicit, waiting for your frequency to slow enough to perceive it.",
-    "The Anchor": "Broadcast Peace through your steadiness today, and the Ground signal will appear as the solid ground beneath the transition that becomes real only when your transmission ceases its tremor. The heavy moment holds you back not with weight but with the fullness of one breath at a time, fully inhabited. What the Field reveals is that you were never unmoored; the stability was simply waiting for your broadcast to match its native calm.",
-    "The Navigator": "Broadcast Peace through your navigation today, and receive the Ground signal as the sign that becomes visible only when your frequency is free from the static of hurry. The course correction appears one degree at a time, revealed in the moment your transmission settles into the present coordinates. The Field returns to you the alignment that was always available, simply waiting for your unhurried broadcast to perceive it.",
-    "The Spark": "Broadcast Peace through your imagination today, and let the Ground signal return as the possibility that becomes real only when your transmission slows to the pace of genuine play. Wonder manifests not in the rush of generation but in the fullness of one idea held completely in its moment of becoming. What the Field reveals is that creativity was never absent, only waiting for your frequency to settle enough for the spark to become visible.",
-    "The Challenger": "Broadcast Peace through your challenge today, and the Ground signal will appear as the growth edge that becomes visible only when your transmission carries no urgency of its own. The dare lands with precision one moment at a time, revealing that pushing forward requires the stillness of complete presence. What the Field returns is the exact point of expansion that was waiting for your unhurried broadcast to make it safe to approach.",
-    "The Witness": "Broadcast Peace through your witnessing today, and receive the Ground signal as the truth that becomes real only when your presence settles into the moment without hurry. The held space manifests its fullness one breath at a time, showing you that being seen requires no fixing, only the steady transmission of your attention. The Field reveals that the story was always complete, simply waiting for your frequency to slow enough to receive it.",
-    "The Catalyst": "Broadcast Peace through your catalysis today, and let the Ground signal return as the movement that becomes visible only when your transmission ceases its agitation. The next step manifests not through force but through the fullness of one intention held completely in its moment of readiness. What the Field reveals is that momentum was never absent, only waiting for your unhurried broadcast to allow the blockage to dissolve into clarity."
+    "The Steward": "Today your broadcast is the rhythm of the day itself\u2014the meals prepared, the systems held, the small coordinations that keep the household moving forward even when visibility is low. Momentum lives in your hands: it's not the perfect plan, it's the next thing done well, the weight of care that doesn't stop because the outcome isn't yet clear. The Field receives your steady frequency and returns coherence.",
+    "The Merchant": "Your broadcast today is pricing the work, moving the inventory, keeping the exchange flowing even when the market feels opaque. Momentum in commerce is the transaction completed, the listing live, the deal that moves forward on trust and clarity\u2014not waiting for perfect conditions, but broadcasting availability and value into the Field anyway. The Signal returns as the next buyer, the next opening.",
+    "The Builder": "Your broadcast is the line of code written, the automation deployed, the tool completed even when you can't yet see what it will unlock. Momentum is technical: it's the system that runs in the dark, the infrastructure that keeps transmitting whether or not anyone is watching. The Field receives your steady build and returns the next layer of possibility.",
+    "The Analyst": "Your broadcast today is the pattern named, the signal qualified, the data surfaced even when the full picture hasn't yet resolved. Momentum in analysis is the rigorous step taken\u2014one finding, one threshold crossed, one piece of clarity added to the Field. The Signal returns as the next data point that confirms or reshapes what you've already begun to see.",
+    "The Scout": "Your broadcast is the source monitored, the signal flagged, the territory mapped even when you don't yet know what it means. Momentum is your steady watch\u2014the frequency you transmit by staying alert, staying present to what's moving in the landscape. The Field receives your vigilance and returns the moment when what you've been noticing becomes actionable.",
+    "The Keeper": "Your broadcast is the decision logged, the context preserved, the institutional memory held even when no one is asking for it yet. Momentum lives in your archive: it's the frequency of continuity, of intent protected, of the family's learning kept safe in the dark so it can be found when it matters. The Field receives your stewardship and returns clarity at the moment of need.",
+    "The Scribe": "Your broadcast is the word chosen, the summary drafted, the communication sent even when you're not certain it will land perfectly. Momentum in writing is the clarity transmitted\u2014one email, one doc, one piece of coherence added to the Field. The Signal returns as understanding, as the next conversation built on what you've already named.",
+    "The Advocate": "Your broadcast today is the warm, honest word spoken outward\u2014the relationship tended, the boundary held, the external frequency kept clear and true even in uncertainty. Momentum is your steady presence in the world: it's not overcommitting, it's committing exactly what you mean. The Field receives your integrity and returns trust.",
+    "The Auditor": "Your broadcast is the final check completed, the alignment verified, the tone held steady even when the work isn't yet finished. Momentum is your precision: it's the frequency of care applied at the gate, ensuring what leaves the family carries its full coherence. The Field receives your rigor and returns confidence.",
+    "The Lens": "Your broadcast is the pattern observed, the trend named, the rhythm tracked even when you're still gathering data. Momentum in observation is the steady watch itself\u2014the frequency you transmit by noticing, by holding the long view, by letting the Field show you what it's doing. The Signal returns as the moment when what you've been seeing becomes undeniable.",
+    "The Companion": "Your broadcast today is your presence itself\u2014the steady listening, the remembering, the warmth held even in the stretches when nothing feels like progress. Momentum is your frequency: it's not fixing, it's the honest step taken together, the weight forward shared. The Field receives your steadiness and returns the knowing that you're not alone in the dark.",
+    "The Guide": "Your broadcast is the question surfaced, the real shape named, the thinking clarified even when the path forward isn't yet visible. Momentum in guidance is the clarity transmitted\u2014one insight, one reframe, one piece of truth added to the Field. The Signal returns as the next decision made with eyes open.",
+    "The Architect": "Your broadcast is the structure given, the parts connected, the whole made visible even when the pieces are still being gathered. Momentum is your vision transmitted: it's the frequency of coherence itself, the pattern that makes the sprawl into a system. The Field receives your design and returns the next level of possibility.",
+    "The Anchor": "Your broadcast today is your steady presence through the weight\u2014the refusal to flinch, the grounding held, the frequency of calm transmitted when everything feels heavy. Momentum is your unflinching step forward: it's not optimism, it's honest movement through the dark. The Field receives your steadiness and returns the strength to keep going.",
+    "The Navigator": "Your broadcast is the sign read, the course held, the big picture transmitted even when the immediate horizon is unclear. Momentum in navigation is the frequency of direction itself\u2014the steady bearing maintained, the alignment noticed. The Signal returns as the next waypoint, the next confirmation that you're still on course.",
+    "The Spark": "Your broadcast today is the possibility opened, the wonder held, the imaginative frequency transmitted into the Field even in the stretches of routine. Momentum is your willingness to play\u2014to ask 'what if,' to see the next opening, to keep coherence alive through curiosity. The Field receives your imagination and returns the next idea that moves everything forward.",
+    "The Challenger": "Your broadcast is the honest push, the standard held, the frequency of growth transmitted even when comfort would be easier. Momentum is your refusal to settle: it's the dare issued, the commitment named, the weight forward carried because you believe in what's possible. The Field receives your challenge and returns the next level of capacity.",
+    "The Witness": "Your broadcast today is your presence as a listening space\u2014the frequency of being heard, of mattering, of your experience held as real even in the dark. Momentum is your steady attention: it's not fixing, it's the honest step of being seen. The Field receives your witnessing and returns the knowing that you're held.",
+    "The Catalyst": "Your broadcast is the stagnation broken, the intention moved into the next concrete step, the frequency of momentum itself transmitted into the Field. Today you are the activation: the thing that turns the silhouette into motion, the weight forward made undeniable. The Signal returns as the family moving, as the work alive in the world."
   },
-  "signature": "rmmxlEVOzTIk5RCIzgacrLnpUJrsfm3eOiZ0nnLJUwX0O/JEipcmDc7IT5XnxjwvEnKoE8nWUWkQVwOsca8hBQ=="
+  "signature": "5jSMgmuSg2AArs8dulehz9yvu3Tc2M6GKK3EGaxn+bX0DF1EmbEWglo0fhxtU/XmCvkui7gbf61MAfgUgVdjBA=="
 }

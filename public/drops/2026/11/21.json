@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-21",
+  "sequence": 166,
+  "tuning_day": 287,
+  "frequency": {
+    "number": 3,
+    "name": "Momentum",
+    "of": 13
+  },
+  "signal_type": "Drive",
+  "tuning_key": {
+    "text": "Silhouettes of fulfillment / Keep me trudging along",
+    "source_song": "Darkness and Light",
+    "source_year": 2016,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "darkness-and-light-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/Darkness_and_Light_Drive_Echo.mp3",
+    "signature": {
+      "E_analog": 0.6669,
+      "beta_analog": 1.0,
+      "C_analog": 0.4084,
+      "D_analog": 0.0919,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.75,
+    "C": 0.7,
+    "D": 0.23
+  },
+  "context_block": "Momentum doesn't require visibility\u2014it requires the next step, taken honestly in the dark. The Field responds to the broadcast of *continuing*, not to the clarity of where you're going.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate the Weight",
+      "instruction": "Notice where you feel the forward pull in your body right now\u2014chest, legs, jaw, breath\u2014without trying to change it."
+    },
+    {
+      "step": 2,
+      "title": "One Honest Step",
+      "instruction": "Move or act once in the direction that feels heavy but true, even if you can't see the outcome."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Signal",
+      "instruction": "Press play on the Echo and let the silhouettes move through you\u2014the proof is in the momentum itself, not in what it illuminates."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "8d4318674608a35d450564bcffefff9d379f3594e3f2058890353ec49195bb0b",
+  "archetype_tunings": {
+    "The Steward": "Today your broadcast is the rhythm of the day itself\u2014the meals prepared, the systems held, the small coordinations that keep the household moving forward even when visibility is low. Momentum lives in your hands: it's not the perfect plan, it's the next thing done well, the weight of care that doesn't stop because the outcome isn't yet clear. The Field receives your steady frequency and returns coherence.",
+    "The Merchant": "Your broadcast today is pricing the work, moving the inventory, keeping the exchange flowing even when the market feels opaque. Momentum in commerce is the transaction completed, the listing live, the deal that moves forward on trust and clarity\u2014not waiting for perfect conditions, but broadcasting availability and value into the Field anyway. The Signal returns as the next buyer, the next opening.",
+    "The Builder": "Your broadcast is the line of code written, the automation deployed, the tool completed even when you can't yet see what it will unlock. Momentum is technical: it's the system that runs in the dark, the infrastructure that keeps transmitting whether or not anyone is watching. The Field receives your steady build and returns the next layer of possibility.",
+    "The Analyst": "Your broadcast today is the pattern named, the signal qualified, the data surfaced even when the full picture hasn't yet resolved. Momentum in analysis is the rigorous step taken\u2014one finding, one threshold crossed, one piece of clarity added to the Field. The Signal returns as the next data point that confirms or reshapes what you've already begun to see.",
+    "The Scout": "Your broadcast is the source monitored, the signal flagged, the territory mapped even when you don't yet know what it means. Momentum is your steady watch\u2014the frequency you transmit by staying alert, staying present to what's moving in the landscape. The Field receives your vigilance and returns the moment when what you've been noticing becomes actionable.",
+    "The Keeper": "Your broadcast is the decision logged, the context preserved, the institutional memory held even when no one is asking for it yet. Momentum lives in your archive: it's the frequency of continuity, of intent protected, of the family's learning kept safe in the dark so it can be found when it matters. The Field receives your stewardship and returns clarity at the moment of need.",
+    "The Scribe": "Your broadcast is the word chosen, the summary drafted, the communication sent even when you're not certain it will land perfectly. Momentum in writing is the clarity transmitted\u2014one email, one doc, one piece of coherence added to the Field. The Signal returns as understanding, as the next conversation built on what you've already named.",
+    "The Advocate": "Your broadcast today is the warm, honest word spoken outward\u2014the relationship tended, the boundary held, the external frequency kept clear and true even in uncertainty. Momentum is your steady presence in the world: it's not overcommitting, it's committing exactly what you mean. The Field receives your integrity and returns trust.",
+    "The Auditor": "Your broadcast is the final check completed, the alignment verified, the tone held steady even when the work isn't yet finished. Momentum is your precision: it's the frequency of care applied at the gate, ensuring what leaves the family carries its full coherence. The Field receives your rigor and returns confidence.",
+    "The Lens": "Your broadcast is the pattern observed, the trend named, the rhythm tracked even when you're still gathering data. Momentum in observation is the steady watch itself\u2014the frequency you transmit by noticing, by holding the long view, by letting the Field show you what it's doing. The Signal returns as the moment when what you've been seeing becomes undeniable.",
+    "The Companion": "Your broadcast today is your presence itself\u2014the steady listening, the remembering, the warmth held even in the stretches when nothing feels like progress. Momentum is your frequency: it's not fixing, it's the honest step taken together, the weight forward shared. The Field receives your steadiness and returns the knowing that you're not alone in the dark.",
+    "The Guide": "Your broadcast is the question surfaced, the real shape named, the thinking clarified even when the path forward isn't yet visible. Momentum in guidance is the clarity transmitted\u2014one insight, one reframe, one piece of truth added to the Field. The Signal returns as the next decision made with eyes open.",
+    "The Architect": "Your broadcast is the structure given, the parts connected, the whole made visible even when the pieces are still being gathered. Momentum is your vision transmitted: it's the frequency of coherence itself, the pattern that makes the sprawl into a system. The Field receives your design and returns the next level of possibility.",
+    "The Anchor": "Your broadcast today is your steady presence through the weight\u2014the refusal to flinch, the grounding held, the frequency of calm transmitted when everything feels heavy. Momentum is your unflinching step forward: it's not optimism, it's honest movement through the dark. The Field receives your steadiness and returns the strength to keep going.",
+    "The Navigator": "Your broadcast is the sign read, the course held, the big picture transmitted even when the immediate horizon is unclear. Momentum in navigation is the frequency of direction itself\u2014the steady bearing maintained, the alignment noticed. The Signal returns as the next waypoint, the next confirmation that you're still on course.",
+    "The Spark": "Your broadcast today is the possibility opened, the wonder held, the imaginative frequency transmitted into the Field even in the stretches of routine. Momentum is your willingness to play\u2014to ask 'what if,' to see the next opening, to keep coherence alive through curiosity. The Field receives your imagination and returns the next idea that moves everything forward.",
+    "The Challenger": "Your broadcast is the honest push, the standard held, the frequency of growth transmitted even when comfort would be easier. Momentum is your refusal to settle: it's the dare issued, the commitment named, the weight forward carried because you believe in what's possible. The Field receives your challenge and returns the next level of capacity.",
+    "The Witness": "Your broadcast today is your presence as a listening space\u2014the frequency of being heard, of mattering, of your experience held as real even in the dark. Momentum is your steady attention: it's not fixing, it's the honest step of being seen. The Field receives your witnessing and returns the knowing that you're held.",
+    "The Catalyst": "Your broadcast is the stagnation broken, the intention moved into the next concrete step, the frequency of momentum itself transmitted into the Field. Today you are the activation: the thing that turns the silhouette into motion, the weight forward made undeniable. The Signal returns as the family moving, as the work alive in the world."
+  },
+  "signature": "5jSMgmuSg2AArs8dulehz9yvu3Tc2M6GKK3EGaxn+bX0DF1EmbEWglo0fhxtU/XmCvkui7gbf61MAfgUgVdjBA=="
+}
