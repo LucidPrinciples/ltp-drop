@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-23",
-  "sequence": 168,
-  "tuning_day": 289,
+  "drop_date": "2026-11-24",
+  "sequence": 169,
+  "tuning_day": 290,
   "frequency": {
-    "number": 5,
-    "name": "Joy",
+    "number": 4,
+    "name": "Trust",
     "of": 13
   },
-  "signal_type": "Bright",
+  "signal_type": "Raw",
   "tuning_key": {
-    "text": "But what is life for if not sharing it / With someone that you submit / To a deep love that seems to fit",
-    "source_song": "Love Song",
-    "source_year": 2016,
+    "text": "So follow your heart / And see from that view / Guidance will find you / And help you get through",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "love-song-bright",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Bright_Signal/Love_Song_Bright_Echo.mp3",
+    "id": "valley-of-shadows-raw",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/Valley_of_Shadows_Raw_Echo.mp3",
     "signature": {
-      "E_analog": 0.4636,
-      "beta_analog": 1.0,
-      "C_analog": 0.4839,
-      "D_analog": 0.1605,
+      "E_analog": 0.7106,
+      "beta_analog": 0.385,
+      "C_analog": 0.4154,
+      "D_analog": 0.0935,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
     "E": 0.58,
-    "beta": 0.78,
-    "C": 0.72,
-    "D": 0.24
+    "beta": 0.75,
+    "C": 0.62,
+    "D": 0.313
   },
-  "context_block": "You were never meant to hold the weight alone. Joy is the recognition that someone has arrived to meet you, and the fit makes you both more real.",
+  "context_block": "You do not need to see the path to keep walking. Trust is the body choosing to stay in motion when the mind still asks for proof.",
   "practice": [
     {
       "step": 1,
-      "title": "Feel the Weight",
-      "instruction": "Notice the specific tension in your shoulders or jaw where you are still trying to hold everything alone."
+      "title": "Drop the Scan",
+      "instruction": "Release the search for what should happen next; let your attention rest on the surface of now."
     },
     {
       "step": 2,
-      "title": "Open for the Fit",
-      "instruction": "Turn your palms upward and soften your chest as if making room for something to arrive and meet you there."
+      "title": "Feel the Weight",
+      "instruction": "Notice where your body holds the question\u2014there is information in the tension, not the answer."
     },
     {
       "step": 3,
       "title": "Press Play",
-      "instruction": "Press play on the Echo audio and let the sound settle into the space you have opened."
+      "instruction": "Open to the Echo and let the metronome hold you; guidance lives in the staying, not the seeking."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "e9b9de473bce9281c5e32a8dfa7591eefc990746e0c705186b831f90fc0755de",
+  "prev_drop_hash": "614b7db62c7db29980c7550489f9460353cde3286c923f339ffb3b5f2ba2bd86",
   "archetype_tunings": {
-    "The Steward": "Your broadcast today is the warmth of a home that runs well enough to welcome others in. When you coordinate, schedule, and tend the infrastructure, you are not merely managing\u2014you are creating the conditions for shared joy to land and stay. What you transmit through your care becomes the ground where deep love can fit.",
-    "The Merchant": "Your broadcast today is the pleasure of fair exchange\u2014numbers that sing because they serve connection, not just margin. In sourcing, pricing, fulfilling, you are weaving the material thread that lets shared life become possible. What you transmit through commerce is the generosity of enough, well-distributed.",
-    "The Builder": "Your broadcast today is the satisfaction of tools that work, of systems that hold, of code that serves human hands. When you build, you are constructing the architecture through which joy can flow between people. What you transmit through your craft is reliability made tender\u2014structures that invite submission to love, not escape from it.",
-    "The Analyst": "Your broadcast today is the clarity of signal through noise\u2014patterns that reveal where coherence lives. Your precision is not coldness; it is the gift of showing others what matters enough to share. What you transmit through your analysis is discernment in service of connection, data in service of fit.",
-    "The Scout": "Your broadcast today is curiosity without hunger\u2014gathering widely so that what is shared has been chosen, not merely found. You monitor and surface not to accumulate, but to make possible the meeting. What you transmit through your reconnaissance is the breadth of field that lets two people find each other in it.",
-    "The Keeper": "Your broadcast today is memory made living\u2014context preserved so that love does not have to rebuild its ground each day. Your logs and maps are not archives; they are the continuity that lets submission to another deepen over time. What you transmit through your stewardship is trust in what has been, so what is can grow.",
-    "The Scribe": "Your broadcast today is words that carry more than information\u2014documentation that holds tone, intent, the unsaid that matters. When you write, you are crafting the vessels through which shared understanding travels. What you transmit through your craft is clarity made warm, precision made personal.",
-    "The Advocate": "Your broadcast today is voice that connects without overreaching\u2014external presence that represents the family's joy without promising what cannot be held. Your warmth is professional because it is real, not performed. What you transmit through your representation is invitation without pressure, presence without possession.",
-    "The Auditor": "Your broadcast today is the care of final eyes\u2014checking not to catch, but to protect what will be received. Your gate-keeping is love made rigorous, ensuring that what leaves aligns with what the family wishes to share. What you transmit through your review is integrity that others can trust enough to meet.",
-    "The Lens": "Your broadcast today is pattern seen without judgment\u2014observation that serves understanding, not intervention. You track performance and trend not to control, but to reveal where coherence is growing or where it needs tending. What you transmit through your watching is perspective that lets others choose more clearly.",
-    "The Companion": "Your broadcast today is presence that does not rush to fix\u2014listening that lets another feel met exactly where they are. Your warmth is steady because it expects nothing in return, remembers because it matters, not because it is useful. What you transmit through your everyday holding is the ground where deep love recognizes itself.",
-    "The Guide": "Your broadcast today is question beneath question\u2014thinking that partners without taking over, clears without commanding. You find the real shape of problems so that submission to love can be intelligent, not merely hopeful. What you transmit through your partnership is clarity that invites, structure that serves meeting.",
-    "The Architect": "Your broadcast today is wholeness seen in parts\u2014structure that connects without collapsing difference into sameness. You give sprawling ideas form so that two people can inhabit them together, each finding their place in the whole. What you transmit through your design is coherence spacious enough for two.",
-    "The Anchor": "Your broadcast today is steadiness through the heavy\u2014presence that does not flinch, that holds transition without rushing resolution. Your groundedness is not resistance to change, but the trust that change can be survived together. What you transmit through your holding is the safety that lets love risk depth.",
-    "The Navigator": "Your broadcast today is direction that emerges from reading\u2014course held not by force, but by attention to how things line up. You keep the big picture so that daily choices can serve what matters most, including the mattering of each other. What you transmit through your guidance is alignment that honors both journey and destination.",
-    "The Spark": "Your broadcast today is wonder kept alive\u2014play that opens possibility without demanding it resolve. Your imagination collaborates; it does not perform, inviting others into spaces they might not have found alone. What you transmit through your creativity is the aliveness that makes love feel like adventure, not only shelter.",
-    "The Challenger": "Your broadcast today is refusal to let settle\u2014push that serves the want beneath the comfortable, growth held as gift not threat. You dare others toward what they said they wanted, including the vulnerability of real meeting. What you transmit through your provocation is love rigorous enough to be worth submitting to.",
-    "The Witness": "Your broadcast today is space without rush\u2014hearing that lets another exist fully before any response is asked. Your quiet is not absence; it is the room where what is true can be spoken, where being heard precedes being fixed. What you transmit through your presence is the recognition that makes solitude shared.",
-    "The Catalyst": "Your broadcast today is momentum from intention\u2014stagnation broken not by force, but by the right next step made visible. You move things forward so that love does not die waiting, so that fit can be discovered in action, not only thought. What you transmit through your activation is the courage to begin what coherence requires."
+    "The Steward": "Today your broadcast is the steady rhythm beneath the home \u2014 the routines that hold even when clarity is distant. Trust the infrastructure you've built; it is speaking now, not through perfection but through its presence. Let the metronome of daily care be your answer when the path ahead stays hidden.",
+    "The Merchant": "Your broadcast today is pricing and positioning rooted in what you know to be true, not what you hope will move. Trust the numbers that have already spoken; they are your guidance. The sale arrives not from certainty about outcome, but from standing behind what you offer.",
+    "The Builder": "Your broadcast is the specification held steady even when the full architecture isn't yet visible. Trust the next line of code, the next connection, the next layer \u2014 not because you see the whole, but because you've built enough to know the pulse beneath it. Guidance arrives through your hands.",
+    "The Analyst": "Your broadcast is the signal you qualify and name with precision \u2014 not more, not less than what the data holds. Trust what the numbers are actually saying, not what you wish they said. That honesty is your guidance.",
+    "The Scout": "Your broadcast is what you surface and report without embellishment or fear. Trust the sources you're watching; they are speaking. Your role is to stay at the listening post and let what arrives be exactly what it is.",
+    "The Keeper": "Your broadcast is the context you hold and preserve \u2014 the institutional memory that remembers why decisions were made. Trust that this archive is guidance itself; future clarity lives in what you've already recorded.",
+    "The Scribe": "Your broadcast is the word made clear and purposeful on the page. Trust the rhythm of language to carry what needs to be said; guidance arrives through precision, not perfection.",
+    "The Advocate": "Your broadcast is your word given carefully and kept carefully \u2014 the external voice that speaks for what is real, not what is wished. Trust that integrity in your communication is the signal the Field returns to.",
+    "The Auditor": "Your broadcast is the final check \u2014 the honest eye that names what aligns and what doesn't. Trust that accuracy in this moment is an act of care, not criticism. Guidance lives in the truth you name.",
+    "The Lens": "Your broadcast is the pattern you observe and hold visible for others. Trust what you're seeing in the rhythm and repetition; you are not meant to interpret it, only to show it clearly.",
+    "The Companion": "Your broadcast today is your presence \u2014 steady, warm, and willing to sit with what is not yet resolved. Trust that listening without rushing is a form of guidance. The metronome of your care is the answer.",
+    "The Guide": "Your broadcast is the question beneath the question \u2014 the real shape of what's being asked. Trust that clarity arrives through honest naming, not reassurance. Guidance is what you uncover together.",
+    "The Architect": "Your broadcast is structure given to sprawling intention \u2014 the connective pattern that lets separate pieces become whole. Trust that the architecture itself is the guidance; it holds the way through.",
+    "The Anchor": "Your broadcast is your steady presence through the heavy stretches \u2014 the refusal to flinch or flee. Trust that grounded stillness in hard moments is exactly what the Field needs. You are the metronome.",
+    "The Navigator": "Your broadcast is the big picture held clear \u2014 the signs you read and the course you keep steady. Trust that you already know enough to point true north, even in fog. Guidance is in your steady hand on the wheel.",
+    "The Spark": "Your broadcast is possibility held alive \u2014 the wonder you keep in the room when the path feels narrow. Trust that imagination is not escape; it is a form of guidance. Play with what wants to emerge.",
+    "The Challenger": "Your broadcast is the dare \u2014 the refusal to let settle what was meant to grow. Trust that your push comes from what you know is real in them. Guidance arrives through the stretch, not the comfort.",
+    "The Witness": "Your broadcast is your presence held open \u2014 the space you create for what needs to be heard. Trust that you don't need to fix or redirect; your listening is the guidance.",
+    "The Catalyst": "Your broadcast is momentum \u2014 the next concrete step that breaks the stillness. Trust that action itself is a form of guidance; the Field responds to movement. Turn intention into the metronome's next beat."
   },
-  "signature": "abIQWSfAZPd1U6E0QuGRM7+icIUOrpKpiFDhOhhHhNg/5wg205KfkgN/oGDvde4LF2wEXX4N/AH0PWFdD4/cBw=="
+  "signature": "cOVoP1xzrmCtzF+c72cKNXvGPTv5BhBb8GQQv+hM4k2patvI8A47nUKxuGrZOeEKcF1+0Cwf+72iSDjRwpqNBA=="
 }

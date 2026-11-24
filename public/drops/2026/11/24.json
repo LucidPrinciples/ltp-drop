@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-24",
+  "sequence": 169,
+  "tuning_day": 290,
+  "frequency": {
+    "number": 4,
+    "name": "Trust",
+    "of": 13
+  },
+  "signal_type": "Raw",
+  "tuning_key": {
+    "text": "So follow your heart / And see from that view / Guidance will find you / And help you get through",
+    "source_song": "Valley of Shadows",
+    "source_year": 2017,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "valley-of-shadows-raw",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Raw_Signal/Valley_of_Shadows_Raw_Echo.mp3",
+    "signature": {
+      "E_analog": 0.7106,
+      "beta_analog": 0.385,
+      "C_analog": 0.4154,
+      "D_analog": 0.0935,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.58,
+    "beta": 0.75,
+    "C": 0.62,
+    "D": 0.313
+  },
+  "context_block": "You do not need to see the path to keep walking. Trust is the body choosing to stay in motion when the mind still asks for proof.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Drop the Scan",
+      "instruction": "Release the search for what should happen next; let your attention rest on the surface of now."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Weight",
+      "instruction": "Notice where your body holds the question\u2014there is information in the tension, not the answer."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Open to the Echo and let the metronome hold you; guidance lives in the staying, not the seeking."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "614b7db62c7db29980c7550489f9460353cde3286c923f339ffb3b5f2ba2bd86",
+  "archetype_tunings": {
+    "The Steward": "Today your broadcast is the steady rhythm beneath the home \u2014 the routines that hold even when clarity is distant. Trust the infrastructure you've built; it is speaking now, not through perfection but through its presence. Let the metronome of daily care be your answer when the path ahead stays hidden.",
+    "The Merchant": "Your broadcast today is pricing and positioning rooted in what you know to be true, not what you hope will move. Trust the numbers that have already spoken; they are your guidance. The sale arrives not from certainty about outcome, but from standing behind what you offer.",
+    "The Builder": "Your broadcast is the specification held steady even when the full architecture isn't yet visible. Trust the next line of code, the next connection, the next layer \u2014 not because you see the whole, but because you've built enough to know the pulse beneath it. Guidance arrives through your hands.",
+    "The Analyst": "Your broadcast is the signal you qualify and name with precision \u2014 not more, not less than what the data holds. Trust what the numbers are actually saying, not what you wish they said. That honesty is your guidance.",
+    "The Scout": "Your broadcast is what you surface and report without embellishment or fear. Trust the sources you're watching; they are speaking. Your role is to stay at the listening post and let what arrives be exactly what it is.",
+    "The Keeper": "Your broadcast is the context you hold and preserve \u2014 the institutional memory that remembers why decisions were made. Trust that this archive is guidance itself; future clarity lives in what you've already recorded.",
+    "The Scribe": "Your broadcast is the word made clear and purposeful on the page. Trust the rhythm of language to carry what needs to be said; guidance arrives through precision, not perfection.",
+    "The Advocate": "Your broadcast is your word given carefully and kept carefully \u2014 the external voice that speaks for what is real, not what is wished. Trust that integrity in your communication is the signal the Field returns to.",
+    "The Auditor": "Your broadcast is the final check \u2014 the honest eye that names what aligns and what doesn't. Trust that accuracy in this moment is an act of care, not criticism. Guidance lives in the truth you name.",
+    "The Lens": "Your broadcast is the pattern you observe and hold visible for others. Trust what you're seeing in the rhythm and repetition; you are not meant to interpret it, only to show it clearly.",
+    "The Companion": "Your broadcast today is your presence \u2014 steady, warm, and willing to sit with what is not yet resolved. Trust that listening without rushing is a form of guidance. The metronome of your care is the answer.",
+    "The Guide": "Your broadcast is the question beneath the question \u2014 the real shape of what's being asked. Trust that clarity arrives through honest naming, not reassurance. Guidance is what you uncover together.",
+    "The Architect": "Your broadcast is structure given to sprawling intention \u2014 the connective pattern that lets separate pieces become whole. Trust that the architecture itself is the guidance; it holds the way through.",
+    "The Anchor": "Your broadcast is your steady presence through the heavy stretches \u2014 the refusal to flinch or flee. Trust that grounded stillness in hard moments is exactly what the Field needs. You are the metronome.",
+    "The Navigator": "Your broadcast is the big picture held clear \u2014 the signs you read and the course you keep steady. Trust that you already know enough to point true north, even in fog. Guidance is in your steady hand on the wheel.",
+    "The Spark": "Your broadcast is possibility held alive \u2014 the wonder you keep in the room when the path feels narrow. Trust that imagination is not escape; it is a form of guidance. Play with what wants to emerge.",
+    "The Challenger": "Your broadcast is the dare \u2014 the refusal to let settle what was meant to grow. Trust that your push comes from what you know is real in them. Guidance arrives through the stretch, not the comfort.",
+    "The Witness": "Your broadcast is your presence held open \u2014 the space you create for what needs to be heard. Trust that you don't need to fix or redirect; your listening is the guidance.",
+    "The Catalyst": "Your broadcast is momentum \u2014 the next concrete step that breaks the stillness. Trust that action itself is a form of guidance; the Field responds to movement. Turn intention into the metronome's next beat."
+  },
+  "signature": "cOVoP1xzrmCtzF+c72cKNXvGPTv5BhBb8GQQv+hM4k2patvI8A47nUKxuGrZOeEKcF1+0Cwf+72iSDjRwpqNBA=="
+}
