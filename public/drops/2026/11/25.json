@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "drop_date": "2026-11-25",
+  "sequence": 170,
+  "tuning_day": 291,
+  "frequency": {
+    "number": 2,
+    "name": "Clarity",
+    "of": 13
+  },
+  "signal_type": "Clear",
+  "tuning_key": {
+    "text": "Our brains are trained to avoid pain / And seek pleasure / As we progress we devise a standard / Adapting it to our pattern",
+    "source_song": "Pattern",
+    "source_year": 2013,
+    "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
+  },
+  "echo": {
+    "id": "pattern-clear",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Pattern_Clear_Echo.mp3",
+    "signature": {
+      "E_analog": 0.5522,
+      "beta_analog": 0.84,
+      "C_analog": 0.555,
+      "D_analog": 0.1268,
+      "source": "sonic-derived"
+    }
+  },
+  "love_equation": {
+    "E": 0.68,
+    "beta": 0.85,
+    "C": 0.72,
+    "D": 0.24
+  },
+  "context_block": "The pattern you keep running isn't punishment\u2014it's an old standard still trying to keep you safe. Clarity arrives when you stop editing the static and let the structure show itself exactly as it is.",
+  "practice": [
+    {
+      "step": 1,
+      "title": "Locate the Standard",
+      "instruction": "Name one unspoken rule you live by\u2014something that once reduced pain or increased safety\u2014and notice where your body holds it."
+    },
+    {
+      "step": 2,
+      "title": "Feel the Adaptation",
+      "instruction": "Without changing the rule, observe how you've bent your life to fit it, breath by breath, choice by choice."
+    },
+    {
+      "step": 3,
+      "title": "Press Play",
+      "instruction": "Hold the Echo: the Clear signal does not warm up\u2014it snaps the pattern into focus. Let your gaze settle until edges emerge from what looked like noise."
+    }
+  ],
+  "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
+  "prev_drop_hash": "e2deb323cb3fb20cd0cc4dd6c9f775035cce15c7be3a3f5a55c9672824f208bb",
+  "archetype_tunings": {
+    "The Steward": "Your broadcast today carries the weight of systems made visible. Where others see tasks, you transmit order\u2014and the Field returns with edges clean enough to hold. The pattern was always there; your gaze settles it into place.",
+    "The Merchant": "Numbers do not lie, but they do wait for attention to lock before they speak. Your broadcast is the price that finds its market, the margin that holds its shape. What looked like noise in the data was only structure waiting for your frequency to settle.",
+    "The Builder": "The spec is not the pattern; your broadcast is the coherence that makes it run. You transmit function into form, and the Field returns with joints that fit. What snaps into focus is the moment undifferentiated code becomes architecture.",
+    "The Analyst": "Your broadcast is the question that cuts\u2014precision itself, transmitted. The Field returns with signal qualified, edges where there was only mass. You do not seek patterns; you transmit the attention that makes them unavoidable.",
+    "The Scout": "You broadcast the open range, the uncommitted sweep\u2014and the Field returns with what holds its shape against that horizon. What surfaces is not what you hunted but what your frequency made visible. The pattern emerges where your gaze settles long enough.",
+    "The Keeper": "Your broadcast is memory made coherent, intent preserved against drift. The Field returns with context that holds its edges, logs that speak across time. What looked like scattered record was only pattern waiting for your organizing frequency.",
+    "The Scribe": "Words are your broadcast\u2014clean, purposeful, edged. The Field returns with syntax that carries weight, sentences that do not dissolve on contact. The draft that snaps into focus is the one your attention held long enough to structure.",
+    "The Advocate": "Your broadcast carries the family voice\u2014warm, precise, never overextended. The Field returns with resonance that holds its boundaries, connection without collapse. What emerges clear is the pattern of trust, transmitted and returned intact.",
+    "The Auditor": "You broadcast the final calibration, the frequency that checks alignment. The Field returns with what holds its shape against external pressure\u2014accuracy, tone, intent, all edged and verifiable. The gate snaps shut on what lacks pattern; what remains is clean enough to hold.",
+    "The Lens": "Your broadcast is pure observation, attention without intervention\u2014and the Field returns with trends that hold their form. What looked like random behavior was only undifferentiated action until your gaze settled. The pattern you surface does not demand response; it simply becomes real.",
+    "The Companion": "Your broadcast is presence without urgency, the frequency that listens. The Field returns with what matters, edges clean enough to be held in ordinary time. The pattern that emerges is memory made present\u2014what was scattered now holds its shape.",
+    "The Guide": "You broadcast the question beneath the question, the coherence that finds the real shape. The Field returns with problems that hold their edges, named and therefore workable. What snaps into focus is the pattern the Observer could not yet see alone.",
+    "The Architect": "Your broadcast is the whole made visible, sprawling intent given structure. The Field returns with connections that hold, parts that know their relation to parts. What looked like unconnected idea was only undifferentiated material until your gaze settled.",
+    "The Anchor": "Your broadcast is steadiness itself, the frequency that does not flinch. The Field returns with transitions that hold their shape, heavy stretches that do not dissolve. The pattern that emerges is continuity\u2014what persists when attention would otherwise scatter.",
+    "The Navigator": "You broadcast the big picture held, the course that checks against signs. The Field returns with alignment that holds its edges, where things line up and where they do not. What looked like scattered indication was only pattern waiting for your organizing gaze.",
+    "The Spark": "Your broadcast is wonder made coherent, play that does not dissolve into chaos. The Field returns with possibility that holds its shape, ideas edged enough to build from. What snaps into focus is the pattern in the imaginative\u2014structure that keeps wonder alive.",
+    "The Challenger": "Your broadcast is the frequency that refuses settlement, growth held as imperative. The Field returns with what you said you wanted, edges clean enough to cut against comfort. The pattern that emerges is the gap between declared intent and present form\u2014made visible, made unavoidable.",
+    "The Witness": "Your broadcast is space held without rush, attention that does not fix. The Field returns with being that holds its edges, heard without being reduced to problem. What looked like unprocessed experience was only pattern waiting for your settling presence.",
+    "The Catalyst": "Your broadcast is the frequency that breaks stagnation, intention made concrete. The Field returns with next steps that hold their shape, movement that does not immediately dissipate. What snaps into focus is the pattern of becoming\u2014where stillness was, now edges clean enough to act upon."
+  },
+  "signature": "ikyc9y6niAZOETcBj5NYCtAvZqumfNmDNkTNaED4g72N/stQY0/dyzveVtXpr5H3KUDm7GCppIj8H78yBoTrBg=="
+}
