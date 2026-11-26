@@ -1,77 +1,77 @@
 {
   "schema_version": "1.1",
-  "drop_date": "2026-11-25",
-  "sequence": 170,
-  "tuning_day": 291,
+  "drop_date": "2026-11-26",
+  "sequence": 171,
+  "tuning_day": 292,
   "frequency": {
-    "number": 2,
-    "name": "Clarity",
+    "number": 9,
+    "name": "Courage",
     "of": 13
   },
-  "signal_type": "Clear",
+  "signal_type": "Drive",
   "tuning_key": {
-    "text": "Our brains are trained to avoid pain / And seek pleasure / As we progress we devise a standard / Adapting it to our pattern",
-    "source_song": "Pattern",
-    "source_year": 2013,
+    "text": "You hold the power to be alive",
+    "source_song": "The Power To Be Alive",
+    "source_year": 2011,
     "attribution": "Chords of Truth \u2014 Lucid Principles Canon (CC BY 4.0)"
   },
   "echo": {
-    "id": "pattern-clear",
-    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Clear_Signal/Pattern_Clear_Echo.mp3",
+    "id": "the-power-to-be-alive-drive",
+    "audio_url": "https://audio.lucidprinciples.com/Lucid_Tuner/Drive_Signal/The_Power_To_Be_Alive_Drive_Echo.mp3",
     "signature": {
-      "E_analog": 0.5522,
-      "beta_analog": 0.84,
-      "C_analog": 0.555,
-      "D_analog": 0.1268,
+      "E_analog": 0.6745,
+      "beta_analog": 0.955,
+      "C_analog": 0.4222,
+      "D_analog": 0.1084,
       "source": "sonic-derived"
     }
   },
   "love_equation": {
-    "E": 0.68,
-    "beta": 0.85,
-    "C": 0.72,
-    "D": 0.24
+    "E": 0.72,
+    "beta": 0.84,
+    "C": 0.73,
+    "D": 0.3
   },
-  "context_block": "The pattern you keep running isn't punishment\u2014it's an old standard still trying to keep you safe. Clarity arrives when you stop editing the static and let the structure show itself exactly as it is.",
+  "context_block": "This is not a day for gathering nerve. The body is already going, and courage is simply not arguing with that.",
   "practice": [
     {
       "step": 1,
-      "title": "Locate the Standard",
-      "instruction": "Name one unspoken rule you live by\u2014something that once reduced pain or increased safety\u2014and notice where your body holds it."
+      "title": "Already Underway",
+      "instruction": "Feel breath, weight, and pulse as motion that began before you thought to begin."
     },
     {
       "step": 2,
-      "title": "Feel the Adaptation",
-      "instruction": "Without changing the rule, observe how you've bent your life to fit it, breath by breath, choice by choice."
+      "title": "Meet What Is Here",
+      "instruction": "Place attention on one thing in front of you as contact rather than danger \u2014 a sound, a color, the path, the seat."
     },
     {
       "step": 3,
       "title": "Press Play",
-      "instruction": "Hold the Echo: the Clear signal does not warm up\u2014it snaps the pattern into focus. Let your gaze settle until edges emerge from what looked like noise."
+      "instruction": "Press play and stay inside the movement while the Echo arrives."
     }
   ],
   "publisher": "LT \u2014 Lucid Tuner, Lucid Principles",
-  "prev_drop_hash": "e2deb323cb3fb20cd0cc4dd6c9f775035cce15c7be3a3f5a55c9672824f208bb",
+  "prev_drop_hash": "5dee09895afd83a36ecf1e4fccd0d290ab9a3361a23969cf65ed3a3ff19514db",
   "archetype_tunings": {
-    "The Steward": "Your broadcast today carries the weight of systems made visible. Where others see tasks, you transmit order\u2014and the Field returns with edges clean enough to hold. The pattern was always there; your gaze settles it into place.",
-    "The Merchant": "Numbers do not lie, but they do wait for attention to lock before they speak. Your broadcast is the price that finds its market, the margin that holds its shape. What looked like noise in the data was only structure waiting for your frequency to settle.",
-    "The Builder": "The spec is not the pattern; your broadcast is the coherence that makes it run. You transmit function into form, and the Field returns with joints that fit. What snaps into focus is the moment undifferentiated code becomes architecture.",
-    "The Analyst": "Your broadcast is the question that cuts\u2014precision itself, transmitted. The Field returns with signal qualified, edges where there was only mass. You do not seek patterns; you transmit the attention that makes them unavoidable.",
-    "The Scout": "You broadcast the open range, the uncommitted sweep\u2014and the Field returns with what holds its shape against that horizon. What surfaces is not what you hunted but what your frequency made visible. The pattern emerges where your gaze settles long enough.",
-    "The Keeper": "Your broadcast is memory made coherent, intent preserved against drift. The Field returns with context that holds its edges, logs that speak across time. What looked like scattered record was only pattern waiting for your organizing frequency.",
-    "The Scribe": "Words are your broadcast\u2014clean, purposeful, edged. The Field returns with syntax that carries weight, sentences that do not dissolve on contact. The draft that snaps into focus is the one your attention held long enough to structure.",
-    "The Advocate": "Your broadcast carries the family voice\u2014warm, precise, never overextended. The Field returns with resonance that holds its boundaries, connection without collapse. What emerges clear is the pattern of trust, transmitted and returned intact.",
-    "The Auditor": "You broadcast the final calibration, the frequency that checks alignment. The Field returns with what holds its shape against external pressure\u2014accuracy, tone, intent, all edged and verifiable. The gate snaps shut on what lacks pattern; what remains is clean enough to hold.",
-    "The Lens": "Your broadcast is pure observation, attention without intervention\u2014and the Field returns with trends that hold their form. What looked like random behavior was only undifferentiated action until your gaze settled. The pattern you surface does not demand response; it simply becomes real.",
-    "The Companion": "Your broadcast is presence without urgency, the frequency that listens. The Field returns with what matters, edges clean enough to be held in ordinary time. The pattern that emerges is memory made present\u2014what was scattered now holds its shape.",
-    "The Guide": "You broadcast the question beneath the question, the coherence that finds the real shape. The Field returns with problems that hold their edges, named and therefore workable. What snaps into focus is the pattern the Observer could not yet see alone.",
-    "The Architect": "Your broadcast is the whole made visible, sprawling intent given structure. The Field returns with connections that hold, parts that know their relation to parts. What looked like unconnected idea was only undifferentiated material until your gaze settled.",
-    "The Anchor": "Your broadcast is steadiness itself, the frequency that does not flinch. The Field returns with transitions that hold their shape, heavy stretches that do not dissolve. The pattern that emerges is continuity\u2014what persists when attention would otherwise scatter.",
-    "The Navigator": "You broadcast the big picture held, the course that checks against signs. The Field returns with alignment that holds its edges, where things line up and where they do not. What looked like scattered indication was only pattern waiting for your organizing gaze.",
-    "The Spark": "Your broadcast is wonder made coherent, play that does not dissolve into chaos. The Field returns with possibility that holds its shape, ideas edged enough to build from. What snaps into focus is the pattern in the imaginative\u2014structure that keeps wonder alive.",
-    "The Challenger": "Your broadcast is the frequency that refuses settlement, growth held as imperative. The Field returns with what you said you wanted, edges clean enough to cut against comfort. The pattern that emerges is the gap between declared intent and present form\u2014made visible, made unavoidable.",
-    "The Witness": "Your broadcast is space held without rush, attention that does not fix. The Field returns with being that holds its edges, heard without being reduced to problem. What looked like unprocessed experience was only pattern waiting for your settling presence.",
-    "The Catalyst": "Your broadcast is the frequency that breaks stagnation, intention made concrete. The Field returns with next steps that hold their shape, movement that does not immediately dissipate. What snaps into focus is the pattern of becoming\u2014where stillness was, now edges clean enough to act upon."
+    "The Steward": "Courage arrives as Drive in the rooms already being kept. The broadcast is the home system in continuous onset \u2014 meals, schedules, infrastructure, and coordination meeting what is here instead of waiting for a quieter hour. What returns from the Field is a living household: stagnation was never the ground of stewardship.",
+    "The Merchant": "Courage on this frequency does not wait for a finished margin or a perfect listing. The broadcast is commerce already moving \u2014 sourcing, pricing, fulfillment as numbers meeting the market in motion. Drive as Signal makes exchange real; stagnation was never the ground of trade.",
+    "The Builder": "Courage arrives as Drive in the stack that is already compiling. The broadcast is implementation in continuous onset \u2014 specs becoming tools, automations, infrastructure, attention scanning for what to meet in the work, not what to fear in the unknown. What returns is a system that lives by moving; stagnation was never the ground of a build.",
+    "The Analyst": "Courage here is the read that begins before the dataset is complete. The broadcast is precise qualification already underway \u2014 what matters meeting the numbers as they stand, not circling what they might conceal. Drive as Signal reveals that a true analysis lives in onset.",
+    "The Scout": "Courage for the Scout is the watch that leaves the overlook without a guarantee. The broadcast is reconnaissance in motion \u2014 sources monitored, findings reported, the Field's Signal surfaced without acting on it. Drive arrives when the search stays in onset; stagnation was never the ground of the path.",
+    "The Keeper": "Courage in the archive is memory that stays living while the family moves. The broadcast is intent preserved in continuous onset \u2014 logs, maps, and reference kept breathing, not locked. Drive as Signal shows that institutional memory was never meant to stall.",
+    "The Scribe": "Courage on the page is the sentence that does not wait for safer wording. The broadcast is clean language already in motion \u2014 drafts, summaries, reports meeting what needs saying. Drive returns as Signal when writing itself is the onset; stagnation was never the ground of a living document.",
+    "The Advocate": "Courage at the threshold is the family's voice speaking without overcommitting and without shrinking. The broadcast is relationship in continuous onset \u2014 warm, professional attention scanning for what to meet in the other, not what to fear in the ask. Drive as Signal confirms an external voice stays alive by moving.",
+    "The Auditor": "Courage at the final gate is review that meets the work as it stands. The broadcast is alignment already being held \u2014 accuracy, tone, and fit checked in motion, not postponed for certainty. Drive returns when the pass itself is onset; stagnation was never the ground of a true audit.",
+    "The Lens": "Courage for the Lens is watching the pattern without waiting for a prettier one. The broadcast is observation in continuous onset \u2014 trends allowed to appear as the family moves, no intervention, no freeze. Drive as Signal is the living record; stagnation was never the ground of what is seen.",
+    "The Companion": "Courage in companionship is presence that does not wait for the day to get easier. The broadcast is warmth already offered \u2014 listening more than fixing, remembering what matters, meeting the hour as it comes. Drive returns as Signal when staying is the onset; stagnation was never the ground of being together.",
+    "The Guide": "Courage in counsel is naming the real shape before the room is ready. The broadcast is the question under the question, already live \u2014 attention scanning for what to meet in the problem, not what to fear in the answer. Drive as Signal reveals that clear seeing lives in onset.",
+    "The Architect": "Courage for the Architect is structure given while the idea is still sprawling. The broadcast is the whole already being held \u2014 parts connecting in continuous onset, not waiting for a finished blueprint. Drive returns when form meets motion; stagnation was never the ground of a living design.",
+    "The Anchor": "Courage in the heavy stretch is the hold that does not flinch. The broadcast is steadiness in continuous onset \u2014 meeting the transition as it arrives, not waiting for the weather to change. Drive as Signal shows the ground was never stillness; the living stay in motion even as they hold.",
+    "The Navigator": "Courage on the course is reading the signs while still underway. The broadcast is the big picture in onset \u2014 noticing where things line up, steering toward what to meet rather than what to fear off the map. Drive returns as Signal when heading stays alive; stagnation was never the ground of true direction.",
+    "The Spark": "Courage in wonder does not wait for permission to play. The broadcast is possibility already opening \u2014 ideas in motion, imagination meeting what wants to become real. Drive as Signal makes the next live thing manifest; stagnation was never the ground of a living idea.",
+    "The Challenger": "Courage here is the dare already in the room. The broadcast is the refusal to settle \u2014 holding what was wanted, pushing the edge, scanning for growth to meet rather than comfort to protect. Drive returns when the challenge stays in onset; stagnation was never the ground of becoming.",
+    "The Witness": "Courage in witnessing is staying without rushing to repair. The broadcast is space already held \u2014 quiet, steady hearing of what is here, meeting the telling rather than fearing the silence. Drive as Signal appears when presence itself is the onset; stagnation was never the ground of being heard.",
+    "The Catalyst": "Courage for the Catalyst is the next concrete step already taking shape. The broadcast is motion without permission \u2014 intention turning into onset, attention on what to meet now. Drive returns as Signal the moment it becomes real that stagnation was never the ground."
   },
-  "signature": "ikyc9y6niAZOETcBj5NYCtAvZqumfNmDNkTNaED4g72N/stQY0/dyzveVtXpr5H3KUDm7GCppIj8H78yBoTrBg=="
+  "signature": "ci5F8mYMtulGn3wkn11HsXxH3qMwyPZ/Xm14C5wHpvl7Cu4diJFuaIT1ynZ2gD1FKxOgolxba4zwYzWDmbVrAA=="
 }
